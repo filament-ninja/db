@@ -1,0 +1,31 @@
+name: Elegoo PLA
+material: PLA
+vendor: elegoo
+variants:
+
+  - fid: jief9
+    name: Black
+    color:
+      hex: '#282929'
+    images:
+      - url: https://image.alza.cz/products/ELEPD2205/ELEPD2205.jpg?width=2000&height=2000
+    sizes:
+      '1.75mm/1000g': {}
+
+  - fid: ohwi2
+    name: Grey
+    color:
+      hex: '#B5B7B8'
+    images:
+      - url: https://image.alza.cz/products/ELEPD220605/ELEPD220605.jpg?width=2000&height=2000
+    sizes:
+      '1.75mm/1000g': {}
+
+  - fid: eigh2
+    name: White
+    color:
+      hex: '#E0E7F0'
+    images:
+      - url: https://image.alza.cz/products/ELEPD2206/ELEPD2206.jpg?width=2000&height=2000
+    sizes:
+      '1.75mm/1000g': {}

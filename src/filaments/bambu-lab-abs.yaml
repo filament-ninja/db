@@ -1,0 +1,107 @@
+name: Bambu Lab ABS
+material: ABS
+vendor: bambu-lab
+
+variants:
+  - fid: chu6m
+    name: Silver
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/ABSsilver.png?v=1735869590
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=46841277022556
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=49503790596444
+  - fid: boo0i
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/products/ABS_Black.png?v=1735869590
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=46963744145756
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=42917259051227
+  - fid: wooj1
+    name: White
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/products/ABS_White.png?v=1735869590
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=46963746046300
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=42917259083995
+  - fid: eik0p
+    name: Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/products/ABS_Red.png?v=1735869590
+    sizes:
+      1.75mm/1000g: {}
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=42917259116763
+  - fid: ohz0c
+    name: Bambu Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/ABSbambugreen.png?v=1735869590
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=48953688850780
+  - fid: gaed2
+    name: Orange
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/ABSorange.png?v=1735869590
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=48953684394332
+  - fid: koh2n
+    name: Navy Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/0be9a584b30358020d8706f2aa8ec9c2.jpg?v=1735869563
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=49130708009308
+  - fid: uth9i
+    name: Tangerine Yellow
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/7376d19b161f2a93a4051e47289d0505.jpg?v=1735869563
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=49130709418332
+  - fid: ag8no
+    name: Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/products/ABS_Blue.png?v=1735869563
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=42917259182299
+  - fid: dah8g
+    name: Olive
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/80cf6768c03d129dfa6a01ac67a5b402.jpg?v=1735869563
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=49037506216284
+  - fid: ak5ku
+    name: Azure
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/000878ce6144c05ffac949f66b05a18b.jpg?v=1735869563
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/abs-filament?variant=49130708730204

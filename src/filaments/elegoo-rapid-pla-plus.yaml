@@ -1,0 +1,75 @@
+name: Elegoo Rapid PLA+
+material: PLA
+vendor: elegoo
+link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+variants:
+
+  - fid: me6ei
+    name: Black
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233510676
+
+  - fid: sho7a
+    name: White
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233543444
+
+  - fid: um6oh
+    name: Yellow
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233903892
+
+  - fid: ith9u
+    name: Grey
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233608980
+
+  - fid: dae8v
+    name: Red
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233805588
+
+  - fid: ber2x
+    name: Blue
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233740052
+
+  - fid: le5ae
+    name: Green
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233674516
+  
+  - fid: xahm7
+    name: Orange
+    color:
+      hex: '#CC6A30'
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233969428
+    refs:
+      filamentcolors: elegoo-orange-pla-3399
+
+  - fid: ui0do
+    name: Silver
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48565524398356
+
+  - fid: aer8a
+    name: Beige
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684502292
+  
+  - fid: sief6
+    name: Brown
+    sizes:
+      '1.75mm/1000g':
+        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684535060

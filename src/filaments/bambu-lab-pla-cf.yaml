@@ -1,0 +1,73 @@
+name: Bambu Lab PLA-CF
+material: PLA
+vendor: bambu-lab
+
+variants:
+  - fid: beeb6
+    name: Matcha Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/c0f99c4f6c04f5422dcd8db2da060392.png?v=1708912897
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=46797856342364
+  - fid: quoo6
+    name: Burgundy Red
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/a607d88492630a4fc0e1169570fcd150.png?v=1717494860
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=46702306230620
+  - fid: xeiw5
+    name: Jeans Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/5330081a75ef62e73afe0929195b72b8.png?v=1717491303
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=46702306263388
+  - fid: soo2u
+    name: Lava Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/83c1bc164a2861ecc083568a0b017ba0.png?v=1717491303
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=46702306296156
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=49238028845404
+  - fid: phik2
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA-CFBlack.jpg?v=1717491303
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=43944001994971
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=49200517448028
+  - fid: iv6ee
+    name: Royal Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PLA-CFRoyalBlue.png?v=1717491303
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=47068316565852
+  - fid: moo9p
+    name: Iris Purple
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PLA-CFIrisPurple.png?v=1717491303
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-cf?variant=47068316598620

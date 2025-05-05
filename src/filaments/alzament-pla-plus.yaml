@@ -1,0 +1,25 @@
+name: Alzament PLA+
+material: PLA
+vendor: alza-cz
+diameterTolerance: 0.02
+printParams:
+  nozzleTemp: 190-220
+  bedTemp: 45
+
+variants:
+
+  - fid: tagh6
+    name: Black
+    color:
+      hexEstimate: '#101010'
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-1kg-black-d12717991.htm
+
+  - fid: xei5u
+    name: White
+    color:
+      hexEstimate: '#D1CFD5'
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-1kg-white-d12717987.htm

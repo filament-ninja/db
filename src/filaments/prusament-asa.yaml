@@ -1,0 +1,99 @@
+name: Prusament ASA
+material: ASA
+vendor: prusa-research
+datasheet: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-prusament-prod/2024/05/bc8551ef-tds_prusament-asa_2024_en.pdf
+refs:
+  web: https://prusament.com/materials/prusament-asa/
+
+printParams:
+  nozzleTemp: 255-265
+  bedTemp: 105-115
+  fanSpeed: 30
+
+variants:
+  
+  - fid: sie5o
+    name: Jet Black
+    color:
+      hex: '#24292A'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/2657.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-jet-black-850g/
+  
+  - fid: ohsh4
+    name: Natural
+    color:
+      hex: '#DFDFD3'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/2658.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-natural-850g/
+  
+  - fid: su9an
+    name: Galaxy Black
+    color:
+      hex: '#3D3E3D'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/2659.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-prusa-galaxy-black-850g/
+  
+  - fid: kith0
+    name: Prusa Orange
+    color:
+      hex: '#EA5E1A'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/2661.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-prusa-orange-850g/
+  
+  - fid: eequ3
+    name: Signal White
+    color:
+      hex: '#E3DFD9'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/2660.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-signal-white-850g/
+  
+  - fid: ooch2
+    name: Sapphire Blue
+    color:
+      hex: '#3B4468'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/3525.jpg
+      - url: https://www.prusa3d.com/content/images/product/3535.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-sapphire-blue-850g/
+  
+  - fid: pe3sh
+    name: Lipstick Red
+    color:
+      hex: '#D02F37'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/3528.jpg
+      - url: https://www.prusa3d.com/content/images/product/3534.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-lipstick-red-850g/
+  
+  - fid: lu7ze
+    name: Prusa Pro Green
+    color:
+      hexEstimate: '#43CE9B'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/4e7691f4-4840-4163-a875-0b5d243ca8a1.jpg
+      - url: https://www.prusa3d.com/content/images/product/b4afff56-5d7a-42a7-995b-3d935ddead2b.jpg
+      - url: https://www.prusa3d.com/content/images/product/877e8848-0f4b-48e0-9f61-f47a8b455689.jpg
+      - url: https://www.prusa3d.com/content/images/product/0adca0d3-5604-42b4-9d81-d9fffa07db6c.jpg
+      - url: https://www.prusa3d.com/content/images/product/67336ccc-e109-4fb6-a69e-d19d4d8d9f76.jpg
+    sizes:
+      1.75mm/850g:
+        link: https://www.prusa3d.com/product/prusament-asa-prusa-pro-green-850g/

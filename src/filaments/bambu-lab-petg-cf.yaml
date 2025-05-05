@@ -1,0 +1,58 @@
+name: Bambu Lab PETG-CF
+material: PETG
+vendor: bambu-lab
+
+variants:
+  - fid: gov7a
+    name: Violet Purple
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETG-CFpurp_37ad5532-5d64-4eb9-90b0-d183f2511e9e.png?v=1701418958
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=46935828267356
+  - fid: dae6w
+    name: Malachite Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG-CFgreen.png?v=1710836919
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=46935828365660
+  - fid: ugh5o
+    name: Indigo Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG-CFblue.png?v=1710836919
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=46935828332892
+  - fid: duu2o
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG-CF.png?v=1710836919
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=43982559412443
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=49238020686172
+  - fid: in8th
+    name: 'Titan Gray '
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/20231023-105314.png?v=1701418958
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=47228683714908
+  - fid: oob8w
+    name: Brick Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG-CFred.png?v=1710836919
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-cf?variant=46935828300124

@@ -1,0 +1,29 @@
+name: Creality Ender PLA
+material: PLA
+vendor: creality
+diameterTolerance: 0.03
+printParams:
+  nozzleTemp: 195-220
+
+
+variants:
+
+  - fid: aeh5l
+    name: White
+    color:
+      hex: '#E1DFD0'
+    images:
+      - url: https://image.alza.cz/products/CRFE_02/CRFE_02.jpg?width=2000&height=2000
+    sizes:
+      '1.75mm/1000g': {}
+    refs:
+      filamentcolors: creality-white-pla-3934
+
+  - fid: ooth5
+    name: Black
+    color:
+      hexEstimate: '#1F2023'
+    images:
+      - url: https://image.alza.cz/products/CRFE_01/CRFE_01.jpg?width=2000&height=2000
+    sizes:
+      '1.75mm/1000g': {}

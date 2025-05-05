@@ -1,0 +1,59 @@
+name: Alzament Basic PLA
+material: PLA
+vendor: alza-cz
+diameterTolerance: 0.02
+printParams:
+  nozzleTemp: 190-220
+  bedTemp: 45
+
+variants:
+
+  - fid: ipha0
+    name: Black
+    color:
+      hexEstimate: '#0F0F0F'
+    images:
+      - url: https://image.alza.cz/products/ALZMNTB01/ALZMNTB01.jpg?width=2000&height=2000
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-basic-1kg-black-d12717998.htm
+
+  - fid: ki6ek
+    name: White
+    color:
+      hexEstimate: '#D1D1D1'
+    images:
+      - url: https://image.alza.cz/products/ALZMNTB02/ALZMNTB02.jpg?width=2000&height=2000
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-basic-1kg-white-d12717999.htm
+
+  - fid: iik2l
+    name: Red
+    color:
+      hexEstimate: '#D41414'
+    images:
+      - url: https://image.alza.cz/products/ALZMNTB03/ALZMNTB03.jpg?width=2000&height=2000
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-basic-1kg-red-d12718000.htm
+  
+  - fid: quar9
+    name: Yellow
+    color:
+      hexEstimate: '#E5C511'
+    images:
+      - url: https://image.alza.cz/products/ALZMNTB05/ALZMNTB05.jpg?width=2000&height=2000
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-basic-1kg-yellow-d12717994.htm
+
+  - fid: ce9ie
+    name: Blue
+    color:
+      hexEstimate: '#1B2996'
+    images:
+      - url: https://image.alza.cz/products/ALZMNTB04/ALZMNTB04.jpg?width=2000&height=2000
+    sizes:
+      1.75mm/1000g:
+        link: https://www.alza.cz/alzament-pla-basic-1kg-blue-d12717992.htm

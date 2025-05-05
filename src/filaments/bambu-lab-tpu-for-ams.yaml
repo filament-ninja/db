@@ -1,0 +1,67 @@
+name: Bambu Lab TPU for AMS
+material: TPU
+vendor: bambu-lab
+
+variants:
+  - fid: fee2e
+    name: Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/d4fb1dd751904e1ea09d142c68d7ec36.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837255004
+  - fid: aeg2o
+    name: Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/1_5375ac46-09e0-4b5e-b708-89c44a7ac151.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837353308
+  - fid: iz4ph
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/7.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837386076
+  - fid: oy4gi
+    name: Yellow
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/3_ceb63b89-77a8-4055-a4fa-5aad0dda7d0e.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837222236
+  - fid: xai8g
+    name: Red
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/2_907c4fb7-2389-4459-9751-ee8dbcf01b1d.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837189468
+  - fid: oigh3
+    name: Neon Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/5_edbdfcc8-87bc-446a-ac5d-0693f01cb177.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837287772
+  - fid: dahc9
+    name: White
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/4_74fce0cf-2101-4222-8582-53a2ed58dad4.jpg?v=1738741086
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/tpu-for-ams?variant=53421837320540

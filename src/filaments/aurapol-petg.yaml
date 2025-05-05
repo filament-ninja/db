@@ -1,0 +1,174 @@
+name: Aurapol PETG
+material: PETG
+vendor: aurapol
+diameterTolerance: 0.02
+printParams:
+  nozzleTemp: 245-255
+  bedTemp: 85-95
+
+variants:
+
+  - fid: mohy9
+    name: Bright Orange
+    color:
+      ral: RAL2007
+    images:
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/f/0/f08b2cb1a99448aaca88f38b4f64cab6-orange-bright-petg-ral2007.png
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/2/b/2bfa24faddfd907bb6289db8c87ec47a-orange-bright-petg-2.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/cz/p/pet-g-filament-jasne-oranzova-1-kg-1-75-mm-aurapol
+
+  - fid: pee1z
+    name: Signal Blue
+    color:
+      ral: RAL5005
+    images:
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/7/7/7724b121c324bc2bb1a66c9e614b9139-blue-signal-petg-ral.png
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/e/2/e21324557f9dcbf179d00b68d772d510-blue-signal-petg-2.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-blue-1-kg-1-75-mm-aurapol
+  
+  - fid: ech8c
+    name: Signal Grey
+    color:
+      ral: RAL7004
+    images:
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/8/2/8240d8c2fbef8c94542e55d7b92180df-grey-signal-petg-ral7004.png
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/8/b/8b669679e8cfab760b9d0c23fa09f7a6-grey-signal-petg-2.png
+    sizes:
+      1.75mm/1000g: {}
+      1.75mm/2500g:
+        link: https://www.aurapol.com/cz/p/aurapol-pet-g-filament-signalni-seda-2-5-kg-1-75-mm
+
+  - fid: ohng0
+    name: Natural Transparent
+    images:
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/e/6/e68b33d274a983df803e415fd1ec7b8f-natural-1-1-petg.png
+      - url: https://aurapol.s16.cdn-upgates.com/_cache/6/7/673a2dbf96183d3b6a5491c0ab4db26f-img-20200420-165008-1000x1000w.jpg
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pet-g-filament-natural-transparent-1-kg-1-75-mm-aurapol
+  
+  - fid: bof5t
+    name: White
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-white-1-kg-1-75-mm-aurapol
+  
+  - fid: shai8
+    name: Graphite Black
+    color:
+      ral: RAL9011
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-graphite-black-1-kg-1-75-mm-aurapol
+  
+  - fid: kai6c
+    name: Nuclear Orange
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-nuclear-orange-1-kg-1-75-mm
+  
+  - fid: bed9m
+    name: Traffic Red
+    color:
+      ral: RAL3020
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-traffic-red-1-kg-1-75-mm-aurapol
+
+  - fid: oiz7j
+    name: Sulfur Yellow
+    color:
+      ral: RAL1016
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-sulfur-yellow-1-kg-1-75-mm-aurapol
+  
+  - fid: oosh7
+    name: Ultramarine Blue Transparent
+    color:
+      ral: RAL5002
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-ultramarine-blue-transparent-1-kg-1-75-mm-aurapol
+  
+  - fid: ef7qu
+    name: Green Mint
+    color:
+      ral: RAL6029
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-green-mint-1-kg-1-75-mm-aurapol
+  
+  - fid: yi9oo
+    name: Cobby Brown
+    color:
+      ral: RAL8004
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-copper-brown-1-kg-1-75-mm
+  
+  - fid: tah1i
+    name: Silver
+    color:
+      ral: RAL9006
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pet-g-filament-silver-1-kg-1-75-mm-aurapol
+  
+  - fid: baif9
+    name: Machine Blue
+    color:
+      ral: RAL5021
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-machine-blue-1-kg-1-75-mm
+
+  - fid: eing0
+    name: Park-side
+    color:
+      ral: RAL6005
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-park-side-1-kg-1-75-mm
+  
+  - fid: ih4th
+    name: Army Highland Green
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-army-highland-green-1-kg-1-75-mm
+    
+  - fid: mai2b
+    name: Army Desert Storm
+    color:
+      ral: RAL1019
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-army-desert-storm-1-kg-1-75-mm
+  
+  - fid: choh7
+    name: Army Panzer Grau
+    color:
+      ral: RAL7016
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-army-panzer-grau-1-kg-1-75-mm
+
+  - fid: poh0j
+    name: Army Sand Storm
+    color:
+      ral: RAL7034
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-army-sand-storm-1-kg-1-75-mm
+  
+  - fid: ahf0x
+    name: Army Survival Grey
+    color:
+      ral: RAL7013
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pet-g-filament-army-survival-grey-1-kg-1-75-mm

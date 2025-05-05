@@ -1,0 +1,110 @@
+name: Bambu Lab PLA Silk+
+material: PLA
+vendor: bambu-lab
+
+variants:
+  - fid: yak8a
+    name: Titan Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/cf2723db072c4371b3606938b8cccdb9.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205925212
+  - fid: me4xa
+    name: Rose Gold
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_10.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205957980
+  - fid: ooc6x
+    name: Baby Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_7.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583206023516
+  - fid: ge0qu
+    name: Champagne
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_3.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205990748
+  - fid: yae5x
+    name: Mint
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_2.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205892444
+  - fid: gein5
+    name: Candy Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_5.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205663068
+  - fid: aeng7
+    name: Candy Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_12.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205630300
+  - fid: eem5u
+    name: Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_4.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205695836
+  - fid: ir7lo
+    name: Purple
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_9.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205728604
+  - fid: zai0u
+    name: Pink
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_1.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205761372
+  - fid: loo2e
+    name: White
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_6.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205794140
+  - fid: toaj1
+    name: Silver
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_11.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205826908
+  - fid: pe7oh
+    name: Gold
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLA_Silk_8.jpg?v=1742804031
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-silk-upgrade?variant=53583205859676

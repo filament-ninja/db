@@ -1,0 +1,155 @@
+name: Prusament PETG
+material: PETG
+vendor: prusa-research
+datasheet: https://www.prusa3d.com/file/1566978/prusament-petg-technical-data-sheet.pdf
+diameterTolerance: 0.02
+refs:
+  web: https://prusament.com/materials/prusament-petg/
+
+printParams:
+  nozzleTemp: 240-260
+  bedTemp: 70-90
+  printSpeedMax: 200
+  fanSpeed: 50
+
+variants:
+
+  - fid: nai6h
+    name: Prusa Orange
+    color:
+      hex: '#ea5e1a'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/761.jpg
+      - url: https://www.prusa3d.com/content/images/product/762.jpg
+      - url: https://www.prusa3d.com/content/images/product/763.jpg
+      - url: https://www.prusa3d.com/content/images/product/764.jpg
+      - url: https://www.prusa3d.com/content/images/product/765.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-prusa-orange-1kg/
+    refs:
+      filamentcolors: prusa-research-prusa-orange-petg-378
+
+  - fid: ue4ci
+    name: Jet Black
+    color:
+      hex: '#24292a'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/767.jpg
+      - url: https://www.prusa3d.com/content/images/product/769.jpg
+      - url: https://www.prusa3d.com/content/images/product/770.jpg
+    sizes: 
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-jet-black-1kg/
+      '1.75mm/2000g':
+        link: https://www.prusa3d.com/product/prusament-petg-jet-black-2kg/
+    refs:
+      filamentcolors: prusa-research-jet-black-petg-509
+
+  - fid: ich9m
+    name: Urban Grey
+    color:
+      hex: '#999596'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/788.jpg
+      - url: https://www.prusa3d.com/content/images/product/789.jpg
+      - url: https://www.prusa3d.com/content/images/product/790.jpg
+      - url: https://www.prusa3d.com/content/images/product/793.jpg
+      - url: https://www.prusa3d.com/content/images/product/794.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-urban-grey-1kg/
+  
+  - fid: ki6oo
+    name: Pistachio Green
+    color:
+      hex: '#93A683'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/901.jpg
+      - url: https://www.prusa3d.com/content/images/product/902.jpg
+      - url: https://www.prusa3d.com/content/images/product/903.jpg
+      - url: https://www.prusa3d.com/content/images/product/904.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-pistachio-green-1kg/
+
+  - fid: ahth1
+    name: Mango Yellow
+    color:
+      hex: '#F2B70A'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/920.jpg
+      - url: https://www.prusa3d.com/content/images/product/921.jpg
+      - url: https://www.prusa3d.com/content/images/product/922.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-mango-yellow-1kg/
+  
+  - fid: bohf9
+    name: Chalky Blue
+    color:
+      hex: '#6F9AAA'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/913.jpg
+      - url: https://www.prusa3d.com/content/images/product/914.jpg
+      - url: https://www.prusa3d.com/content/images/product/915.jpg
+      - url: https://www.prusa3d.com/content/images/product/916.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-chalky-blue-1kg/
+  
+  - fid: hiil8
+    name: Galaxy Black
+    color:
+      hex: '#3D3E3D'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/5789.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-prusa-galaxy-black-1kg/
+
+  - fid: ohj2e
+    name: Terracotta Light
+    color:
+      hex: '#B87F6A'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/906.jpg
+      - url: https://www.prusa3d.com/content/images/product/907.jpg
+      - url: https://www.prusa3d.com/content/images/product/908.jpg
+      - url: https://www.prusa3d.com/content/images/product/909.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-terracotta-light-1kg/
+    refs:
+      filamentcolors: prusa-research-terracotta-light-petg-1851
+  
+  - fid: amih0
+    name: Prusa Pro Green
+    color:
+      hexEstimate: '#64D9AC'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/506e6d0b-8c95-4541-bebc-8b6bce599807.jpg
+      - url: https://www.prusa3d.com/content/images/product/3eb934bc-b284-4e9d-be04-90dd2b8acecc.jpg
+      - url: https://www.prusa3d.com/content/images/product/ad7adef8-b692-4515-9a53-5e6499fbf0c3.jpg
+      - url: https://www.prusa3d.com/content/images/product/9fb1637d-6e6b-47f4-9055-2c5e5d7a7e8c.jpg
+      - url: https://www.prusa3d.com/content/images/product/7adefa88-230f-4395-831e-51e8d79e04fd.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-prusa-pro-green-1kg/
+  
+  - fid: evia8
+    name: Ocean Blue
+    color:
+      hex: '#194C55'
+    images:
+      - url: https://www.prusa3d.com/content/images/product/930.jpg
+      - url: https://www.prusa3d.com/content/images/product/64c89b13-3533-4c6c-b835-2f13f7aa21d0.jpg
+      - url: https://www.prusa3d.com/content/images/product/bcf72a58-93b1-42e6-9a65-ed6d8f30f55e.jpg
+      - url: https://www.prusa3d.com/content/images/product/4bf81efd-e701-49eb-9b3a-6a14d6bf4f08.jpg
+      - url: https://www.prusa3d.com/content/images/product/d89ef2c7-1683-4340-951e-565c7ebc4b8b.jpg
+      - url: https://www.prusa3d.com/content/images/product/6be02338-4013-4ec8-a9f0-9c028e014d45.jpg
+    sizes:
+      '1.75mm/1000g':
+        link: https://www.prusa3d.com/product/prusament-petg-ocean-blue-1kg/
+    refs:
+      filamentcolors: prusa-research-ocean-blue-petg-1339

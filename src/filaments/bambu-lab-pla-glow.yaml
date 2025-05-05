@@ -1,0 +1,49 @@
+name: Bambu Lab PLA Glow
+material: PLA
+vendor: bambu-lab
+
+variants:
+  - fid: iewo5
+    name: Orange
+    images:
+      - url: >-
+          https://eu.store.bambulab.com/cdn/shop/files/e40cbbf6e7fed96557d8e2be99e4b9cf_874f9392-3fe3-4c65-87cc-91b158674eb3_1800x1800.png?v=1741591652
+    sizes:
+      1.75mm/1000g:
+        link: https://eu.store.bambulab.com/en-cz/products/pla-glow
+  - fid: vie4e
+    name: Yellow
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/6fdaecdc33b9371fb7c326d4bd52932b.png?v=1741591652
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-glow?variant=47396823662940
+  - fid: vah2c
+    name: Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/4fefbcd44633bcd5e4f4663eafb78c3c_cb3f9dbb-235b-4e7d-83ab-6cbecb7aa5bf.png?v=1741591652
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-glow?variant=47396823597404
+  - fid: phoh6
+    name: Pink
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/5d4ad98b7e6fd7642323ef49163d8697_0f3e6424-4115-4337-952a-bedfc997a747.png?v=1741320466
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-glow?variant=47396823630172
+  - fid: bai5d
+    name: Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/697ef5c2066bf49f4df46a227b1a93c1_7e4c0733-bbcc-4258-9a3f-7d178fb91191.png?v=1741320466
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-glow?variant=47396823564636

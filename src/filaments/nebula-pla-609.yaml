@@ -1,0 +1,11 @@
+name: Nebula PLA 609 HD
+material: PLA
+vendor: nebula-filaments
+refs:
+  web: https://nebulafilaments.com/en/product-line/tech/pla-609-hd
+variants:
+
+  - fid: ce6ch
+    name: Black
+    sizes:
+      '1.75mm/1000g': {}

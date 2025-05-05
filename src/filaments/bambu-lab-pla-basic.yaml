@@ -1,0 +1,304 @@
+name: Bambu Lab PLA Basic
+material: PLA
+vendor: bambu-lab
+
+variants:
+
+  - fid: iu7ga
+    name: Jade White
+    color:
+      hex: '#FFFFFF'
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/White.jpg?v=1736242873
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=43992829919451
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911327846619
+  - fid: xiez7
+    name: Bambu Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Bambu_Green.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=46673378607452
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794655461724
+  - fid: aeb6o
+    name: Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Red.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=43992829952219
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328239835
+  - fid: me7ih
+    name: Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLABasicBlue.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=46738546622812
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911327912155
+  - fid: cei2a
+    name: Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Basic_Gray.png?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=46956524241244
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911327944923
+  - fid: aa3ie
+    name: Black
+    color:
+      hex: '#000000'
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Basic_Black_29c482c8-ccd6-4559-bf2b-058f7d0d798f.png?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=43992830017755
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=43923829129435
+  - fid: aigh4
+    name: Sunflower Yellow
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/SunflowerYellow.jpg?v=1736242873
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=53951741002076
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636014031196
+  - fid: za6ee
+    name: Indigo Purple
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/IndigoPurple.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=53951741821276
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636021436764
+  - fid: aeb6u
+    name: Hot Pink
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/HotPink.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=53951742509404
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636028285276
+  - fid: aep5g
+    name: Pumpkin Orange
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PumpkinOrange.jpg?v=1738745357
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=53951744213340
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636029530460
+  - fid: eev2o
+    name: Cocoa Brown
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/CocoaBrown.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=53951748702556
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636027236700
+  - fid: yoo5o
+    name: MistletoeGreen
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/2df013fd41a034aa180c1c5f641ef9c4.png?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=54004770537820
+  - fid: uch4e
+    name: Cyan
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/CMYK-Cyan-1_e332b67e-db4e-4f11-b05e-196bcf7dcad7.png?v=1737095626
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=54004785217884
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794657329500
+  - fid: fai4t
+    name: Beige
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Beige.jpg?v=1736242873
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911327977691
+  - fid: aen1b
+    name: Light Gray
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/plalightgray.jpg?v=1736242873
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49299256148316
+  - fid: ohgh4
+    name: Yellow
+    color:
+      hex: '#F4EE2A'
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Yellow.jpg?v=1736242873
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328043227
+  - fid: tah9n
+    name: Gold
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Gold.jpg?v=1738745357
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794656706908
+  - fid: ang6i
+    name: Orange
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Orange.jpg?v=1738745357
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911327879387
+  - fid: ii9ta
+    name: Bright Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/BrightGreen.jpg?v=1736242932
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636024353116
+  - fid: sai6a
+    name: Mistletoe Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/2df013fd41a034aa180c1c5f641ef9c4.png?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794656477532
+  - fid: ree0h
+    name: Pink
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Pink.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328141531
+  - fid: ae6oh
+    name: Magenta
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Magenta.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794655068508
+  - fid: ka3ei
+    name: Maroon Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/MaroonRed.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636008395100
+  - fid: iil9z
+    name: Purple
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PLAPurple.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794657362268
+  - fid: uu1it
+    name: Turquoise
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Turquoise.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636016783708
+  - fid: zi6sh
+    name: Cobalt Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/CobaltBlue.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49636029006172
+  - fid: ka9te
+    name: Brown
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Basic_Brown.png?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328207067
+  - fid: je2zi
+    name: Bronze
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Bronze.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=47794655101276
+  - fid: eith6
+    name: Silver
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/Sliver.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328010459
+  - fid: aic6f
+    name: Blue Grey
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Basic_Blue-Gray.png?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=42911328075995
+  - fid: eed1v
+    name: Dark Gray
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/pladarkgray.jpg?v=1737095626
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/collections/bambu-lab-3d-printer-filament/products/pla-basic-filament?variant=49299261423964

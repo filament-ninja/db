@@ -1,0 +1,237 @@
+name: Nebula PLA
+material: PLA
+vendor: nebula-filaments
+datasheet: https://api.nebulafilaments.com/wp-content/uploads/2024/12/TDS-PLA.pdf
+printParams:
+  nozzleTemp: 190-240
+  bedTemp: 0-60
+  fanSpeed: 70-100
+
+refs:
+  web: https://nebulafilaments.com/en/product-line/premium/pla
+variants:
+
+  - fid: hai2a
+    name: Natural
+    sizes:
+      '1.75mm/1000g': {}
+      '1.75mm/3000g': {}
+  - fid: bo8fe
+    name: Beige
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: vee5i
+    name: Orange Fluo
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: wah9o
+    name: Green Fluo
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: biem7
+    name: Red Fluo
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: kav1i
+    name: Yellow Fluo
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: shai8
+    name: Galaxy Cobalt
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: tie6e
+    name: Bright Green
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ahf1j
+    name: Carbon Black
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ou9ie
+    name: Metalic Silver
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: roo5x
+    name: Metalic Black
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ohv4o
+    name: Latte Beige
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: jei0a
+    name: Lavender Field
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: cahv6
+    name: Lolipop Pink
+    images:
+      - url: https://nebulafilaments.com/_next/image?url=https%3A%2F%2Fapi.nebulafilaments.com%2Fwp-content%2Fuploads%2F2024%2F12%2FDSC09225.jpg&w=750&q=75
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: oth7i
+    name: Mystic Green
+    sizes:
+      '1.75mm/1000g': {}
+      '1.75mm/3000g': {}
+  - fid: boo7v
+    name: Fancy Gray
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: kie1i
+    name: Copper
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: kegh7
+    name: Blue Sky
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ood0a
+    name: Nautical Blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: gee8i
+    name: Orange
+    images:
+      - url: https://nebulafilaments.com/_next/image?url=https%3A%2F%2Fapi.nebulafilaments.com%2Fwp-content%2Fuploads%2F2024%2F12%2FDSC09027.jpg&w=750&q=75
+    sizes:
+      '1.75mm/1000g': {}
+      '1.75mm/3000g': {}
+  - fid: xu6ed
+    name: Pearl Silver
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: pe6hi
+    name: Green Pistachio
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: aib7w
+    name: Glamour Rose
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: pei2z
+    name: Satin Rose
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: eig6u
+    name: lemon
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: wei7r
+    name: blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: quei0
+    name: pink
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: kae9r
+    name: light green
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: iec7t
+    name: dark blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: daiz9
+    name: green
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: aiz8u
+    name: soft red
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: poox2
+    name: liliac violet
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: eh7ie
+    name: Sunny Yellow
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: joo7i
+    name: Old Gold
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: fa4ja
+    name: Glowing Blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: yie2i
+    name: Light Blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ui3em
+    name: Light Green
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: aig0y
+    name: Thermo Blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: um2te
+    name: Thermo Red
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: noo9p
+    name: Dark Blue
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: lae0w
+    name: Green Grass
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: lahz6
+    name: Military Green
+    sizes:
+      '1.75mm/1000g': {}
+      '1.75mm/3000g': {}
+  - fid: iel8o
+    name: Glorious Anthracite
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: uqu3i
+    name: Pumpking Orange
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: oeh8u
+    name: majestic gold
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: piaz7
+    name: marble gray
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: aig8i
+    name: Mountain Fuchsia
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: ixeo1
+    name: Gold
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: igh2z
+    name: Fresh Green
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: qui6d
+    name: Red
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: aib9e
+    name: Pure White
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: xo3ja
+    name: Chocolate Brown
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: euth3
+    name: Liliac Violet
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: qua9s
+    name: Plum
+    sizes:
+      '1.75mm/1000g': {}

@@ -1,0 +1,14 @@
+name: Nebula PLA 607
+material: PLA
+vendor: nebula-filaments
+refs:
+  web: https://nebulafilaments.com/en/product-line/tech/pla-607
+variants:
+  - fid: yae8s
+    name: Orange
+    sizes:
+      '1.75mm/1000g': {}
+  - fid: heep4
+    name: Black
+    sizes:
+      '1.75mm/1000g': {}

@@ -1,0 +1,139 @@
+name: Bambu Lab PETG HF
+material: PETG
+vendor: bambu-lab
+
+variants:
+  - fid: shai4
+    name: Red
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/5_87e53b22-3a47-4e93-adce-7f40106815c0.jpg?v=1721201484
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714721628
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714557788
+  - fid: tu8ev
+    name: Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_5.jpg?v=1721201478
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714819932
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714656092
+  - fid: iew4i
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_6.jpg?v=1721201479
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714754396
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714590556
+  - fid: dahp7
+    name: White
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_7.jpg?v=1721201479
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714787164
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714623324
+  - fid: choo4
+    name: Gray
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_1.jpg?v=1721201479
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714852700
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714688860
+  - fid: deo1u
+    name: Yellow
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_2.jpg?v=1721201478
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714459484
+  - fid: aed0o
+    name: Orange
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_4.jpg?v=1721201479
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714492252
+  - fid: hai5y
+    name: Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/PETG_HF_3.jpg?v=1721201478
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49068714525020
+  - fid: xu5sh
+    name: Forest Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_6.jpg?v=1728360455
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503341511004
+  - fid: voh6e
+    name: Peanut Brown
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_1.jpg?v=1728360454
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503342625116
+  - fid: baod8
+    name: Dark Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_3.jpg?v=1728360454
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503342920028
+  - fid: dohx2
+    name: Cream
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_5.jpg?v=1728360455
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503344034140
+  - fid: iepe9
+    name: Lime Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_4.jpg?v=1728360454
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503344427356
+  - fid: choo4
+    name: Lake Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PETGHFNEWCOLOR_2.jpg?v=1728360454
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-hf?variant=49503345246556

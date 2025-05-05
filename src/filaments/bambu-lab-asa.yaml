@@ -1,0 +1,52 @@
+name: Bambu Lab ASA
+material: ASA
+vendor: bambu-lab
+
+variants:
+  - fid: iex4t
+    name: Green
+    images:
+      - url: https://eu.store.bambulab.com/cdn/shop/files/ab6743fac3b96abc3a53833a12993981_1400x.png?v=1741591687
+    sizes:
+      1.75mm/1000g:
+        link: https://eu.store.bambulab.com/en-cz/products/asa-filament
+  - fid: ee5ni
+    name: Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/RED.png?v=1741591687
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/asa-filament?variant=46930444288348
+  - fid: aiz1x
+    name: Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/ASABlue.jpg?v=1741591687
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/asa-filament?variant=46930444321116
+  - fid: thoo0
+    name: White
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/white.png?v=1741591687
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/asa-filament?variant=46930444353884
+  - fid: ahh3u
+    name: Gray
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/gray.png?v=1741320571
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/asa-filament?variant=46930444255580
+  - fid: mu5os
+    name: Black
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/black.png?v=1741320571
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/asa-filament?variant=46930444222812

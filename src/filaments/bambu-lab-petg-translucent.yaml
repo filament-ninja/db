@@ -1,0 +1,88 @@
+name: Bambu Lab PETG Translucent
+material: PETG
+vendor: bambu-lab
+
+variants:
+  - fid: lu9ue
+    name: Translucent Teal
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/JP34951_dfb10fec-368d-47a7-8bd8-bb506498a9bd.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=47502089290076
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49074122162524
+  - fid: vai4c
+    name: Translucent Light Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34971.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=47502089191772
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49192018149724
+  - fid: uodu9
+    name: Clear
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/3d4408c8738e6ed420e7e514a97a8bf9.png?v=1714027739
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=48055896047964
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=48786708922716
+  - fid: ahqu1
+    name: Translucent Pink
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34961.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49074123145564
+  - fid: ei7ai
+    name: Translucent Olive
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34954.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49130705977692
+  - fid: ha3do
+    name: Translucent Orange
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34975.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49130706469212
+  - fid: gah0v
+    name: Translucent Purple
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34969.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49130706829660
+  - fid: oox3c
+    name: Translucent Brown
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34965.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49192019788124
+  - fid: hai6j
+    name: Translucent Gray
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/JP34968.jpg?v=1705040347
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/petg-translucent?variant=49271784472924

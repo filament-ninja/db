@@ -1,0 +1,23 @@
+name: Bambu Lab PLA Marble
+material: PLA
+vendor: bambu-lab
+
+variants:
+  - fid: azum9
+    name: Red Granite
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/A07-R5-1.75-1000-spl.jpg?v=1715324339
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-marble?variant=46756997333340
+  - fid: phu3i
+    name: White Marble
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Marble_White.png?v=1717464204
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-marble?variant=43964050964699

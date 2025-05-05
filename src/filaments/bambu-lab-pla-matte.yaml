@@ -1,0 +1,243 @@
+name: Bambu Lab PLA Matte
+material: PLA
+vendor: bambu-lab
+
+variants:
+  - fid: thi1v
+    name: Ivory White
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Ivory-White.png?v=1710931478
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=43992833229019
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742586587
+  - fid: uv5ai
+    name: Ash Grey
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Ash-Gray.png?v=1717491277
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=43992833327323
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742619355
+  - fid: so1ee
+    name: Mandarin Orange
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Mandarine-Orange.png?v=1717491277
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=46893218038108
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742652123
+  - fid: gu0ic
+    name: Marine Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Marine-Blue.png?v=1717491277
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=43992833360091
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996751073499
+  - fid: eech8
+    name: Scarlet Red
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Scarlet-Red.png?v=1717491277
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=43992833294555
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742848731
+  - fid: wegh8
+    name: Charcoal
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Charcoal.png?v=1717491277
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=43992833261787
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742750427
+  - fid: aab6a
+    name: Latte Brown
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Latte-Brown.png?v=1717494869
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742815963
+  - fid: noof3
+    name: Desert Tan
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/PLAMattedeserttan2.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=48612736401756
+  - fid: ahth2
+    name: Lemon Yellow
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Yellow.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742717659
+  - fid: ae0or
+    name: Sakura Pink
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Sakura-Pink.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742684891
+  - fid: zeej3
+    name: Grass Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Grass-Green.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742783195
+  - fid: oox8x
+    name: Ice Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Ice-Blue.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742881499
+  - fid: tie4a
+    name: Lilac purple
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/products/PLA-Matte_Lilac-Purple.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=42996742914267
+  - fid: ohz2b
+    name: Dark Red
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/plamattedark_1.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=47794659164508
+  - fid: augh4
+    name: Dark Brown
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/plamattedark_4.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=47794659426652
+  - fid: iec3a
+    name: Dark Green
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/plamattedark_2.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=47794659656028
+  - fid: ieng5
+    name: Dark Blue
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/plamattedark_3.png?v=1717491277
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=47794659688796
+  - fid: quia4
+    name: Bone White
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/7_890c24b1-12ea-47e1-908a-c8c8afb2b48c.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028607836
+  - fid: quah3
+    name: Plum
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/6_f72c2422-d7b7-4097-94a8-5d03ca276299.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028640604
+  - fid: yeem2
+    name: Sky Blue
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/4_98e0178d-1490-4ba4-81fb-a696a6a5714a.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028673372
+  - fid: ees8d
+    name: Apple Green
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/2_29663f78-0df7-4382-b6e7-01fc2bacf724.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028706140
+  - fid: viqu5
+    name: Dark Chocolate
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/3_aa1c9150-6090-4d99-80eb-94e08e1f0838.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028738908
+  - fid: tha7u
+    name: Caramel
+    images:
+      - url: //eu.store.bambulab.com/cdn/shop/files/8.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028771676
+  - fid: choo5
+    name: Terracotta
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/5_3f98d7f9-1567-41c1-93eb-af106f8c77a0.jpg?v=1738815754
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028804444
+  - fid: eohe3
+    name: Nardo Gray
+    images:
+      - url: >-
+          //eu.store.bambulab.com/cdn/shop/files/1_ea5b7083-7377-4995-bef2-6c066be034b2.jpg?v=1738815736
+    sizes:
+      1.75mm/1000g/refill:
+        link: >-
+          https://eu.store.bambulab.com/en-cz/products/pla-matte?variant=53926028837212

@@ -1,0 +1,17 @@
+{
+  "name": "static-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "ral-to-hex": "^0.0.0"
+  }
+}
