@@ -1,0 +1,54 @@
+name: Sunlu ABS
+material: ABS
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/products/over-6kg-bundle-sale-abs-filament-1kg-roll
+variants:
+  - fid: atie1
+    name: Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/1_42074be2-92cb-453a-803d-4ca3d9cc68a2.jpg?v=1739500377
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ABS-GY-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-abs-filament-1kg-roll?variant=50270854807834
+  - fid: ahx7y
+    name: Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/1_2de138c8-8cf3-4d2c-ae5b-82bad91a56ca.jpg?v=1739500377
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ABS-RD-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-abs-filament-1kg-roll?variant=50270855168282
+  - fid: shoo5
+    name: Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/1_11dc948d-f021-4dcd-87a6-55b2f3cc0cc8.jpg?v=1739500379
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ABS-BL-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-abs-filament-1kg-roll?variant=50270855495962
+  - fid: in3fe
+    name: Black
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/SUNLUABSFILAMENTBLACK.jpg?v=1724809050
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ABS-BK-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-abs-filament-1kg-roll?variant=44335511208218
+  - fid: ohm2u
+    name: White
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/SUNLUABSFILAMENTWHITE.jpg?v=1724809050
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ABS-WT-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-abs-filament-1kg-roll?variant=44335529001242

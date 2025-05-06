@@ -1,0 +1,369 @@
+name: Sunlu PLA+
+material: PLA
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll
+variants:
+  - fid: ci3th
+    name: Black
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/8b9cc7c9808a81fc8db0eaf67a4d79d7_759197c5-18fb-42e0-b824-6da534a14d9b.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-BK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136822554
+  - fid: neef4
+    name: White
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/d92e076f69cb1a6f81c9bab8cd8f57a2_a1838e81-0d51-4923-98ec-cc34263529fd.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-WT-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136855322
+  - fid: aev9o
+    name: Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/86d6b6668dd249b94188acb64812e4bf_cb4ddbf0-a581-4747-9069-36b0bb05dab4.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-GY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136888090
+  - fid: utoo9
+    name: Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/520f764beb1954cab793b251ed2a5a3f_983c6542-23ec-461d-86b7-c14b0b880ff5.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-RD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557137084698
+  - fid: eig4i
+    name: Blue (Klein Blue)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/Klein_Blue_PLAs.jpg?v=1744341633
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-BL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136920858
+  - fid: ugi3o
+    name: Yellow
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/PLA_YL_NEW.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-YL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136986394
+  - fid: eip1c
+    name: Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLA_GN_NEW_cb62e8e8-d49d-4beb-b760-742b04942b5c.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-GN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557136953626
+  - fid: ou8ae
+    name: Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/c8682a1b6d56a22c3b0a59f59bf75cf5.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-OR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557137019162
+  - fid: upe0e
+    name: Silver
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/5689ad8cf382a0b5e30109095f2c5cb5.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-SV-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44557137051930
+  - fid: dae7e
+    name: Purple (Lavender Purple)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/lav_purple.jpg?v=1744341632
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-PP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47517530521882
+  - fid: ook8e
+    name: Sakura Pink
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/4ba7fa254bf9ac228213103347c021b2_d52698ec-9f03-4c56-8286-a907a068a110.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-SP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44560405168410
+  - fid: hae8w
+    name: Sunny Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/aeb578890996325c79dca6cf01c88817_b28f5921-c16a-4da1-8c72-76056b73e451.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-SO-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44560407101722
+  - fid: ahv3c
+    name: Cherry Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/804ae600243b9bc071c3d0560f0f7e2c_77a9d321-8572-4941-ba8e-d3b8b9218157.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-CR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=44560408674586
+  - fid: ohs0e
+    name: Mint Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/817e311d02f4619ae07891309c0220bc.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-MG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=45450957685018
+  - fid: ui4ov
+    name: Lemon Yellow
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/719ec2b69c59d668f116669a795e61ff.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-LY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=45450957717786
+  - fid: aeb2i
+    name: Sky Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/a2e0633879a37af4db13e7f8b1b391f3_5f4f555c-4278-4e78-8e4c-7420a6486d93.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-SB-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=45450957750554
+  - fid: cuen3
+    name: Transparent
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/6fb7440a665c693a4559b674de646ce2_9acca8b7-eae7-4d10-a6ef-b0d77bf67f80.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-TP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50080472596762
+  - fid: hoo2c
+    name: Oliver Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLA_PLA_OLIVER_GREEN_1KG.jpg?v=1740465535
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-OG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50403703324954
+  - fid: phee6
+    name: Transparent Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/bb325da079fca3357fcd6e7f701c853f_4c7609c9-adfa-4a98-94e1-7e84c62a5f19.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-TPBL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50403710435610
+  - fid: oo0ax
+    name: Transparent Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/89181f49b9e54718d6fa51e630c22527_95330d85-c83f-4d06-824b-8bd1d7ca066f.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-TPRD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50403704275226
+  - fid: pohy5
+    name: Transparent Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/7b25bf014e5a3a5b506aa1c4a10c7057_a761cd9b-2d8f-45d8-9ece-ada0c8c088ff.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-TPGN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50403710697754
+  - fid: ahpi5
+    name: Coffee Brown (Coffee)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/PLA_coffee_brown.jpg?v=1745202099
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-CBN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50581338259738
+  - fid: eec9u
+    name: Gold
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/plaplus_2.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-GD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47250138530074
+  - fid: yajo6
+    name: Grass Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/ed52ef9928ca951eefd9144f3e01c0e8_7a45865a-b728-46ec-8a6a-054db61058e5.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-GG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47250252857626
+  - fid: poo7x
+    name: Fuchsia
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/plaplus_3.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-FS-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47250148950298
+  - fid: hee3e
+    name: Beige (Skin)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/plaplus_1.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-SK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=47250134532378
+  - fid: ibae2
+    name: Transparent Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/5_1_3dfb34ad-c1cd-42f4-b04d-d0d7723069dc.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA+-TPOR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50080473022746
+  - fid: oop9v
+    name: Rainbow-01
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB-8M-01-NEW-3_faabe954-00a9-4a68-b497-8e7711476310.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB01-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871074586
+  - fid: it8va
+    name: Rainbow-02
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB-8M-02-NEW-2_31a8ebad-4270-43a3-8867-28dd8febcbc9.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB02-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871107354
+  - fid: boh1b
+    name: Rainbow-03
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB8M03Z_fc3c8c04-6aef-4a9b-9f1a-1233392f7719.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB03-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871140122
+  - fid: dae9a
+    name: Rainbow-04
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB8M04Z_264c956d-c99f-417d-a123-99ce30009edd.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB04-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871172890
+  - fid: ahc4h
+    name: Silk Rainbow-01
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB-8M01-NEW-3_85869a58-be38-4da2-a621-4abd70de6e27.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB01-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871205658
+  - fid: ahgh8
+    name: Silk Rainbow-02
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M02_fb483357-8983-4d91-aa5c-23c13e52e0ac.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB02-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871238426
+  - fid: zah8e
+    name: Silk Rainbow-03
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M03_360c2460-a7ff-48a6-925d-3a9a39fca663.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB03-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871271194
+  - fid: aet6a
+    name: Silk Rainbow-04
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M04_41e18064-7560-4bf4-8874-e5e0e8a011d0.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB04-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871303962
+  - fid: eeh7f
+    name: Silk Rainbow-05
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M05_debdfd92-3222-4007-8f88-d8cb33cd874d.jpg?v=1734669922
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB05-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871336730
+  - fid: eyi0e
+    name: Silk Rainbow-06
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M06_5829f57e-df00-406e-903e-30738f8b7d2c.jpg?v=1734669902
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB06-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-pla-and-pla-plus-pla-meta-macaron-filament1kg-roll?variant=50079871369498

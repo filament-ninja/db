@@ -1,0 +1,36 @@
+name: Elegoo Galaxy PLA
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg
+variants:
+  - fid: gah3d
+    name: Galaxy Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Galaxy_PLA_1.75mm-Galaxy_Black-1.jpg?v=1742295071
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-108
+        link: >-
+          https://eu.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg?variant=49847982620948
+  - fid: joot4
+    name: Galaxy Purple
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Galaxy_PLA_1.75mm-Galaxy_Purple-1.jpg?v=1742295071
+    sizes:
+      1.75mm/1000g:
+        sku: G5719-SPCZ-EL-PLA-101
+        link: >-
+          https://eu.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg?variant=49848049434900
+  - fid: uhea2
+    name: Galaxy Peacock Blue
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Galaxy_PLA_1.75mm-Galaxy_Peacock_Blue-1.jpg?v=1742295071
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-113
+        link: >-
+          https://eu.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg?variant=49848049467668

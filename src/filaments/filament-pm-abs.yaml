@@ -1,0 +1,158 @@
+name: Filament PM ABS
+material: ABS
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/abs-not-dead
+variants:
+  - fid: johb7
+    name: Glittering Sahara
+    color:
+      ral: RAL1011
+      pantone: 4505 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2408-abs-glittering-sahara-800x600-1-product-preview.jpg?v=2213862304
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-glittering-sahara-1-75-mm-1-kg/p359
+        ean: '8594185643418'
+  - fid: ong4i
+    name: Scarlet Stardust
+    color:
+      ral: RAL3018
+      pantone: 703 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4731-abs-scarlet-stardust-1kg-1-75-1-product-preview.jpg?v=1493260451
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-scarlet-stardust-1-75-mm-1-kg/p360
+        ean: '8594185643401'
+  - fid: oox7m
+    name: Sparkling Jungle
+    color:
+      ral: RAL6024
+      pantone: 3288 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4741-abs-sparkling-jungle-1kg-1-75-1-product-preview.jpg?v=3857693042
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-sparkling-jungle-1-75-mm-1-kg/p361
+        ean: '8594185643395'
+  - fid: iesh7
+    name: Marble Dark
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2237-abs-marble-dark-05-product-preview.jpg?v=408362698
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-marble-dark-1-75-mm-1-kg/p318
+        ean: '8594185643128'
+  - fid: phai7
+    name: Blue
+    color:
+      ral: RAL5012
+      pantone: Process Blue C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3700-abs-blue-1kg-1-75-1-product-preview.jpg?v=1794785293
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-blue-1-75-mm-1-kg/p323
+        ean: '8594185641070'
+  - fid: doo2v
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: 432 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1984-ABS-2-product-preview.jpg?v=1895529483
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4171-abs-black-1kg-1-75-1-product-preview.jpg?v=4161952260
+    sizes:
+      2.85mm/1000g:
+        link: https://shop.filament-pm.com/abs-black-2-85-mm-1-kg/p283
+        ean: '8594185640639'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-black-1-75-mm-1-kg/p16
+        ean: '8594185640578'
+  - fid: ga7th
+    name: White
+    color:
+      ral: RAL9003
+      pantone: 7604 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3710-abs-white-1kg-1-75-1-product-preview.jpg?v=3659960653
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1901-ABS-white-2-product-preview.jpg?v=1778433636
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-white-1-75-mm-1-kg/p6
+        ean: '8594185640509'
+      2.85mm/1000g:
+        link: https://shop.filament-pm.com/abs-white-2-85-mm-1-kg/p268
+        ean: '8594185640585'
+  - fid: xae1u
+    name: Yellow
+    color:
+      ral: RAL1023
+      pantone: '1235'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4191-abs-yellow-1kg-1-75-1-product-preview.jpg?v=495893743
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-yellow-1-75-mm-1-kg/p7
+        ean: '8594185640516'
+  - fid: az5ee
+    name: Orange
+    color:
+      ral: RAL2004
+      pantone: '1655'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4181-abs-orange-1kg-1-75-1-product-preview.jpg?v=347933100
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-orange-1-75-mm-1-kg/p8
+        ean: '8594185640523'
+  - fid: tu0lu
+    name: Green
+    color:
+      ral: RAL6024
+      pantone: '348'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4821-ABS-GREEN2-product-preview.jpg?v=1404723335
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-green-1-75-mm-1-kg/p11
+        ean: '8594185640554'
+  - fid: gei8u
+    name: Petrol Green
+    color:
+      ral: RAL5021
+      pantone: '3155'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1892-ABS-Petrol-Green-product-preview.jpg?v=68478175
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-petrol-green-1-75-mm-1-kg/p12
+        ean: '8594185641193'
+  - fid: ahg2u
+    name: Silver
+    color:
+      ral: RAL9007
+      pantone: 403 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4819-ABS-SILVER2-product-preview.jpg?v=2934347473
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-silver-1-75-mm-1-kg/p13
+        ean: '8594185640561'

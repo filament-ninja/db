@@ -1,0 +1,73 @@
+name: Sunlu PETG High Speed
+material: PETG
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll
+variants:
+  - fid: ya9tu
+    name: Matte Black
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/bk.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-BK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077459841306
+  - fid: ees3o
+    name: Matte White
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/wt_540425c6-3949-4d02-abb5-97b918949555.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-WT-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077459906842
+  - fid: ia8gu
+    name: Matte Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/gy_fbf9d6f5-8228-4374-873b-e9595c1fc0ce.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-GY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077460037914
+  - fid: eyei0
+    name: Matte Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/rd_4e19cf70-baeb-45b3-a100-c64dc1e84d1d.jpg?v=1739266643
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-RD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077459939610
+  - fid: eix1y
+    name: Matte Blue
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/bl-new.jpg?v=1739266643
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-BL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077459972378
+  - fid: ohk6j
+    name: Matte Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/gn_10e1ad6c-7709-4af9-bb1b-c476ae2b0a29.jpg?v=1739266643
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-GN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077460005146
+  - fid: ja7ee
+    name: Matte Orange
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/or.jpg?v=1739266643
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-HSMPETG-OR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=50077460070682

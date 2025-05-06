@@ -1,0 +1,372 @@
+name: Sunlu PLA
+material: PLA
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer
+variants:
+  - fid: thet2
+    name: Black
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/8b9cc7c9808a81fc8db0eaf67a4d79d7_1e60a5b7-0658-49bf-b1dd-3271ef251b3e.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-BK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079868944666
+  - fid: iy5uc
+    name: White
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/d92e076f69cb1a6f81c9bab8cd8f57a2_0c8ccf1f-223f-40ad-9c7c-7cbc98d35879.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-WT-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079868977434
+  - fid: cee2m
+    name: Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/86d6b6668dd249b94188acb64812e4bf_2c0e149e-5486-4cf7-b9c9-3a928d8d3ddd.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-GY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869010202
+  - fid: kiex8
+    name: Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/520f764beb1954cab793b251ed2a5a3f_0b7c40d4-0ba2-4511-9b73-c002457ef021.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869370650
+  - fid: osoh8
+    name: Blue (Klein Blue)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/Klein_Blue_PLAs.jpg?v=1744341633
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-BL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869534490
+  - fid: ef2ah
+    name: Yellow
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/7376d19b161f2a93a4051e47289d0505_e09cac34-cd59-4b1c-941d-d5412fd81eba.jpg?v=1734669833
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-YL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869403418
+  - fid: yoog6
+    name: Green
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/PLA_GN_NEW.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-GN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869468954
+  - fid: bei9a
+    name: Grass Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/ed52ef9928ca951eefd9144f3e01c0e8_53f7ff04-d1ad-4b03-8359-41f096c38eac.jpg?v=1734669834
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-GG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869436186
+  - fid: ies7b
+    name: Gold
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/6262c0e357d74389ebc0f3583a5196d2_42905cc0-86fe-44be-bad0-7e6555893fe3.jpg?v=1734669834
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-GD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869042970
+  - fid: iequ6
+    name: Silver
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/5689ad8cf382a0b5e30109095f2c5cb5_7836c900-eadd-423c-af43-e387bbd464c3.jpg?v=1734669834
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-SV-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869075738
+  - fid: ein4f
+    name: Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/c8682a1b6d56a22c3b0a59f59bf75cf5_250b2a7c-6f7d-4adc-92cf-e65b601f9837.jpg?v=1741227476
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-OR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869337882
+  - fid: if5ai
+    name: Sunny Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/ea9cfde743bc11d8934e87006e3d380c.jpg?v=1734669838
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-SO-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869108506
+  - fid: um5aa
+    name: Pink (Sakura Pink)
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/dee230ef9e0d204a3398765eb289af72.jpg?v=1734669838
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-SP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869141274
+  - fid: eet0r
+    name: Lemon Yellow
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/710c40d7e84e48165ace3ab59a04d7ce.jpg?v=1734669837
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-LY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869174042
+  - fid: requ2
+    name: Sky Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/a2e0633879a37af4db13e7f8b1b391f3.jpg?v=1734669838
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-SB-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869206810
+  - fid: dahs6
+    name: Skin (Beige)
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/edecf2425959668f85740753e7035494_e29a3131-6cb7-4a47-9dda-ab22724c4a07.jpg?v=1734669835
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-SK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869239578
+  - fid: aefi9
+    name: Fuchsia
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/95abcfc5cae2eb818ecad2b4ecfc109a_0e8534d8-54c7-4ad8-93d7-ebee6cab5682.jpg?v=1734669835
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-FC-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869272346
+  - fid: thah4
+    name: Mint Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/f076ded8cee495c42891bd46fa10bb8b.jpg?v=1734669837
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-MG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869305114
+  - fid: thah8
+    name: Purple (Lavender Purple)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/lav_purple.jpg?v=1744341632
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-PP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869501722
+  - fid: xen6a
+    name: Transparent
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/6fb7440a665c693a4559b674de646ce2.jpg?v=1734669836
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-TP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403692577050
+  - fid: jai3o
+    name: Transparent Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/89181f49b9e54718d6fa51e630c22527.jpg?v=1734669836
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-TPRD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403701850394
+  - fid: rai8o
+    name: Transparent Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/bb325da079fca3357fcd6e7f701c853f.jpg?v=1734669837
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-TPBL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403702145306
+  - fid: aib1a
+    name: Transparent Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/7b25bf014e5a3a5b506aa1c4a10c7057.jpg?v=1734669836
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-TPGN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403702079770
+  - fid: wa9ca
+    name: Cyan
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/2babe3524957614eae002f965241b3ff_ba94da84-2b6b-461f-aad7-018525421d46.jpg?v=1734669835
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-CY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403691331866
+  - fid: geu3e
+    name: Oliver Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLA_PLA_OLIVER_GREEN_1KG.jpg?v=1740465535
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-OG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403693396250
+  - fid: lu4hu
+    name: Coffee-Brown (Coffee)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/PLA_coffee_brown.jpg?v=1745202099
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-CBN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50403695886618
+  - fid: shi3p
+    name: Blue Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/c0ad2be69190712bf2cde8f7cd4fee95_9aaeefd6-14c6-4377-a34c-89d394284c30.jpg?v=1734669835
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-BG-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=40115907264598
+  - fid: ie3ah
+    name: Rainbow-01
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB-8M-01-NEW-3_5885b5a4-7c81-4412-989b-a63ef3a39d5c.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB01-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869567258
+  - fid: iuth2
+    name: Rainbow-02
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB-8M-02-NEW-2_4ce5f474-1b12-4e67-9f33-3e839343ac9d.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB02-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869600026
+  - fid: neiv5
+    name: Rainbow-03
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB8M03Z_895bddf1-0cc2-4656-88a1-0703f673bac1.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB03-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869632794
+  - fid: sea5a
+    name: Rainbow-04
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLARB8M04Z_3af7e1b6-1a48-47fc-98a0-c3d3457070dc.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLA-RB04-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869665562
+  - fid: ua3ki
+    name: Silk Rainbow-01
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB-8M01-NEW-3_c85ebcd2-783f-4241-8fe4-34e7a335a974.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB01-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869698330
+  - fid: ier3e
+    name: Silk Rainbow-02
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M02_10d60615-e562-4e72-932a-3d87e0129067.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB02-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869731098
+  - fid: fei5r
+    name: Silk Rainbow-03
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M03_5a387347-042f-4d34-b2a1-9965fccf3c0b.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB03-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869763866
+  - fid: thaf1
+    name: Silk Rainbow-04
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M04_2f5eb640-7366-4c86-9d4f-21353da11bb8.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB04-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869796634
+  - fid: tiej2
+    name: Silk Rainbow-05
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M05_86134eb9-72de-47fd-8faf-a6b0655d5108.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB05-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869829402
+  - fid: zeip5
+    name: Silk Rainbow-06
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/SILKRB8M06_7df9034c-ab38-446b-bf9a-fa312114a687.jpg?v=1734669842
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-SILK-RB06-8M-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-of-pla-pla-meta-3d-filaments-1kg-2-2lbs-fit-most-of-fdm-printer?variant=50079869862170

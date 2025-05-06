@@ -1,0 +1,48 @@
+name: colorFabb allPHA
+material: PHA
+vendor: colorfabb
+refs:
+  web: https://colorfabb.com/filaments/materials/pha-filaments/allpha
+variants:
+  - fid: wu6iv
+    name: White
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/a/l/allpha_white.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/allpha-white
+      1.75mm/2200g:
+        link: https://colorfabb.com/allpha-white
+      2.85mm/750g:
+        link: https://colorfabb.com/allpha-white
+      2.85mm/2200g:
+        link: https://colorfabb.com/allpha-white
+  - fid: gu9fu
+    name: Black
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/a/l/allpha_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/allpha-black
+      1.75mm/2200g:
+        link: https://colorfabb.com/allpha-black
+      2.85mm/750g:
+        link: https://colorfabb.com/allpha-black
+      2.85mm/2200g:
+        link: https://colorfabb.com/allpha-black
+  - fid: aifi9
+    name: Natural
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/a/l/allpha_natural.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/allpha-natural
+      1.75mm/2200g:
+        link: https://colorfabb.com/allpha-natural
+      2.85mm/750g:
+        link: https://colorfabb.com/allpha-natural
+      2.85mm/2200g:
+        link: https://colorfabb.com/allpha-natural

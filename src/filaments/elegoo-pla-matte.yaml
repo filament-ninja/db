@@ -1,0 +1,116 @@
+name: Elegoo PLA Matte
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg
+variants:
+  - fid: nae8m
+    name: Matte Black
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGBlack_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-101
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934480148
+  - fid: zo4ie
+    name: Matte White
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGWhite_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-102
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934512916
+  - fid: ze8wi
+    name: Slate Grey
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGSlateGrey_1.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-107
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934545684
+  - fid: ahf1u
+    name: Ruby Red
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGRubyRed_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-103
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934578452
+  - fid: ap8ph
+    name: Navy Blue
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGNavyBlue_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-104
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934611220
+  - fid: phe9x
+    name: Ice Blue
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGIceBlue_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-110
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934643988
+  - fid: shu9o
+    name: Teal Green
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGTealGreen_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-105
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934676756
+  - fid: kei1u
+    name: Mint Green
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGMintGreen_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-112
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934709524
+  - fid: iec8b
+    name: Sunshine Yellow
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGSunshineYellow_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-106
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934742292
+  - fid: zohj7
+    name: Lavender Purple
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGLavenderPurple_1.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-108
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628934775060
+  - fid: iec5i
+    name: Sakura Pink
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGPink_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-109
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628942901524
+  - fid: poh2m
+    name: Beige
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLAMATTE1KGBeige_2.jpg?v=1737518789
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-MAT-111
+        link: >-
+          https://eu.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=47628942934292

@@ -1,0 +1,205 @@
+name: Spectrum Pastello PLA
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pastello-pla/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_Pastello-PLA-2639.html
+variants:
+  - fid: ien5h
+    name: Flamingo Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5a2f89a14dde92ca3d7e395f96567979/eng_pm_Filament-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1514_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9eb77c071c2d9c4cf0067a836e2bd0b8/eng_pm_Filament-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1514_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/64d4c41900abb68f72226d5ebdca00d9/eng_pm_Filament-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1514_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1eaabc6f7cd48834efb9601bdcf4edc6/eng_pm_Filament-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1514_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9f38bb6f21ef21057c64c665de222e2f/eng_pm_Filament-Spectrum-ReFill-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1838_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/595466068090e9346c2a7a8994bfe9ee/eng_pm_Filament-Spectrum-ReFill-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1838_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/89efbbb890a34f9aeffeef4605d11085/eng_pm_Filament-Spectrum-ReFill-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg-1838_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1514-Filament-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg.html
+        ean: '5903175655196'
+        sku: '80730'
+      1.75mm/1000g/refill:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1838-Filament-Spectrum-ReFill-Pastello-PLA-1-75mm-FLAMINGO-RED-1kg.html
+        ean: '5905991403623'
+        sku: '81295'
+  - fid: thei2
+    name: Lemon Cream
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3611d3ddc7cb0327bb51a784952e03bb/eng_pm_Filament-Pastello-PLA-1-75mm-LEMON-CREAM-1kg-1513_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0514ae65eb0c90ea029a0424f266209d/eng_pm_Filament-Pastello-PLA-1-75mm-LEMON-CREAM-1kg-1513_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/dea428a484b8f4826757af4211ea8d51/eng_pm_Filament-Pastello-PLA-1-75mm-LEMON-CREAM-1kg-1513_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0b56c0009aa19c1e5ceb67f486bfe166/eng_pm_Filament-Pastello-PLA-1-75mm-LEMON-CREAM-1kg-1513_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1513-Filament-Pastello-PLA-1-75mm-LEMON-CREAM-1kg.html
+        ean: '5903175655202'
+        sku: '80729'
+  - fid: ohd2u
+    name: Holland Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ad4c252b1850c6aacb5f660d3574741e/eng_pm_Filament-Pastello-PLA-1-75mm-HOLLAND-RED-1kg-1496_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/53ff85afb7c09f46790d8be24ec2c2fa/eng_pm_Filament-Pastello-PLA-1-75mm-HOLLAND-RED-1kg-1496_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/50a19f95aed51291a488d0dccbb71f16/eng_pm_Filament-Pastello-PLA-1-75mm-HOLLAND-RED-1kg-1496_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/48ca1e844d7db29714368bd3ad4947cb/eng_pm_Filament-Pastello-PLA-1-75mm-HOLLAND-RED-1kg-1496_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1496-Filament-Pastello-PLA-1-75mm-HOLLAND-RED-1kg.html
+        ean: '5903175659606'
+        sku: '80899'
+  - fid: eeno7
+    name: Atmospheric Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9e2782c337545fa7f22ef885d008bdd3/eng_pm_Filament-Pastello-PLA-1-75mm-ATMOSPHERIC-BLUE-1kg-1495_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3879dac02031d13af2012659aa909718/eng_pm_Filament-Pastello-PLA-1-75mm-ATMOSPHERIC-BLUE-1kg-1495_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fd2146eaa408921a8e7348eccfd41cef/eng_pm_Filament-Pastello-PLA-1-75mm-ATMOSPHERIC-BLUE-1kg-1495_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9f89a66180a91cf3485d9da07fdcb7e1/eng_pm_Filament-Pastello-PLA-1-75mm-ATMOSPHERIC-BLUE-1kg-1495_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1495-Filament-Pastello-PLA-1-75mm-ATMOSPHERIC-BLUE-1kg.html
+        ean: '5903175654915'
+        sku: '80711'
+  - fid: uu2so
+    name: Pale Salmon
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/acf2d3d19ee0a18ea6068dfcc7f76bc1/eng_pm_Filament-Pastello-PLA-1-75mm-PALE-SALMON-1kg-1494_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7345859f2f48d87f158ffec2fa76109c/eng_pm_Filament-Pastello-PLA-1-75mm-PALE-SALMON-1kg-1494_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4f51826bd74f90c8e3af810e73f6a07d/eng_pm_Filament-Pastello-PLA-1-75mm-PALE-SALMON-1kg-1494_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/24f0d362d627ad197609c009f59aaa62/eng_pm_Filament-Pastello-PLA-1-75mm-PALE-SALMON-1kg-1494_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1494-Filament-Pastello-PLA-1-75mm-PALE-SALMON-1kg.html
+        ean: '5903175654908'
+        sku: '80710'
+  - fid: ilac3
+    name: Pink Pastel
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d3804365b9f2897688e635f49f671538/eng_pm_Filament-Pastello-PLA-1-75mm-PINK-PASTEL-1kg-1493_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4bb9d3bfee51d2b06d58e9f19ff41a1c/eng_pm_Filament-Pastello-PLA-1-75mm-PINK-PASTEL-1kg-1493_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/37094df3c2bf93eb16c6a81d57d10afd/eng_pm_Filament-Pastello-PLA-1-75mm-PINK-PASTEL-1kg-1493_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3daaf5112746d26eda0cfaec1272fdc6/eng_pm_Filament-Pastello-PLA-1-75mm-PINK-PASTEL-1kg-1493_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1493-Filament-Pastello-PLA-1-75mm-PINK-PASTEL-1kg.html
+        ean: '5903175654892'
+        sku: '80709'
+  - fid: oave2
+    name: Apricot Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/670a7537f849516eabf57596e24cb003/eng_pm_Filament-Pastello-PLA-1-75mm-APRICOT-ORANGE-1kg-1492_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6c2a8ac0b467d898c0ac2efc39fbf5eb/eng_pm_Filament-Pastello-PLA-1-75mm-APRICOT-ORANGE-1kg-1492_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/52f93e16bc0305a844bf77fa47da0138/eng_pm_Filament-Pastello-PLA-1-75mm-APRICOT-ORANGE-1kg-1492_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/de6012742460a143675f3245313f583a/eng_pm_Filament-Pastello-PLA-1-75mm-APRICOT-ORANGE-1kg-1492_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1492-Filament-Pastello-PLA-1-75mm-APRICOT-ORANGE-1kg.html
+        ean: '5903175654885'
+        sku: '80708'
+  - fid: gee8h
+    name: Coctail Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/27db34e7f56acdbd3f72bb2d62f19cdf/eng_pm_Filament-Pastello-PLA-1-75mm-COCTAIL-GREEN-1kg-1491_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/268b27c152fb45bcb3bc68744fbedd05/eng_pm_Filament-Pastello-PLA-1-75mm-COCTAIL-GREEN-1kg-1491_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7c2af2ae39b4b9d6a767c56e1d4ba0b5/eng_pm_Filament-Pastello-PLA-1-75mm-COCTAIL-GREEN-1kg-1491_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8e7edda97d10a450dd22ee3294edecbf/eng_pm_Filament-Pastello-PLA-1-75mm-COCTAIL-GREEN-1kg-1491_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1491-Filament-Pastello-PLA-1-75mm-COCTAIL-GREEN-1kg.html
+        ean: '5903175654878'
+        sku: '80707'
+  - fid: aib6v
+    name: Bonbon Rose
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bb0c0e5dcdfa1dcfe2eb03106703ce02/eng_pm_Filament-Pastello-PLA-1-75mm-BONBON-ROSE-1kg-1490_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/959711f9eb28abcab8306e76f55aac61/eng_pm_Filament-Pastello-PLA-1-75mm-BONBON-ROSE-1kg-1490_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/40f25728980811cd28f3eee73bd8cd01/eng_pm_Filament-Pastello-PLA-1-75mm-BONBON-ROSE-1kg-1490_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/20f034bd16268cebbc851a5a857f065b/eng_pm_Filament-Pastello-PLA-1-75mm-BONBON-ROSE-1kg-1490_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1490-Filament-Pastello-PLA-1-75mm-BONBON-ROSE-1kg.html
+        ean: '5903175654861'
+        sku: '80706'
+  - fid: xah0o
+    name: Cosmetic Mauve
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0eab1ba0c534eac71273d7c3baa1d07f/eng_pm_Filament-Pastello-PLA-1-75mm-COSMETIC-MAUVE-1kg-1489_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/e6ae049eb9b64f581f1ad0e341aa1bc3/eng_pm_Filament-Pastello-PLA-1-75mm-COSMETIC-MAUVE-1kg-1489_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/37fd9e9ce8a1109132efbe0ac8f6eaa3/eng_pm_Filament-Pastello-PLA-1-75mm-COSMETIC-MAUVE-1kg-1489_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ff166be3c010f2c638e79cfba6aa0696/eng_pm_Filament-Pastello-PLA-1-75mm-COSMETIC-MAUVE-1kg-1489_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1489-Filament-Pastello-PLA-1-75mm-COSMETIC-MAUVE-1kg.html
+        ean: '5903175654854'
+        sku: '80705'
+  - fid: aiz2m
+    name: Water Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c0d1e5acae849bd4d7c6cf7995045bf8/eng_pm_Filament-Pastello-PLA-1-75mm-WATER-BLUE-1kg-1488_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/470a998b966db495de91e23a7f258cc2/eng_pm_Filament-Pastello-PLA-1-75mm-WATER-BLUE-1kg-1488_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/74c9910d37ad2fe97df7753326c4175a/eng_pm_Filament-Pastello-PLA-1-75mm-WATER-BLUE-1kg-1488_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/24842ad63f4c24ba6edc82fbf271b379/eng_pm_Filament-Pastello-PLA-1-75mm-WATER-BLUE-1kg-1488_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1488-Filament-Pastello-PLA-1-75mm-WATER-BLUE-1kg.html
+        ean: '5903175654847'
+        sku: '80704'

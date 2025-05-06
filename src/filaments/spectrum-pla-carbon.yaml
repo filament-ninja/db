@@ -1,0 +1,30 @@
+name: Spectrum PLA Carbon
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pla-carbon/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_PLA-Carbon-2652.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2022/05/en_tds_spectrum_pla_carbon.pdf
+variants:
+  - fid: ja8ut
+    name: Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d9e8bd0d14de257bba323bde323ac6c8/eng_pm_Filament-Spectrum-PLA-Carbon-1-75mm-0-50kg-1287_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fdb164290700fb20dbcee74661290d6a/eng_pm_Filament-Spectrum-PLA-Carbon-1-75mm-0-50kg-1287_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/30cd5f52fef596d323b0c3ffa52c0232/eng_pm_Filament-Spectrum-PLA-Carbon-1-75mm-1kg-1288_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fdfad54920d41c81eb74e4fd68a21507/eng_pm_Filament-Spectrum-PLA-Carbon-1-75mm-1kg-1288_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1288-Filament-Spectrum-PLA-Carbon-1-75mm-1kg.html
+        ean: '5903175652393'
+        sku: '80466'
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1287-Filament-Spectrum-PLA-Carbon-1-75mm-0-50kg.html
+        ean: '5903175652386'
+        sku: '80465'

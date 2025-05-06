@@ -27,11 +27,17 @@ const outputDir = path.join(__dirname, 'dist');
 const materials = []
 
 function hexColorCalc (variant) {
-    return variant.color?.hex ?? (variant.color?.ral ? ralToHex(variant.color.ral.replace(/^RAL/, '')) : (variant.color?.hexEstimate ?? null))
+    let out;
+    try {
+        out = variant.color?.hex ?? (variant.color?.ral ? ralToHex(variant.color.ral.replace(/^RAL/, '')) : (variant.color?.hexEstimate ?? null))
+    } catch (e) {
+        console.error(e)
+    }
+    return out
 }
 
 function expandMaterial (item) {
-    for (const variant of item.variants) {
+    for (const variant of (item.variants || [])) {
         variant.hexColorCalc = hexColorCalc(variant)
     }
     return item
@@ -75,7 +81,7 @@ async function loadCollection (c) {
         const newItems = []
         for (const item of items) {
             materials.push(JSON.parse(JSON.stringify(expandMaterial(item))))
-            for (const variant of item.variants) {
+            for (const variant of (item.variants || [])) {
                 newItems.push({
                     ...variant,
                     sizes: Object.keys(variant.sizes).map(sKey => {
@@ -117,3 +123,4 @@ data.materials = materials
 rmSync(outputDir, { recursive: true, force: true });
 mkdirSync(outputDir, { recursive: true })
 fs.writeFileSync(path.join(outputDir, 'index.json'), JSON.stringify(data, null, 2))
+console.log('Build done\n')

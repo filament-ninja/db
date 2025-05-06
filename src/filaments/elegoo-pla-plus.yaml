@@ -1,0 +1,162 @@
+name: Elegoo PLA+
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+variants:
+  - fid: aita4
+    name: Black
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-black-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP01
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521217945876
+  - fid: hoo0e
+    name: White
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-white-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWUK-EL-3D-PP02
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521217978644
+  - fid: taor6
+    name: Grey
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-grey-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP03
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218011412
+  - fid: ahza7
+    name: Neon Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA_Plus-neon-green-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP04N
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218044180
+  - fid: me6ae
+    name: Dark Blue
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-dark-blue-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP05N
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218076948
+  - fid: jaek6
+    name: Red
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-red-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP06
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218109716
+  - fid: oow1p
+    name: Yellow
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-yellow-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP07
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218142484
+  - fid: eev6c
+    name: Orange
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-orange-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-PP08N
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=45521218175252
+  - fid: oos9u
+    name: Pink
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-pink-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-105
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270312212
+  - fid: ohy8y
+    name: Purple
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-purple-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-106
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270344980
+  - fid: vac8j
+    name: Clear
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-clear-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-104N
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270377748
+  - fid: ep7ee
+    name: Sky Blue
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-sky-blue-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-101
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270410516
+  - fid: ja0th
+    name: Sea Green
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-sea-green-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: SPCZ-EL-PP-102
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270443284
+  - fid: uuz0n
+    name: Space Grey
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA_Plus-space-grey-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-103
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270476052
+  - fid: jo6uu
+    name: Wood Color
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA_Plus-wood-color-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-108
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270508820
+  - fid: vei4y
+    name: Beige
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-beige-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-107
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=47555270541588
+  - fid: loh6o
+    name: Brown
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA_Plus-brown-1kg.jpg?v=1745984922
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PP-109
+        link: >-
+          https://eu.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=48355530801428

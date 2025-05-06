@@ -1,0 +1,377 @@
+name: Spectrum PCTG Premium
+material: PCTG
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pctg-premium/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PCTG_PCTG-Premium-2683.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2022/05/en_tds_spectrum_pctg.pdf
+variants:
+  - fid: lu1oh
+    name: Traffic Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0d801e3c6d02ea56b506fc6c03b4afe7/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-4-5kg-RAL-3020-1564_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ee75c118a14d50e400b2c5f14dd875ee/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-4-5kg-RAL-3020-1564_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/46cdf873959dfcf51a0d8adb661ebbfa/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-1kg-RAL-3020-1408_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/977c854d83e3c228de7893e86b1719cb/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-1kg-RAL-3020-1408_2.jpg
+    sizes:
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1564-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-4-5kg-RAL-3020.html
+        ean: '5903175654724'
+        sku: '80691'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1408-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-RED-1kg-RAL-3020.html
+        ean: '5903175654069'
+        sku: '80657'
+    color:
+      ral: RAL3020
+  - fid: gei1c
+    name: Navy Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/295653f3a21162ca1fb21cf4bb69e3cd/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-4-5kg-RAL-5002-1563_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/63d5407cad176ce68019e3006b69f75b/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-4-5kg-RAL-5002-1563_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8e263a7f08e39081409f525911bc232a/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-2kg-RAL-5002-1480_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bba9f9a403eab935cd55e0b11c41317d/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-2kg-RAL-5002-1480_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2a8847136ae62cf96a571136dfdbdfb8/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-1kg-RAL-5002-1412_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/aef54aae6bd1801e54741c6803544f4f/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-1kg-RAL-5002-1412_1.jpg
+    sizes:
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1563-Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-4-5kg-RAL-5002.html
+        ean: '5903175654717'
+        sku: '80692'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1480-Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-2kg-RAL-5002.html
+        ean: '5903175654748'
+        sku: '80695'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1412-Filament-Spectrum-Premium-PCTG-1-75mm-NAVY-BLUE-1kg-RAL-5002.html
+        ean: '5903175654007'
+        sku: '80666'
+    color:
+      ral: RAL5002
+  - fid: yao8o
+    name: Silver Steel
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/367da74b3b437917ab202f66937c806c/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-4-5kg-RAL-9007-1562_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/61199ab9f9229e564025c71239660b3f/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-4-5kg-RAL-9007-1562_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/be78c864624a95c6ce908901f689cd4a/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-2kg-RAL-9007-1476_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/43ac40493b81761cdbc0e7400a8bf1d1/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-2kg-RAL-9007-1476_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/00003be7a136585a3ebe01bb8584cf35/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-1kg-RAL-9007-1471_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f25f419ce46ebf3993763443fb9e9bae/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-1kg-RAL-9007-1471_1.jpg
+    sizes:
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1562-Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-4-5kg-RAL-9007.html
+        ean: '5903175654731'
+        sku: '80693'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1476-Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-2kg-RAL-9007.html
+        ean: '5903175654762'
+        sku: '80696'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1471-Filament-Spectrum-Premium-PCTG-1-75mm-SILVER-STEEL-1kg-RAL-9007.html
+        ean: '5903175654052'
+        sku: '80658'
+    color:
+      ral: RAL9007
+  - fid: thoh1
+    name: Transparent Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/794adef55be768b7d5942e96d0030fa4/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-BLUE-1kg-1520_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4530c17bc2a83f3e24ceff00dfd11079/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-BLUE-1kg-1520_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1520-Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-BLUE-1kg.html
+        ean: '5903175655271'
+        sku: '80739'
+  - fid: ee5le
+    name: Transparent Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9dca80f8e472e6913c09f50e2b584596/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-YELLOW-1kg-1519_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/316e2b99cf133a447412434439139a7d/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-YELLOW-1kg-1519_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1519-Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-YELLOW-1kg.html
+        ean: '5903175655257'
+        sku: '80737'
+  - fid: es6wu
+    name: Transparent Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c1db3279470e4597f225b3b1ce419411/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-RED-1kg-1518_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1c4d426ef9ef3349136b52e0f1d74d81/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-RED-1kg-1518_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1518-Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-RED-1kg.html
+        ean: '5903175655264'
+        sku: '80738'
+  - fid: phiu8
+    name: Transparent Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0c7c614ed8c622acafc6c8c5cc4f0fa0/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-ORANGE-1kg-1517_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0606b2b6b06a814a957c0ae11327da96/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-ORANGE-1kg-1517_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1517-Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-ORANGE-1kg.html
+        ean: '5903175655240'
+        sku: '80736'
+  - fid: gae6h
+    name: Transparent Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/891c2e190d450fc9825a331a65cdb7e5/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-GREEN-1kg-1516_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9d33b7afaf911733f4e6738ccbe3be3b/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-GREEN-1kg-1516_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1516-Filament-Spectrum-Premium-PCTG-1-75mm-TRANSPARENT-GREEN-1kg.html
+        ean: '5903175655233'
+        sku: '80735'
+  - fid: vufu9
+    name: Clear
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6112179ea506ace810afb3f19a9629d1/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-CLEAR-1kg-1515_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6c61d76302b169dcd41489bd06060fb6/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-CLEAR-1kg-1515_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1515-Filament-Spectrum-Premium-PCTG-1-75mm-CLEAR-1kg.html
+        ean: '5903175655226'
+        sku: '80734'
+  - fid: ohn8u
+    name: Traffice Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3ccdbbbefd418a37af68263eb9810320/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFICE-RED-2kg-RAL-3020-1479_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/296d12bf6917ae04124ad1993b2c9f9d/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFICE-RED-2kg-RAL-3020-1479_2.jpg
+    sizes:
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1479-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFICE-RED-2kg-RAL-3020.html
+        ean: '5903175654755'
+        sku: '80694'
+    color:
+      ral: RAL3020
+  - fid: au3ie
+    name: Traffic Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9d04b97a3824fceb240cebf479cd30f3/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-8kg-RAL-9017-1464_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/66d4914c9070bf212a88c8c93392b593/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-8kg-RAL-9017-1464_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/52e175f1d125cb6f45eef4f17b0bb284/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-4-5kg-RAL-9017-1422_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8ced7b8397350ca08afe8cacdff6c7bf/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-4-5kg-RAL-9017-1422_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fd320225d74fdaa77fd50f351d28f7e2/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-2kg-RAL-9017-1420_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3267a5ba10e1b4c6ebdb27db9c25b9e1/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-2kg-RAL-9017-1420_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/49a85a8a9464bc43c0c8b6818ee55b35/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-1kg-RAL-9017-1410_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/628a715905f5808c4e34d173609832f4/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-1kg-RAL-9017-1410_1.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1464-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-8kg-RAL-9017.html
+        ean: '5903175654670'
+        sku: '80689'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1422-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-4-5kg-RAL-9017.html
+        ean: '5903175654120'
+        sku: '80647'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1420-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-2kg-RAL-9017.html
+        ean: '5903175654328'
+        sku: '80642'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1410-Filament-Spectrum-Premium-PCTG-1-75mm-TRAFFIC-BLACK-1kg-RAL-9017.html
+        ean: '5903175653987'
+        sku: '80665'
+    color:
+      ral: RAL9017
+  - fid: goo6g
+    name: Iron Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d64bae8423274b704376b35b6a921074/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-8kg-RAL-7011-1463_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/25db084e63b7bb7e6829cb9124be00bb/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-8kg-RAL-7011-1463_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/287f14a2b80f64a1ea537e2a57cfb367/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-4-5kg-RAL-7011-1424_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bcbdb4d1b0b931b2ddc33f94df9e0529/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-4-5kg-RAL-7011-1424_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a18d015da773269591e458e06bb39638/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-2kg-RAL-7011-1421_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a4647b0dd1ddfa0ae6a29314e2744167/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-2kg-RAL-7011-1421_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/05f1eb119fdc3f528f6ec1efcc8cb57c/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-1kg-RAL-7011-1409_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bdef17cb3b95450aa8b82aaaf0a4742d/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-1kg-RAL-7011-1409_1.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1463-Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-8kg-RAL-7011.html
+        ean: '5903175654663'
+        sku: '80688'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1424-Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-4-5kg-RAL-7011.html
+        ean: '5903175654137'
+        sku: '80648'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1421-Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-2kg-RAL-7011.html
+        ean: '5903175654311'
+        sku: '80644'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1409-Filament-Spectrum-Premium-PCTG-1-75mm-IRON-GREY-1kg-RAL-7011.html
+        ean: '5903175654045'
+        sku: '80659'
+    color:
+      ral: RAL7011
+  - fid: ahj0j
+    name: Arctic White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7754fda06409b2f90fd884a2922e22a0/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-8kg-RAL-9016-1462_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/47dfebf4fa6d17c1e647d111fd1ba602/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-8kg-RAL-9016-1462_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a8ee0e00977994c3ec60e8d76deb0ed5/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016-1423_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a4fc3890274803dedc14f03e5ccec8b8/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016-1423_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/241dab278006f893e160910f43f36bb0/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-2kg-RAL-9016-1419_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/aecde7fed0f5d9c089630d6eb9c82628/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-2kg-RAL-9016-1419_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2bbd6f6182bd0d0e1a64fd51d349dde5/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-1kg-RAL-9016-1411_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f5aa6ea913c75c19dc466b2998cc663e/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-1kg-RAL-9016-1411_1.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1462-Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-8kg-RAL-9016.html
+        ean: '5903175654656'
+        sku: '80687'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1423-Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016.html
+        ean: '5903175654113'
+        sku: '80646'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1419-Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-2kg-RAL-9016.html
+        ean: '5903175654304'
+        sku: '80643'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1411-Filament-Spectrum-Premium-PCTG-1-75mm-ARCTIC-WHITE-1kg-RAL-9016.html
+        ean: '5903175653970'
+        sku: '80660'
+    color:
+      ral: RAL9016
+  - fid: ux2ei
+    name: Light Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/532f46bc9ec7109f5ed3b839f6d3d8ad/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-LIGHT-GREEN-1kg-RAL-6018-1415_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ed290d9c16915301f8ccd1ab2a7b2c04/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-LIGHT-GREEN-1kg-RAL-6018-1415_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1415-Filament-Spectrum-Premium-PCTG-1-75mm-LIGHT-GREEN-1kg-RAL-6018.html
+        ean: '5903175654021'
+        sku: '80664'
+    color:
+      ral: RAL6018
+  - fid: hei5v
+    name: Pure Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4379577bee94627e79d1c96ad2c91688/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-PURE-ORANGE-1kg-RAL-2004-1414_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/92544cafca69458abb8936b69f428e22/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-PURE-ORANGE-1kg-RAL-2004-1414_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1414-Filament-Spectrum-Premium-PCTG-1-75mm-PURE-ORANGE-1kg-RAL-2004.html
+        ean: '5903175654014'
+        sku: '80662'
+    color:
+      ral: RAL2004
+  - fid: dee2s
+    name: Sky Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/49db4d755fea32b044f003165a7ff2d6/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SKY-BLUE-1kg-RAL-5015-1413_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0ac6bc58efb839be69fdeca3e683250f/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SKY-BLUE-1kg-RAL-5015-1413_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1413-Filament-Spectrum-Premium-PCTG-1-75mm-SKY-BLUE-1kg-RAL-5015.html
+        ean: '5903175654038'
+        sku: '80663'
+    color:
+      ral: RAL5015
+  - fid: fue1c
+    name: Sulfur Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d09917debc00e2969b2faa030e3f74be/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SULFUR-YELLOW-1kg-RAL-1018-1407_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/02aaf1d3e01eee0f9c54ed717b595a1d/eng_pm_Filament-Spectrum-Premium-PCTG-1-75mm-SULFUR-YELLOW-1kg-RAL-1018-1407_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1407-Filament-Spectrum-Premium-PCTG-1-75mm-SULFUR-YELLOW-1kg-RAL-1018.html
+        ean: '5903175653994'
+        sku: '80661'
+    color:
+      ral: RAL1018

@@ -1,0 +1,26 @@
+name: Elegoo ASA
+material: ASA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/asa-filament-1-75mm-colored-1kg
+variants:
+  - fid: ooc3e
+    name: Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/ASA-Filament-1KG-Black_1_200c0718-7df7-448e-9d4b-3d46c0d20cff.jpg?v=1722391661
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-ASA-101
+        link: >-
+          https://eu.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=47555441885460
+  - fid: roh9p
+    name: White
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/ASA-Filament-1KG-White_2_a6144691-b3f7-43ce-b4bb-3a49a518197a.jpg?v=1739354300
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-ASA-102
+        link: >-
+          https://eu.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=47555441918228

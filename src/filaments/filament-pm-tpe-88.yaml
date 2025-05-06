@@ -1,0 +1,58 @@
+name: Filament PM TPE 88
+material: TPE
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/tpe-88
+variants:
+  - fid: uuph9
+    name: RubberJet Flex - Translucent
+    color:
+      ral: RAL7038
+      pantone: 5655 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1951-TPE-88-transparent1-product-preview.jpg?v=530878848
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/tpe-88-rubberjet-flex-translucent-1-75-mm-0-5-kg/p91
+        ean: '8594185640929'
+  - fid: evie2
+    name: RubberJet Flex - Red
+    color:
+      ral: RAL3031
+      pantone: '1805'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1954-TPE-88-Red1-product-preview.jpg?v=1893723281
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/tpe-88-rubberjet-flex-red-1-75-mm-0-5-kg/p93
+        ean: '8594185640950'
+  - fid: xiph9
+    name: RubberJet Flex - Blue
+    color:
+      ral: RAL5015
+      pantone: '3015'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1958-TPE-88-BLUE-product-preview.jpg?v=2503291890
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/tpe-88-rubberjet-flex-blue-1-75-mm-0-5-kg/p95
+        ean: '8594185640967'
+  - fid: ohg3o
+    name: RubberJet Flex - Black
+    color:
+      ral: RAL9011
+      pantone: Black 6
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1957-TPE-88-BLack1-product-preview.jpg?v=3134994184
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/tpe-88-rubberjet-flex-black-1-75-mm-0-5-kg/p97
+        ean: '8594185640981'

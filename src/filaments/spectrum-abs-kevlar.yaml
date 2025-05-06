@@ -1,0 +1,21 @@
+name: Spectrum ABS Kevlar
+material: ABS
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/abs-kevlar/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_ABS_ABS-Kevlar-2689.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2021/12/en_tds_spectrum_abs_kevlar.pdf
+variants:
+  - fid: thoh2
+    name: Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5edf5bacf56b521bbd85b2607d5e5346/eng_pm_Filament-Spectrum-ABS-Kevlar-1-75mm-BK-0-75kg-1375_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/cac26e3fe3e3831dc32f6e22891258b5/eng_pm_Filament-Spectrum-ABS-Kevlar-1-75mm-BK-0-75kg-1375_2.jpg
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1375-Filament-Spectrum-ABS-Kevlar-1-75mm-BK-0-75kg.html
+        ean: '5903175653451'
+        sku: '80564'

@@ -1,0 +1,58 @@
+name: colorFabb TPU 95A
+material: TPU
+vendor: colorfabb
+refs:
+  web: https://colorfabb.com/filaments/materials/tpu-filaments/tpu-95a
+variants:
+  - fid: aes1v
+    name: Black
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-black
+      2.85mm/700g:
+        link: https://colorfabb.com/tpu-95a-black
+  - fid: kee5a
+    name: White
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_white.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-white
+      2.85mm/700g:
+        link: https://colorfabb.com/tpu-95a-white
+  - fid: ahh6z
+    name: Red
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_red.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-red
+  - fid: eel8e
+    name: Orange
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_orange.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-orange
+  - fid: aep3a
+    name: Green
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_green.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-green
+  - fid: aix9d
+    name: Blue
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu95a_blue.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-95a-blue

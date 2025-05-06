@@ -1,0 +1,19 @@
+name: Filament PM PEIJet 1010 Ultem
+material: PEI
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/industrial-ultem
+variants:
+  - fid: ahxi5
+    name: Natur
+    color:
+      ral: RAL1027
+      pantone: 1255 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2402-ULTEM-WEB-product-preview.jpg?v=1954712644
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/peijet-1010-ultem-natur-1-75-mm-0-5-kg/p199
+        ean: '8594185641827'

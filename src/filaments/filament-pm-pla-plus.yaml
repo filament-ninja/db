@@ -1,0 +1,282 @@
+name: Filament PM PLA+
+material: PLA
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/PLA%2B
+variants:
+  - fid: bee3n
+    name: Iron Grey
+    color:
+      ral: RAL7031
+      pantone: 431 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4621-pla-iron-grey-1kg-1-75-1-product-preview.jpg?v=3106342947
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-iron-grey-1-75-mm-1-kg/p363
+        ean: '8594185643432'
+  - fid: cho2e
+    name: RePLA+
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4624-repla-1kg-1-75-1-product-preview.jpg?v=3348235382
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/repla-1-75-mm-1-kg/p288
+        ean: '8594185642718'
+  - fid: cail0
+    name: Viva Magenta
+    color:
+      ral: RAL4011
+      pantone: 7635 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4514-pla-viva-magenta-1kg-1-75-1-product-preview.jpg?v=885586782
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-viva-magenta-1-75-mm-1-kg/p322
+        ean: '8594185643142'
+  - fid: fai2a
+    name: WOODJet - Natur
+    color:
+      ral: RAL1019
+      pantone: 7530 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4764-woodjet-0-5kg-1-75-1-product-preview.jpg?v=2961424480
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/pla-woodjet-natur-1-75-mm-0-5-kg/p269
+        ean: '8594185642480'
+  - fid: wook4
+    name: Lithophane
+    color:
+      ral: RAL9002
+      pantone: Warm grey 1C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4622-pla-lithophane-1kg-1-75-1-product-preview.jpg?v=1805682115
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-lithophane-1-75-mm-1-kg/p320
+        ean: '8594185643135'
+  - fid: ash5t
+    name: Skin edition - Skin 477C
+    color:
+      ral: RAL8025
+      pantone: 477 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4474-pla-skin-477c-1kg-1-75-1-product-preview.jpg?v=182934113
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-skin-edition-skin-477c-1-75-mm-1-kg/p308
+        ean: '8594185643050'
+  - fid: ueph4
+    name: Skin edition - Skin 478C
+    color:
+      ral: RAL8002
+      pantone: 478 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4484-pla-skin-478c-1kg-1-75-1-product-preview.jpg?v=3429198260
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-skin-edition-skin-478c-1-75-mm-1-kg/p309
+        ean: '8594185643067'
+  - fid: vahx1
+    name: Skin edition - Skin 479C
+    color:
+      ral: RAL3012
+      pantone: 479 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4494-pla-skin-479c-1kg-1-75-1-product-preview.jpg?v=1271112439
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-skin-edition-skin-479c-1-75-mm-1-kg/p310
+        ean: '8594185643074'
+  - fid: goo3h
+    name: Skin edition - Skin 480C
+    color:
+      ral: RAL1001
+      pantone: 480 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4504-pla-skin-480c-1kg-1-75-1-product-preview.jpg?v=3691676226
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-skin-edition-skin-480c-1-75-mm-1-kg/p311
+        ean: '8594185643081'
+  - fid: rath3
+    name: Summer edition - Fresh Orange
+    color:
+      ral: RAL2003
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4454-pla-fresh-orange-1kg-1-75-1-product-preview.jpg?v=2575330462
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-summer-edition-fresh-orange-1-75-mm-1-kg/p296
+        ean: '8594185642862'
+  - fid: bo7ai
+    name: Summer edition - Fresh lime
+    color:
+      ral: RAL1016
+      pantone: 610 C, can not be specified
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4086-pla-fresh-lime-1kg-1-75-product-preview.jpg?v=1049891242
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-summer-edition-fresh-lime-1-75-mm-1-kg/p295
+        ean: '8594185642879'
+  - fid: cai3v
+    name: pastel edition - Sweet Mint
+    color:
+      ral: RAL6027
+      pantone: 324 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4126-pla-sweet-mint-1kg-1-75-1-product-preview.jpg?v=3012524391
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-pastel-edition-sweet-mint-1-75-mm-1-kg/p242
+        ean: '8594185642282'
+  - fid: le0qu
+    name: Army edition - Ranger Grey
+    color:
+      ral: RAL7039
+      pantone: 404 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4464-pla-ranger-grey-1kg-1-75-1-product-preview.jpg?v=1269241006
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-army-edition-ranger-grey-1-75-mm-1-kg/p273
+        ean: '8594185642541'
+  - fid: che2u
+    name: Army edition - Dusty Brown
+    color:
+      ral: RAL1019
+      pantone: 7530 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4754-pla-dusty-brown-1kg-1-75-1-product-preview.jpg?v=2437082415
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-army-edition-dusty-brown-1-75-mm-1-kg/p274
+        ean: '8594185642558'
+  - fid: aep6a
+    name: Army edition - Desert Beige
+    color:
+      ral: RAL1001
+      pantone: 7502 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4076-pla-desert-beige-1kg-1-75-1-product-preview.jpg?v=330940685
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-army-edition-desert-beige-1-75-mm-1-kg/p275
+        ean: '8594185642565'
+  - fid: gah1o
+    name: Army edition - Woodland Green
+    color:
+      ral: RAL7009
+      pantone: 418 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4146-pla-woodland-green-1kg-1-75-1-product-preview.jpg?v=220956901
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-army-edition-woodland-green-1-75-mm-1-kg/p276
+        ean: '8594185642534'
+  - fid: ecu6o
+    name: Grey
+    color:
+      ral: RAL7046
+      pantone: 430 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4096-pla-grey-1kg-1-75-1-product-preview.jpg?v=3409572996
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-grey-1-75-mm-1-kg/p281
+        ean: '8594185642671'
+  - fid: quie5
+    name: pastel edition - Bubblegum Pink
+    color:
+      ral: RAL3015
+      pantone: Red 0331 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4066-pla-bubblegum-pink-1kg-1-75-1-product-preview.jpg?v=620880938
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-pastel-edition-bubblegum-pink-1-75-mm-1-kg/p244
+        ean: '8594185642305'
+  - fid: ti9bu
+    name: pastel edition - Banana Yellow
+    color:
+      ral: RAL1016
+      pantone: 7403 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4046-pla-banana-yellow-1kg-1-75-1-product-preview.jpg?v=749144475
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-pastel-edition-banana-yellow-1-75-mm-1-kg/p245
+        ean: '8594185642268'
+  - fid: shei8
+    name: pastel edition - Baby Blue
+    color:
+      ral: RAL6027
+      pantone: 658 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4036-pla-baby-blue-1kg-1-75-1-product-preview.jpg?v=3409629360
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/pla-pastel-edition-baby-blue-1-75-mm-1-kg/p248
+        ean: '8594185642367'
+  - fid: deo4j
+    name: Black
+    color:
+      ral: RAL7024
+      pantone: 446 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4056-pla-black-1kg-1-75-1-product-preview.jpg?v=1820914307
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-black-1-75-mm-1-kg/p250
+        ean: '8594185642343'
+  - fid: eiv1l
+    name: White
+    color:
+      # original RAL150-1
+      ral: RAL150-1
+      hex: '#F7EFE9'
+      pantone: 7604 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4133-pla-white-1kg-1-75-1-product-preview.jpg?v=1320958410
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-white-1-75-mm-1-kg/p251
+        ean: '8594185642329'

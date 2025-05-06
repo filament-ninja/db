@@ -1,0 +1,24 @@
+name: Sunlu TPU
+material: TPU
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/products/moq-3kg-tpu-3d-printer-filament-1kg
+variants:
+  - fid: mi1oo
+    name: Black
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/TPU-1KG-BLACK.jpg?v=1710318158
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-TPU-BK-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/moq-3kg-tpu-3d-printer-filament-1kg?variant=48044620448026
+  - fid: haig8
+    name: White
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/TPU-1KG-WHITE.jpg?v=1710318158
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-TPU-WT-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/moq-3kg-tpu-3d-printer-filament-1kg?variant=48044620480794

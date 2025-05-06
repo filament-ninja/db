@@ -1,0 +1,186 @@
+name: Spectrum Huracan PLA
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/huracan-pla/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_Huracan-PLA-2643.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2023/11/en_tds_spectrum_pla_huracan.pdf
+variants:
+  - fid: soot5
+    name: True Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ed88c44c6b0f189f8d0916285240a072/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-TRUE-RED-1kg-1600_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/70c168aea31a95b005d166e7ef1d4148/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-TRUE-RED-1kg-1600_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1600-Filament-Spectrum-Huracan-PLA-1-75mm-TRUE-RED-1kg.html
+        ean: '5903175659927'
+        sku: '80931'
+  - fid: ohg3u
+    name: Traffic Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bf3633547c71dbdccfa3f4f09c32c684/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-TRAFFIC-BLACK-1kg-1599_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b9d326461c4d900c07464d7806bb6120/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-TRAFFIC-BLACK-1kg-1599_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1599-Filament-Spectrum-Huracan-PLA-1-75mm-TRAFFIC-BLACK-1kg.html
+        ean: '5903175659910'
+        sku: '80930'
+  - fid: ev5ph
+    name: Signal White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fa14a71e3b80b6565c07b8039add900c/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-SIGNAL-WHITE-1kg-1598_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/510abfd255778414e111947d7db28283/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-SIGNAL-WHITE-1kg-1598_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1598-Filament-Spectrum-Huracan-PLA-1-75mm-SIGNAL-WHITE-1kg.html
+        ean: '5903175659903'
+        sku: '80929'
+  - fid: oar0a
+    name: Royal Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/784a697eee4b454b701dcfa492f4b720/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ROYAL-BLUE-1kg-1597_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2ee5f9ecc01c4605d2e1e9727e99ddd0/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ROYAL-BLUE-1kg-1597_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1597-Filament-Spectrum-Huracan-PLA-1-75mm-ROYAL-BLUE-1kg.html
+        ean: '5903175659897'
+        sku: '80928'
+  - fid: aib3o
+    name: Purple Grape
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/cb59089a4415b38cf45a3ee5c43e69c7/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-PURPLE-GRAPE-1kg-1596_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/75ca0fc042b5191d6027b859e5945d1f/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-PURPLE-GRAPE-1kg-1596_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1596-Filament-Spectrum-Huracan-PLA-1-75mm-PURPLE-GRAPE-1kg.html
+        ean: '5903175659880'
+        sku: '80927'
+  - fid: jah8l
+    name: '!ola Pink'
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/90423f120436b64e9830c82966d820b4/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-OLA-PINK-1kg-1595_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a4e12e9c3ed7b9bb0a39acc84f1d52f9/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-OLA-PINK-1kg-1595_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1595-Filament-Spectrum-Huracan-PLA-1-75mm-OLA-PINK-1kg.html
+        ean: '5903175659873'
+        sku: '80926'
+  - fid: oa8ei
+    name: Lion Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/97d42eee0c4e7fa9db7598fc7bd32dd1/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-LION-ORANGE-1kg-1594_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b66643ae002813742c4438cb2ec740ba/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-LION-ORANGE-1kg-1594_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1594-Filament-Spectrum-Huracan-PLA-1-75mm-LION-ORANGE-1kg.html
+        ean: '5903175659866'
+        sku: '80925'
+  - fid: epu7u
+    name: Light Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3ca1048d3cb6b9a9e78ee0e4ea1b7db0/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-LIGHT-GREY-1kg-1593_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/159d6fbf08026e43ab326136a83b026e/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-LIGHT-GREY-1kg-1593_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1593-Filament-Spectrum-Huracan-PLA-1-75mm-LIGHT-GREY-1kg.html
+        ean: '5903175659859'
+        sku: '80924'
+  - fid: am5ho
+    name: Fresh Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1db7a6fa9e061c0aaf953efc30e50c30/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-FRESH-GREEN-1kg-1592_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/053692eec540bd50fe620f2a09779880/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-FRESH-GREEN-1kg-1592_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1592-Filament-Spectrum-Huracan-PLA-1-75mm-FRESH-GREEN-1kg.html
+        ean: '5903175659842'
+        sku: '80923'
+  - fid: iik4m
+    name: Cream Beige
+    images: []
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1591-Filament-Spectrum-Huracan-PLA-1-75mm-CREAM-BEIGE-1kg.html
+        ean: '5903175659835'
+        sku: '80922'
+  - fid: cip0z
+    name: Banana Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b776bd18973ad070828156b4c5c7367b/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-BANANA-YELLOW-1kg-1590_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5f3660a1fc5c5bd013a430289765e594/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-BANANA-YELLOW-1kg-1590_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1590-Filament-Spectrum-Huracan-PLA-1-75mm-BANANA-YELLOW-1kg.html
+        ean: '5903175659828'
+        sku: '80921'
+  - fid: ab4yi
+    name: Baby Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1855b5b3ada30f17aa957662f2ceb96b/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-BABY-BLUE-1kg-1589_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b82ea3deebd9ca2b014bddc3543f99b3/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-BABY-BLUE-1kg-1589_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1589-Filament-Spectrum-Huracan-PLA-1-75mm-BABY-BLUE-1kg.html
+        ean: '5903175659811'
+        sku: '80920'
+  - fid: tu2pa
+    name: Anthracite Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/dfa806255a72943092a64136184fe627/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ANTHRACITE-GREY-1kg-1588_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a22189a225910c857a07c14eade8e934/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ANTHRACITE-GREY-1kg-1588_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1588-Filament-Spectrum-Huracan-PLA-1-75mm-ANTHRACITE-GREY-1kg.html
+        ean: '5903175659804'
+        sku: '80919'
+  - fid: neic0
+    name: Aluminium Silver
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1315fae67a9759dda56c5688d962abc6/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ALUMINIUM-SILVER-1kg-1587_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9d0496116fe72a2acc6825edbe903158/eng_pm_Filament-Spectrum-Huracan-PLA-1-75mm-ALUMINIUM-SILVER-1kg-1587_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1587-Filament-Spectrum-Huracan-PLA-1-75mm-ALUMINIUM-SILVER-1kg.html
+        ean: '5903175659798'
+        sku: '80918'

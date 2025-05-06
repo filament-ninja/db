@@ -1,0 +1,86 @@
+name: Sunlu PETG
+material: PETG
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/en-cz/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll
+variants:
+  - fid: eez1r
+    name: Black
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-962344_a881b74d-1b00-4e0d-b6b2-24630c3df794.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-BK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647946522
+  - fid: aer4o
+    name: Transparent
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-513621_387111a0-1503-424d-9d2f-5e259e3035d8.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-TP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=48044597018906
+  - fid: seoj0
+    name: White
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-902628_b0345163-15fe-4a61-bcb4-68a1172fd996.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-WT-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647782682
+  - fid: waep9
+    name: Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-169090_28704167-92bc-4f74-9a7d-441799ee8c6a.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-RD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647880986
+  - fid: ooc8k
+    name: Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-299302_d495fbe8-0189-441c-9eed-d5bd8afbb6a8.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-BL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647815450
+  - fid: ew9yu
+    name: Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-143574_f5729212-d37e-45fe-8e64-9b8f499463c6.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-GN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647913754
+  - fid: cah5l
+    name: Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-999122_f97e4561-3640-45e4-ac7c-0e503b0407e7.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-GY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647717146
+  - fid: eez4g
+    name: Orange
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/products/sunlu-175mm-petg-3d-printer-filament-1kgroll-364706_04bc4e6e-d430-43ec-bf5f-a10906fd92f9.jpg?v=1722505807
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PETG-OR-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bundle-sale-petg-3d-printer-filament-1-75mm-1kg-roll?variant=43728647848218

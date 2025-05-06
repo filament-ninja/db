@@ -1,0 +1,140 @@
+name: colorFabb varioShore TPU
+material: TPU
+vendor: colorfabb
+refs:
+  web: https://colorfabb.com/filaments/materials/tpu-filaments/varioshore-tpu
+variants:
+  - fid: eish5
+    name: ' Natural'
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_natural.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+      1.75mm/4200g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+      2.85mm/4200g:
+        link: https://colorfabb.com/varioshore-tpu-natural
+  - fid: rue5b
+    name: ' Black'
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-black
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-black
+      1.75mm/4200g:
+        link: https://colorfabb.com/varioshore-tpu-black
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-black
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-black
+      2.85mm/4200g:
+        link: https://colorfabb.com/varioshore-tpu-black
+  - fid: vuj0r
+    name: ' Red'
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_red.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-red
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-red
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-red
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-red
+  - fid: io1be
+    name: ' Blue'
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_blue.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-blue
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-blue
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-blue
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-blue
+  - fid: bang5
+    name: ' Green'
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_green.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-green
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-green
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-green
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-green
+  - fid: keeb2
+    name: Prosthetic Natural
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_prosthetic_natural.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-prosthetic
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-prosthetic
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-prosthetic
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-prosthetic
+  - fid: oog3j
+    name: Prosthetic Dark Brown
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_prosthetic_dark-brown.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-dark-brown
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-dark-brown
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-dark-brown
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-dark-brown
+  - fid: waey8
+    name: Prosthetic Medium Brown
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_prosthetic_medium-brown.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-medium-brown
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-medium-brown
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-tpu-medium-brown
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-tpu-medium-brown
+  - fid: fe7ie
+    name: Prosthetic Pale Pink
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/v/a/varioshore_tpu_prosthetic_pale-pink.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/varioshore-prosthetic-pale-pink
+      1.75mm/2000g:
+        link: https://colorfabb.com/varioshore-prosthetic-pale-pink
+      2.85mm/700g:
+        link: https://colorfabb.com/varioshore-prosthetic-pale-pink
+      2.85mm/2000g:
+        link: https://colorfabb.com/varioshore-prosthetic-pale-pink

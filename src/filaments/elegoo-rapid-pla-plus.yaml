@@ -1,75 +1,130 @@
 name: Elegoo Rapid PLA+
 material: PLA
 vendor: elegoo
-link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+refs:
+  web: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
 variants:
 
   - fid: me6ei
     name: Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Black_a7424a29-b540-476b-8b51-22b70c3441ac.jpg?v=1722391495
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233510676
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-01
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233510676
 
   - fid: sho7a
     name: White
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-White_cef5c5fa-2987-4362-bd98-846d4718ea23.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233543444
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-02
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233543444
 
   - fid: um6oh
     name: Yellow
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Yellow_2eef9593-e55e-4fb5-8959-c381a5c8bba9.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233903892
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-08
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233903892
 
   - fid: ith9u
     name: Grey
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Grey_aebbe8bd-ee4a-4191-8605-d6d820569cba.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233608980
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-03
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233608980
 
   - fid: dae8v
     name: Red
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Red_ff9fa2f9-7871-4e54-a0cf-3f1c2483b694.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233805588
+      1.75mm/1000g:
+        sku: G5719-SPCZ-EL-RPP-06
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233805588
 
   - fid: ber2x
     name: Blue
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Blue_4fb2a017-d9a3-435a-b34d-f9632f7b3b11.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233740052
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-04
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233740052
 
   - fid: le5ae
     name: Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Green_7138c348-4e65-42d8-8c04-8cbfeb043fc1.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233674516
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-05
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233674516
   
   - fid: xahm7
     name: Orange
     color:
       hex: '#CC6A30'
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Orange_8c396ead-be96-4302-8fd5-27b866990f1a.jpg?v=1739353889
     sizes:
       '1.75mm/1000g':
+        sku: GWCZ-EL-RPP-07
         link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233969428
     refs:
       filamentcolors: elegoo-orange-pla-3399
 
   - fid: ui0do
     name: Silver
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Silver_6e9814e6-dbb9-481c-9b14-15b2b7f2aee9.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48565524398356
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-09
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48565524398356
 
   - fid: aer8a
     name: Beige
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Beige.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684502292
+      1.75mm/1000g:
+        sku: G5719-SPCZ-EL-RPP-12
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684502292
   
   - fid: sief6
     name: Brown
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PLA-Filament-1KG-Brown.jpg?v=1739353889
     sizes:
-      '1.75mm/1000g':
-        link: https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684535060
+      1.75mm/1000g:
+        sku: GWCZ-EL-RPP-11
+        link: >-
+          https://eu.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=48802684535060

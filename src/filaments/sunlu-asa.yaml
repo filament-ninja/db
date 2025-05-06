@@ -1,0 +1,24 @@
+name: Sunlu ASA
+material: ASA
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/products/sunlu-asa-filament-1-75mm
+variants:
+  - fid: laim3
+    name: Black
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/17452028809728.png?v=1745202940
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ASA-BK-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/sunlu-asa-filament-1-75mm?variant=44167851737370
+  - fid: fohv6
+    name: White (Natural)
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/17452029043009.png?v=1745202940
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-ASA-WT-1KG
+        link: >-
+          https://www.sunlu.com/en-cz/products/sunlu-asa-filament-1-75mm?variant=44457517678874

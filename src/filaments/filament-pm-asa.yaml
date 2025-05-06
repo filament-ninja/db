@@ -1,0 +1,76 @@
+name: Filament PM ASA
+material: ASA
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/asa175
+variants:
+  - fid: ue6de
+    name: Natur
+    color:
+      ral: RAL9002
+      pantone: 7632 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2000-MicrosoftTeams-image-10--product-preview.jpg?v=359226939
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4431-asa-natur-1kg-1-75-1-product-preview.jpg?v=1086929731
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/asa-natur-1-75-mm-2-kg/p284
+        ean: '8594185642695'
+      1.75mm/750g:
+        link: https://shop.filament-pm.com/asa-natur-1-75-mm-0-75-kg/p193
+        ean: '8594185641742'
+  - fid: fie8v
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: Black 6
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2001-MicrosoftTeams-image-11--product-preview.jpg?v=3728051614
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4686-asa-black-0-75kg-1-75-1-product-preview.jpg?v=1882433039
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/asa-black-1-75-mm-2-kg/p285
+        ean: '8594185642701'
+      1.75mm/750g:
+        link: https://shop.filament-pm.com/asa-black-1-75-mm-0-75-kg/p196
+        ean: '8594185641766'
+  - fid: rahf7
+    name: Blue
+    color:
+      ral: RAL5015
+      pantone: '3015'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1881-ASA-Blue-product-preview.jpg?v=3881702151
+    sizes:
+      1.75mm/750g:
+        link: https://shop.filament-pm.com/asa-blue-1-75-mm-0-75-kg/p194
+        ean: '8594185641759'
+  - fid: hie4i
+    name: Silver
+    color:
+      ral: RAL9007
+      pantone: 403 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4441-asa-silver-1kg-1-75-1-product-preview.jpg?v=1769430376
+    sizes:
+      1.75mm/750g:
+        link: https://shop.filament-pm.com/asa-silver-1-75-mm-0-75-kg/p195
+        ean: '8594185641773'
+  - fid: eith8
+    name: Brown
+    color:
+      ral: RAL8017
+      pantone: '497'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4839-ASA-BROWN2-product-preview.jpg?v=1570780880
+    sizes:
+      1.75mm/750g:
+        link: https://shop.filament-pm.com/asa-brown-1-75-mm-0-75-kg/p192
+        ean: '8594185641834'

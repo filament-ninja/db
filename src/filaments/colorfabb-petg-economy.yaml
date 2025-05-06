@@ -1,0 +1,130 @@
+name: colorFabb PETG Economy
+material: PETG
+vendor: colorfabb
+refs:
+  web: https://colorfabb.com/filaments/materials/co-polyester-filaments/petg-economy
+variants:
+  - fid: taas6
+    name: Black
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-black
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-black
+      1.75mm/4500g:
+        link: https://colorfabb.com/petg-economy-black
+      1.75mm/8000g:
+        link: https://colorfabb.com/petg-economy-black
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-black
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-black
+      2.85mm/4500g:
+        link: https://colorfabb.com/petg-economy-black
+      2.85mm/8000g:
+        link: https://colorfabb.com/petg-economy-black
+  - fid: uu2mo
+    name: White
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_white.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-white
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-white
+      1.75mm/4500g:
+        link: https://colorfabb.com/petg-economy-white
+      1.75mm/8000g:
+        link: https://colorfabb.com/petg-economy-white
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-white
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-white
+      2.85mm/4500g:
+        link: https://colorfabb.com/petg-economy-white
+      2.85mm/8000g:
+        link: https://colorfabb.com/petg-economy-white
+  - fid: are2t
+    name: Red
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_red.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-red
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-red
+      1.75mm/4500g:
+        link: https://colorfabb.com/petg-economy-red
+      1.75mm/8000g:
+        link: https://colorfabb.com/petg-economy-red
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-red
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-red
+      2.85mm/4500g:
+        link: https://colorfabb.com/petg-economy-red
+      2.85mm/8000g:
+        link: https://colorfabb.com/petg-economy-red
+  - fid: hei1e
+    name: Light Gray
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_light-gray.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      1.75mm/4500g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      1.75mm/8000g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      2.85mm/4500g:
+        link: https://colorfabb.com/petg-economy-light-gray
+      2.85mm/8000g:
+        link: https://colorfabb.com/petg-economy-light-gray
+  - fid: aihi1
+    name: Dark Gray
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_dark-gray.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      1.75mm/4500g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      1.75mm/8000g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      2.85mm/4500g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+      2.85mm/8000g:
+        link: https://colorfabb.com/petg-economy-dark-gray
+  - fid: pe0ko
+    name: Clear
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/p/e/petg-economy_clear.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/750g:
+        link: https://colorfabb.com/petg-economy-clear
+      1.75mm/2200g:
+        link: https://colorfabb.com/petg-economy-clear
+      2.85mm/750g:
+        link: https://colorfabb.com/petg-economy-clear
+      2.85mm/2200g:
+        link: https://colorfabb.com/petg-economy-clear

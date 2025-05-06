@@ -1,0 +1,15 @@
+name: Elegoo PLA-CF
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/pla-cf-filament-1-75mm-black-1kg
+variants:
+  - fid: ca3ei
+    name: Carbon Fiber Black
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/PLA-CF_Filament.jpg?v=1739185875
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PCF-101
+        link: >-
+          https://eu.elegoo.com/products/pla-cf-filament-1-75mm-black-1kg?variant=49496419336468

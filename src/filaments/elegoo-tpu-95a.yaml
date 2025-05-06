@@ -1,0 +1,26 @@
+name: Elegoo TPU 95A
+material: TPU
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/tpu-filament-1-75mm-colored-1kg
+variants:
+  - fid: gahh0
+    name: Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/TPU-Filament-1KG-Black_d9838632-267e-4170-a02e-c8c3c51b9ebb.jpg?v=1722391816
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-TPU-101
+        link: >-
+          https://eu.elegoo.com/products/tpu-filament-1-75mm-colored-1kg?variant=47962766180628
+  - fid: hi7oh
+    name: White
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/TPU-Filament-1KG-White_91838735-5cc7-44c1-b793-dad09ebb23e2.jpg?v=1722391816
+    sizes:
+      1.75mm/1000g:
+        sku: GWEU-EL-TPU-102
+        link: >-
+          https://eu.elegoo.com/products/tpu-filament-1-75mm-colored-1kg?variant=47962766213396

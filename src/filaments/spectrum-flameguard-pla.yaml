@@ -1,0 +1,98 @@
+name: Spectrum FlameGuard PLA
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pla-flameguard/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_FlameGuard-PLA-2645.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2024/11/en_tds_spectrum_flameguard_pla.pdf
+variants:
+  - fid: ui4tu
+    name: Technical Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/47f58b934d8ce815314a742baa4adb90/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-TECHNICAL-RED-1kg-2628_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/16987634171196fa95828836a1165038/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-TECHNICAL-RED-1kg-2628_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c46b6c8b7d042021bb5b8c1d730f8dc0/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-TECHNICAL-RED-1kg-2628_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2628-Filament-Spectrum-FlameGuard-PLA-1-75mm-TECHNICAL-RED-1kg.html
+        ean: '5905991405528'
+        sku: '81454'
+  - fid: ohw6s
+    name: Light Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1de289fbffa133aa57074bca5086b080/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-LIGHT-GREY-1kg-2626_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d03d7e1ad513784ff8ae254cab9d9fe3/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-LIGHT-GREY-1kg-2626_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/95e3b3c7f10d7dad4770f87a0357ab39/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-LIGHT-GREY-1kg-2626_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2626-Filament-Spectrum-FlameGuard-PLA-1-75mm-LIGHT-GREY-1kg.html
+        ean: '5905991405504'
+        sku: '81452'
+  - fid: ap0qu
+    name: Performance Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/67e9c504855ee088719e081375a0e4c8/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-PERFORMANCE-BLUE-1kg-2627_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3784ab6891a5c1107339a88182744bf7/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-PERFORMANCE-BLUE-1kg-2627_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1fa4a94ae6ca222f44c3f88cd4ce89aa/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-PERFORMANCE-BLUE-1kg-2627_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2627-Filament-Spectrum-FlameGuard-PLA-1-75mm-PERFORMANCE-BLUE-1kg.html
+        ean: '5905991405511'
+        sku: '81453'
+  - fid: ahng0
+    name: Industrial Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/300fdd73ec4c9662a650f09606be20fd/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-INDUSTRIAL-GREY-1kg-2625_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c12a8706aef4e33f80bbcaa9ed8d8b08/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-INDUSTRIAL-GREY-1kg-2625_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0daaaf4c3119b779a7e1361222f7d793/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-INDUSTRIAL-GREY-1kg-2625_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2625-Filament-Spectrum-FlameGuard-PLA-1-75mm-INDUSTRIAL-GREY-1kg.html
+        ean: '5905991405498'
+        sku: '81451'
+  - fid: moh9n
+    name: Polar White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ff513cd841b35c2b13074d2cf58d1959/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-POLAR-WHITE-0-25kg-2622_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0deaa153ed611e3d9b008f5dd364a3d6/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-POLAR-WHITE-0-25kg-2622_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5eb82a14c35176dd573c8f57a056a987/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-POLAR-WHITE-0-25kg-2622_1.jpg
+    sizes:
+      1.75mm/250g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2622-Filament-Spectrum-FlameGuard-PLA-1-75mm-POLAR-WHITE-0-25kg.html
+        ean: ''
+        sku: 0.25kg814481,00kg81450
+  - fid: tof2h
+    name: Midnight Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/dfb82fffef4f05eb623ed6ee95c1bb56/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-MIDNIGHT-BLACK-0-25kg-2582_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a231631d76ee8ad538028d6b4b4104b5/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-MIDNIGHT-BLACK-0-25kg-2582_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/45c3abc8ff1db5159c2808f089e48898/eng_pm_Filament-Spectrum-FlameGuard-PLA-1-75mm-MIDNIGHT-BLACK-0-25kg-2582_1.jpg
+    sizes:
+      1.75mm/250g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-2582-Filament-Spectrum-FlameGuard-PLA-1-75mm-MIDNIGHT-BLACK-0-25kg.html
+        ean: '5905991405450'
+        sku: 0.25kg814471,00kg81449

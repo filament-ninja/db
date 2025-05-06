@@ -1,0 +1,106 @@
+name: Elegoo PLA Pro
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg
+variants:
+  - fid: phe2u
+    name: Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Black_2f0f4214-316c-4b8e-acd8-e071b6f4883e.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-101
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168614164
+  - fid: ev6ge
+    name: White
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-White_d5656fc5-e959-41c6-a48c-5da01d4ffc38.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-102
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168646932
+  - fid: xee8e
+    name: Grey
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Grey_1afa39e8-f4b2-4a6a-9df7-a7f43d37a332.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: SPCZ-EL-PPR-108
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168679700
+  - fid: ou2ae
+    name: Burgundy Red
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-BurgundyRed_9bf27139-0ea7-469d-a2a0-11b33919722a.jpg?v=1722391593
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-103
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168712468
+  - fid: dah3u
+    name: Blue
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Blue_f03efcab-f12a-4e13-ad12-fa10cb179476.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-104
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168745236
+  - fid: vie6r
+    name: Light Blue
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-LightBlue_5e1ba0a2-8c43-42ce-a94b-82eb4db51648.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-105
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168778004
+  - fid: eek8i
+    name: Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Green_b7bfba40-bf2b-4d53-8214-cb4f358d62e0.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-106
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168810772
+  - fid: xie6i
+    name: Yellow
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Yellow_c02c6f7e-0a0c-481f-9aeb-ccaee4a15421.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-107
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168843540
+  - fid: shee9
+    name: Purple
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Purple_6c3b07fc-90fb-4c19-a150-6caccdf2a6cc.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-109
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168876308
+  - fid: utei1
+    name: Silver
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PLA-Pro-Filament-1KG-Silver_4dbf58e4-de39-430a-a918-f6bb92697881.jpg?v=1737518920
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PPR-110
+        link: >-
+          https://eu.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=47556168909076

@@ -1,0 +1,306 @@
+name: Filament PM PETG
+material: PETG
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/petg
+variants:
+  - fid: la2ju
+    name: Yellow
+    color:
+      ral: RAL1023
+      pantone: 012C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4818-PETG-YELLOW-PRODUKT-product-preview.jpg?v=4041995163
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-yellow-1-75-mm-1-kg/p49
+        ean: '8594185643630'
+  - fid: vu2sh
+    name: Transparent black
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4167-petg-black-1kg-1-75-1-product-preview.jpg?v=2447433672
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-black-1-75-mm-1-kg/p369
+        ean: '8594185643463'
+  - fid: kie8k
+    name: RePETG
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4714-repetg-1kg-1-75-1-product-preview.jpg?v=25761846
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/repetg-1-75-mm-1-kg/p253
+        ean: '8594185642220'
+  - fid: hash6
+    name: metalic edition - Froggy Gold
+    color:
+      ral: RAL7039
+      pantone: 417 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4234-petg-froggy-gold-1kg-1-75-1-product-preview.jpg?v=462498459
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/petg-metalic-edition-froggy-gold-1-75-mm-1kg/p345
+        ean: '8594185643357'
+  - fid: quai9
+    name: metallic edition - Coffee Bronze
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4224-petg-coffee-brown-1kg-1-75-1-product-preview.jpg?v=752811537
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/petg-metallic-edition-coffee-bronze-1-75-mm-1-kg/p346
+        ean: '8594185643371'
+  - fid: iema6
+    name: metallic edition - Slate Silver
+    color:
+      ral: RAL6024
+      pantone: 3295 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4254-petg-slate-silver-1kg-1-75-1-product-preview.jpg?v=381663153
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.filament-pm.com/petg-metallic-edition-slate-silver-1-75-mm-1-kg/p347
+        ean: '8594185643364'
+  - fid: rim8p
+    name: Green
+    color:
+      ral: RAL6024
+      pantone: 3295 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4244-petg-green-1kg-1-75-1-product-preview.jpg?v=3952123731
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-green-1-75-mm-1-kg/p327
+        ean: '8594185643166'
+  - fid: xah0e
+    name: Transparent Orange
+    color:
+      ral: RAL2001
+      pantone: 7585 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4170-petg-transparent-orange-1kg-1-75-1-product-preview.jpg?v=3311866424
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-orange-1-75-mm-1-kg/p286
+        ean: '8594185642732'
+  - fid: voo8o
+    name: Black
+    color:
+      ral: RAL7016
+      pantone: 432 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2119-PETG-5KG-ON-DEMAND-product-preview.jpg?v=783622248
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1871-PETG-BLACK-2KG-1-product-preview.jpg?v=536370220
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4773-petg-black-1kg-2-85-1-product-preview.jpg?v=2750903911
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4623-petg-black-1kg-1-75-1-1--product-preview.jpg?v=3064793387
+    sizes:
+      1.75mm/5000g:
+        link: https://shop.filament-pm.com/petg-black-1-75-mm-5-kg/p305
+        ean: '8594185642954'
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/petg-black-1-75-mm-2-kg/p152
+        ean: '8594185641407'
+      2.85mm/1000g:
+        link: https://shop.filament-pm.com/petg-black-2-85-mm-1-kg/p103
+        ean: '8594185640783'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-black-1-75-mm-1-kg/p58
+        ean: '8594185640707'
+  - fid: ex1uo
+    name: Transparent
+    color:
+      ral: RAL7004
+      pantone: Black 0961 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3832-petg-transparent-1kg-1-75-1-product-preview.jpg?v=4187352738
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-1-75-mm-1-kg/p48
+        ean: '8594185640646'
+  - fid: teey2
+    name: White
+    color:
+      ral: RAL9003
+      pantone: 663 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4807-petg-white-1kg-1-75-1-product-preview.jpg?v=3017020545
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-white-1-75-mm-1-kg/p390
+        ean: '8594185640653'
+  - fid: vae5e
+    name: Transparent Yellow
+    color:
+      ral: RAL1027
+      pantone: 1255 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4304-petg-transparent-yellow-1kg-1-75-1-product-preview.jpg?v=3428099963
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-yellow-1-75-mm-1-kg/p50
+        ean: '8594185640660'
+  - fid: kou6s
+    name: Orange
+    color:
+      ral: RAL2012
+      pantone: Bright Red C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3806-petg-orange-1kg-1-75-product-preview.jpg?v=2994975736
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-orange-1-75-mm-1-kg/p51
+        ean: '8594185640691'
+  - fid: eixa6
+    name: Orange 2018
+    color:
+      ral: RAL2008
+      pantone: 165 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3817-petg-orange-2018-1kg-1-75-1-product-preview.jpg?v=435416882
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-orange-2018-1-75-mm-1-kg/p163
+        ean: '8594185641537'
+  - fid: ahk3h
+    name: Red
+    color:
+      ral: RAL3028
+      pantone: 185 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3823-petg-red-1kg-1-75-1-product-preview.jpg?v=503883838
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-red-1-75-mm-1-kg/p158
+        ean: '8594185641261'
+  - fid: ophe3
+    name: Transparent Red
+    color:
+      ral: RAL3011
+      pantone: 7594 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4284-petg-transparent-red-1kg-1-75-1-product-preview.jpg?v=2689005494
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-red-1-75-mm-1-kg/p52
+        ean: '8594185640677'
+  - fid: vahf0
+    name: Transparent Violet
+    color:
+      ral: RAL4011
+      pantone: 226 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4294-petg-transparent-violet-1kg-1-75-1-product-preview.jpg?v=3955620028
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-violet-1-75-mm-1-kg/p53
+        ean: '8594185640714'
+  - fid: ceij6
+    name: Dark Purple
+    color:
+      ral: RAL4007
+      pantone: 518 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1858-PETG-DARKPURPLE-product-preview.jpg?v=4253771208
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-dark-purple-1-75-mm-1-kg/p179
+        ean: '8594185641681'
+  - fid: mau8o
+    name: Transparent Blue
+    color:
+      ral: RAL5005
+      pantone: '294'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3864-petg-transparent-blue-1kg-1-75-1-product-preview.jpg?v=2103457747
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-blue-1-75-mm-1-kg/p54
+        ean: '8594185640684'
+  - fid: aech9
+    name: Blue
+    color:
+      ral: RAL5005
+      pantone: '294'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4169-petg-blue-1kg-1-75-1-product-preview.jpg?v=2663215774
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-blue-1-75-mm-1-kg/p157
+        ean: '8594185641254'
+  - fid: oogh0
+    name: Turquoise Blue
+    color:
+      ral: RAL5018
+      pantone: 631 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3879-petg-turquoise-1kg-1-75-1-product-preview.jpg?v=2817484773
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-turquoise-blue-1-75-mm-1-kg/p180
+        ean: '8594185641698'
+  - fid: lu8ba
+    name: Transparent Green
+    color:
+      ral: RAL6018
+      pantone: 362 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4274-petg-transparent-green-1kg-1-75-1-product-preview.jpg?v=3810426683
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-green-1-75-mm-1-kg/p55
+        ean: '8594185640745'
+  - fid: uigh1
+    name: Transparent Brown
+    color:
+      ral: RAL8015
+      pantone: '175'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4264-petg-transparent-brown-1kg-1-75-1-product-preview.jpg?v=427582225
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-transparent-brown-1-75-mm-1-kg/p56
+        ean: '8594185640721'
+  - fid: pee7e
+    name: Grey
+    color:
+      ral: RAL7004
+      pantone: 422 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3796-petg-grey-1kg-1-75-product-preview.jpg?v=2129480324
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/petg-grey-1-75-mm-1-kg/p104
+        ean: '8594185641285'

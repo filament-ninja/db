@@ -1,0 +1,97 @@
+name: Spectrum PLA Crystal
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pla-crystal/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_PLA-Crystal-2638.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2023/10/en_tds_spectrum_pla_crystal.pdf
+variants:
+  - fid: ook6t
+    name: Neon Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a96b28a63ae1255757e36ebe030cb82d/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-GREEN-1kg-1570_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4549712f4962dfdbba3a54becd42d73f/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-GREEN-1kg-1570_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/368c7abf7e711f4cc83a4ce75987408a/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-GREEN-1kg-1570_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1570-Filament-PLA-Crystal-1-75mm-NEON-GREEN-1kg.html
+        ean: '5903175659507'
+        sku: '80888'
+  - fid: eij1o
+    name: Blue Horizon
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/16d41ce17b1a34057b4b27f9f90ea173/eng_pm_Filament-PLA-Crystal-1-75mm-BLUE-HORIZON-1kg-1569_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/05d6a6cd765be73ed153f95b88f2bd4f/eng_pm_Filament-PLA-Crystal-1-75mm-BLUE-HORIZON-1kg-1569_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18e96ccd54e8ed855491cef21ec905f7/eng_pm_Filament-PLA-Crystal-1-75mm-BLUE-HORIZON-1kg-1569_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1569-Filament-PLA-Crystal-1-75mm-BLUE-HORIZON-1kg.html
+        ean: '5903175659491'
+        sku: '80887'
+  - fid: bier9
+    name: Frozen Berry
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7a9430fdd954aacbde2e83c1ead16ce9/eng_pm_Filament-PLA-Crystal-1-75mm-FROZEN-BERRY-1kg-1568_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7636678f9ad7d29c57cc005f62020f87/eng_pm_Filament-PLA-Crystal-1-75mm-FROZEN-BERRY-1kg-1568_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/faa6d1c0ce737c41ec05fe17a5ea53c4/eng_pm_Filament-PLA-Crystal-1-75mm-FROZEN-BERRY-1kg-1568_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1568-Filament-PLA-Crystal-1-75mm-FROZEN-BERRY-1kg.html
+        ean: '5903175659484'
+        sku: '80886'
+  - fid: yae8a
+    name: Raspberry Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0da3e991456d451c75cb34e7975cde42/eng_pm_Filament-PLA-Crystal-1-75mm-RASPBERRY-RED-1kg-1567_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ea8c8186560c19338fc20093e7ce9035/eng_pm_Filament-PLA-Crystal-1-75mm-RASPBERRY-RED-1kg-1567_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/17441fbf7d8533d2c08671c6034fe7d9/eng_pm_Filament-PLA-Crystal-1-75mm-RASPBERRY-RED-1kg-1567_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1567-Filament-PLA-Crystal-1-75mm-RASPBERRY-RED-1kg.html
+        ean: '5903175659477'
+        sku: '80885'
+  - fid: quu7o
+    name: Neon Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b95e67a573b10d8bcdd5d12d59474d69/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-ORANGE-1kg-1566_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/10ff21ae042cb2f78272e8b18df473be/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-ORANGE-1kg-1566_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/260e387ca9763eea9267acdcb47a9c0c/eng_pm_Filament-PLA-Crystal-1-75mm-NEON-ORANGE-1kg-1566_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1566-Filament-PLA-Crystal-1-75mm-NEON-ORANGE-1kg.html
+        ean: '5903175659460'
+        sku: '80884'
+  - fid: eefu3
+    name: Electric Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/64ca66303244c395c6c6ade1d4a7a27c/eng_pm_Filament-PLA-Crystal-1-75mm-ELECTRIC-YELLOW-1kg-1565_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0ed1d47c7624fc6b4414aeeafb3f4101/eng_pm_Filament-PLA-Crystal-1-75mm-ELECTRIC-YELLOW-1kg-1565_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4dd6968815ad449fb82c70711632ab94/eng_pm_Filament-PLA-Crystal-1-75mm-ELECTRIC-YELLOW-1kg-1565_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1565-Filament-PLA-Crystal-1-75mm-ELECTRIC-YELLOW-1kg.html
+        ean: '5903175659453'

@@ -1,0 +1,115 @@
+name: Elegoo Rapid PETG
+material: PETG
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+variants:
+  - fid: iu0ae
+    name: Black
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGBlack.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-101
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708966912276
+  - fid: xoob4
+    name: White
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGWhite.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-102
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708966945044
+  - fid: ima5o
+    name: Grey
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGGrey.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-107
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708966977812
+  - fid: iequ3
+    name: Blue
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGBlue.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-104
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967010580
+  - fid: or0ou
+    name: Green
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGGreen.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-105
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967043348
+  - fid: av3ie
+    name: Red
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGRed.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-103
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967076116
+  - fid: hu6oo
+    name: Orange
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGOrange.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-108
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967108884
+  - fid: iez4a
+    name: Yellow
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/RAPIDPETG1KGYellow.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-106
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967141652
+  - fid: xoo4d
+    name: Space Grey
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Rapid-PETG-1KG-Space-Grey.jpg?v=1716790016
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-113
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48802771370260
+  - fid: zuaf0
+    name: Beige
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Rapid-PETG-1KG-Beige.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-112
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48802771435796
+  - fid: esoo1
+    name: Brown
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Rapid-PETG-1KG-Brown.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-110
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48802771566868
+  - fid: eey8x
+    name: Transparent
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Rapid_PETG-Transparent.jpg?v=1739354228
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PTG-111
+        link: >-
+          https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=49276202516756

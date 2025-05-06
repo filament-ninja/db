@@ -1,0 +1,58 @@
+name: colorFabb TPU 85A
+material: TPU
+vendor: colorfabb
+refs:
+  web: https://colorfabb.com/filaments/materials/tpu-filaments/tpu-85a
+variants:
+  - fid: ieb6l
+    name: Black
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_black.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-black
+      2.85mm/700g:
+        link: https://colorfabb.com/tpu-85a-black
+  - fid: tis2i
+    name: White
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_white.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-white
+      2.85mm/700g:
+        link: https://colorfabb.com/tpu-85a-white
+  - fid: ux2pu
+    name: Red
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_red.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-red
+  - fid: yue6s
+    name: Orange
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_orange.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-orange
+  - fid: aeth7
+    name: Green
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_green.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-green
+  - fid: ua5sh
+    name: Blue
+    images:
+      - url: >-
+          https://colorfabb.com/media/catalog/product/t/p/tpu85a_blue.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500
+    sizes:
+      1.75mm/700g:
+        link: https://colorfabb.com/tpu-85a-blue

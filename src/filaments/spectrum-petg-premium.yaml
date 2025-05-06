@@ -1,0 +1,615 @@
+name: Spectrum PET-G Premium
+material: PETG
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pet-g-premium/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PETG_Spectrum_PETG-Premium-2668.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2022/05/en_tds_spectrum_petg_premium.pdf
+variants:
+  - fid: oh6qu
+    name: Deep Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/163f9b9188baed173ac88cddb812ffac/eng_pm_Filament-Spectrum-PETG-Premium-High-Speed-1-75mm-DEEP-BLACK-1kg-2699_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3d03b776438f3d30b8f48eeb3389a0eb/eng_pm_Filament-Spectrum-PETG-Premium-High-Speed-1-75mm-DEEP-BLACK-1kg-2699_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/9d04b97a3824fceb240cebf479cd30f3/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-8kg-RAL-9017-1468_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/66d4914c9070bf212a88c8c93392b593/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-8kg-RAL-9017-1468_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/52e175f1d125cb6f45eef4f17b0bb284/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-4-5kg-RAL-9017-1428_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8ced7b8397350ca08afe8cacdff6c7bf/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-4-5kg-RAL-9017-1428_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7615cdae2fcbd1d7578a9a6605ae486e/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-2kg-RAL-9017-667_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4f284ff6fae9018c0325986330b912f7/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-2kg-RAL-9017-667_5.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/163f9b9188baed173ac88cddb812ffac/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-1kg-RAL-9017-564_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3d03b776438f3d30b8f48eeb3389a0eb/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-1kg-RAL-9017-564_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-564-Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-1kg-RAL-9017.html
+        ean: '5903175657602'
+        sku: '80056'
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1468-Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-8kg-RAL-9017.html
+        ean: '5903175654625'
+        sku: '80684'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1428-Filament-Spectrum-Premium-PET-G-1-75mm-DEEP-BLACK-4-5kg-RAL-9017.html
+        ean: '5903175653116'
+        sku: '80628'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-667-Filament-Spectrum-PET-G-Premium-1-75mm-DEEP-BLACK-2kg-RAL-9017.html
+        ean: '5903175651303'
+        sku: '80160'
+  - fid: oej8o
+    name: Pearl Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/694dc4fe7c0bfd98bd068f90be19c4f6/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PEARL-GOLD-1kg-RAL-1036-1557_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/70dae5458c2add4fee7ae21a3541f6b7/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PEARL-GOLD-1kg-RAL-1036-1557_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1557-Filament-Spectrum-PET-G-Premium-1-75mm-PEARL-GOLD-1kg-RAL-1036.html
+        ean: '5903175653925'
+        sku: '80602'
+    color:
+      ral: RAL1036
+  - fid: ul1fa
+    name: Wizard Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a56dd504a29315763bb863c99cc3a396/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-GREEN-1kg-1556_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a5f69d4c7c7bc21b3dacdef1b3c367ba/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-GREEN-1kg-1556_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1556-Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-GREEN-1kg.html
+        ean: '5903175654687'
+        sku: '80830'
+  - fid: uush4
+    name: Wizard Indigo
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c8479873daacb81201c9f8c9fe37ea15/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-INDIGO-1kg-1555_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d04219157fbc5068a74b1e485b292e38/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-INDIGO-1kg-1555_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1555-Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-INDIGO-1kg.html
+        ean: '5903175654694'
+        sku: '80832'
+  - fid: ooth7
+    name: Wizard Charcoal
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4e40bf050da507f30fe41ccda80e3458/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-CHARCOAL-1kg-1554_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/45ca16cd0a076157302a948dbe664dc7/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-CHARCOAL-1kg-1554_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1554-Filament-Spectrum-PET-G-Premium-1-75mm-WIZARD-CHARCOAL-1kg.html
+        ean: '5903175654700'
+        sku: '80831'
+  - fid: eed7a
+    name: Turquoise Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4b2fcef62a586364475af341c77109ae/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TURQUOISE-BLUE-1kg-RAL-5018-1553_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b97893ddc180b6a863889fe942a447cc/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TURQUOISE-BLUE-1kg-RAL-5018-1553_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1553-Filament-Spectrum-PET-G-Premium-1-75mm-TURQUOISE-BLUE-1kg-RAL-5018.html
+        ean: '5903175653918'
+        sku: '80601'
+    color:
+      ral: RAL5018
+  - fid: oht4o
+    name: Light Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d7ef253f6b48ea84dfb6247b59b545ee/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LIGHT-GREY-1kg-RAL-7035-1552_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fbb3f43028b3047b2650c29b344971c9/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LIGHT-GREY-1kg-RAL-7035-1552_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1552-Filament-Spectrum-PET-G-Premium-1-75mm-LIGHT-GREY-1kg-RAL-7035.html
+        ean: '5903175653901'
+        sku: '80600'
+    color:
+      ral: RAL7035
+  - fid: hiph7
+    name: Signal Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/72e450162add489dbaaa16c383c7c04b/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SIGNAL-YELLOW-1kg-RAL-1003-1551_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/efa6b1134273ccc0d19446dee938f46c/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SIGNAL-YELLOW-1kg-RAL-1003-1551_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1551-Filament-Spectrum-PET-G-Premium-1-75mm-SIGNAL-YELLOW-1kg-RAL-1003.html
+        ean: '5903175653949'
+        sku: '80604'
+    color:
+      ral: RAL1003
+  - fid: voo7a
+    name: Olive Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6a93b37ea8155aaf87f1924eeb992422/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-OLIVE-GREEN-1kg-RAL-6003-1550_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/069ecd4e18f4a8872333b7cd4c0114eb/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-OLIVE-GREEN-1kg-RAL-6003-1550_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1550-Filament-Spectrum-PET-G-Premium-1-75mm-OLIVE-GREEN-1kg-RAL-6003.html
+        ean: '5903175653932'
+        sku: '80603'
+    color:
+      ral: RAL6003
+  - fid: bo9pu
+    name: Mint Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b8b1c618194b8e21e9a21dabe74b9af8/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-MINT-GREEN-1kg-RAL-6029-1549_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2946e3db02bfd3b24a4d2ad0f449a2e4/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-MINT-GREEN-1kg-RAL-6029-1549_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1549-Filament-Spectrum-PET-G-Premium-1-75mm-MINT-GREEN-1kg-RAL-6029.html
+        ean: '5903175653871'
+        sku: '80597'
+    color:
+      ral: RAL6029
+  - fid: sho9e
+    name: Chocolate Brown
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7a258d418f986cf9b02be69ed7f331d2/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-CHOCOLATE-BROWN-1kg-RAL-8016-1548_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77316ae071e33aae355bbd829943bf88/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-CHOCOLATE-BROWN-1kg-RAL-8016-1548_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1548-Filament-Spectrum-PET-G-Premium-1-75mm-CHOCOLATE-BROWN-1kg-RAL-8016.html
+        ean: '5903175653888'
+        sku: '80598'
+    color:
+      ral: RAL8016
+  - fid: iv8fu
+    name: Beige
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8cebb5f4fa6fe114d97914257f1a5c95/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BEIGE-1kg-RAL-1002-1547_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5f54f2e870dc0391be5d18b238f49958/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BEIGE-1kg-RAL-1002-1547_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1547-Filament-Spectrum-PET-G-Premium-1-75mm-BEIGE-1kg-RAL-1002.html
+        ean: '5903175653895'
+        sku: '80599'
+    color:
+      ral: RAL1002
+  - fid: ki5ch
+    name: Antracite Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/133ed3348ae4f965b65b78b152602a2b/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ANTRACITE-GREY-1kg-RAL-7016-1546_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/64e24732d92edeca61e672ef2df12828/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ANTRACITE-GREY-1kg-RAL-7016-1546_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1546-Filament-Spectrum-PET-G-Premium-1-75mm-ANTRACITE-GREY-1kg-RAL-7016.html
+        ean: '5903175655035'
+        sku: '80833'
+    color:
+      ral: RAL7016
+  - fid: pait1
+    name: Iceland Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/be227b667b3ccd5c40a4f20e77821d88/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ICELAND-BLUE-1kg-1544_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fc9a5be667d5ff8def05bc8ccb496271/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ICELAND-BLUE-1kg-1544_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1544-Filament-Spectrum-PET-G-Premium-1-75mm-ICELAND-BLUE-1kg.html
+        ean: '5903175655219'
+        sku: '80733'
+  - fid: eu4ph
+    name: Navy Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8e263a7f08e39081409f525911bc232a/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-2kg-RAL-5002-1474_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bba9f9a403eab935cd55e0b11c41317d/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-2kg-RAL-5002-1474_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/364657e6c53278fec8abaca30c906dd0/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-8kg-RAL-5002-1470_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/39cabcfe1ac1dc9dc13d166542dcafbc/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-8kg-RAL-5002-1470_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/295653f3a21162ca1fb21cf4bb69e3cd/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-4-5kg-RAL-5002-1430_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/63d5407cad176ce68019e3006b69f75b/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-4-5kg-RAL-5002-1430_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b6af4bc9fb3676d501f5f1c757b25322/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-NAVY-BLUE-1kg-RAL-5002-1218_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a688a70a70761c0321fa9528a4fd8020/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-NAVY-BLUE-1kg-RAL-5002-1218_6.jpg
+    sizes:
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1474-Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-2kg-RAL-5002.html
+        ean: '5903175654281'
+        sku: '80640'
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1470-Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-8kg-RAL-5002.html
+        ean: '5903175654632'
+        sku: '80685'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1430-Filament-Spectrum-Premium-PET-G-1-75mm-NAVY-BLUE-4-5kg-RAL-5002.html
+        ean: '5903175654243'
+        sku: '80632'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1218-Filament-Spectrum-PET-G-Premium-1-75mm-NAVY-BLUE-1kg-RAL-5002.html
+        ean: '5903175652119'
+        sku: '80309'
+    color:
+      ral: RAL5002
+  - fid: cee2w
+    name: Bloody Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3ccdbbbefd418a37af68263eb9810320/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-2kg-RAL-3020-1473_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/296d12bf6917ae04124ad1993b2c9f9d/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-2kg-RAL-3020-1473_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0c1d59c5b3878b65e904b98fa9f1a935/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-8kg-RAL-3020-1466_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1e054c4b94e4d84df3ec3fe9f11f8acd/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-8kg-RAL-3020-1466_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0d801e3c6d02ea56b506fc6c03b4afe7/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-4-5kg-RAL-3020-1348_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ee75c118a14d50e400b2c5f14dd875ee/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-4-5kg-RAL-3020-1348_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ca0b057185dcf59a318cc42f9f78b9a7/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-1kg-RAL-3020-567_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ede0e9cb62481a6eb7b81185e9925455/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-1kg-RAL-3020-567_4.jpg
+    sizes:
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1473-Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-2kg-RAL-3020.html
+        ean: '5903175650948'
+        sku: '80641'
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1466-Filament-Spectrum-Premium-PET-G-1-75mm-BLOODY-RED-8kg-RAL-3020.html
+        ean: '5903175654601'
+        sku: '80682'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1348-Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-4-5kg-RAL-3020.html
+        ean: '5903175654229'
+        sku: '80630'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-567-Filament-Spectrum-PET-G-Premium-1-75mm-BLOODY-RED-1kg-RAL-3020.html
+        ean: '5903175657596'
+        sku: '80059'
+    color:
+      ral: RAL3020
+  - fid: thi2e
+    name: Silver Star
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/15d34d4cc7aefb4d8a635a310b540cc2/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-8kg-RAL-9007-1469_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/59a2bc2595dcca3a6866965f1457f724/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-8kg-RAL-9007-1469_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/367da74b3b437917ab202f66937c806c/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-4-5kg-RAL-9007-1431_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/61199ab9f9229e564025c71239660b3f/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-4-5kg-RAL-9007-1431_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2062a98c4afd63cbe2268c415b66f09f/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-2kg-RAL-9007-1220_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/53b351f7fa586e0226869f159e818feb/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-2kg-RAL-9007-1220_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/646aa5f3a2dda974921c18979dd94aa4/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-1kg-RAL-9007-570_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d29ae9d29a1b8d57c0d9f2e940ad3242/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-1kg-RAL-9007-570_1.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1469-Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-8kg-RAL-9007.html
+        ean: '5903175654649'
+        sku: '80686'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1431-Filament-Spectrum-Premium-PET-G-1-75mm-SILVER-STAR-4-5kg-RAL-9007.html
+        ean: '5903175654274'
+        sku: '80633'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1220-Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-2kg-RAL-9007.html
+        ean: '5903175652034'
+        sku: '80311'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-570-Filament-Spectrum-PET-G-Premium-1-75mm-SILVER-STAR-1kg-RAL-9007.html
+        ean: '5903175657633'
+        sku: '80062'
+    color:
+      ral: RAL9007
+  - fid: soht0
+    name: Dark Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d64bae8423274b704376b35b6a921074/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-8kg-RAL-7011-1467_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/25db084e63b7bb7e6829cb9124be00bb/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-8kg-RAL-7011-1467_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/287f14a2b80f64a1ea537e2a57cfb367/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-4-5kg-RAL-7011-1429_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bcbdb4d1b0b931b2ddc33f94df9e0529/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-4-5kg-RAL-7011-1429_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/034e9039834b21b8bf997b492f146ed3/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-2kg-RAL-7011-1280_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ef9e7cb6a1ce52d3e94e80967ffe188f/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-2kg-RAL-7011-1280_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ceb7f06a789dea0d41274d760cd256f4/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-1kg-RAL-7011-1219_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/686ce57e19ee9e9ed4bf19d76fa88c64/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-1kg-RAL-7011-1219_5.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1467-Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-8kg-RAL-7011.html
+        ean: '5903175654618'
+        sku: '80683'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1429-Filament-Spectrum-Premium-PET-G-1-75mm-DARK-GREY-4-5kg-RAL-7011.html
+        ean: '5903175654236'
+        sku: '80631'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1280-Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-2kg-RAL-7011.html
+        ean: '5903175650573'
+        sku: '80433'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1219-Filament-Spectrum-PET-G-Premium-1-75mm-DARK-GREY-1kg-RAL-7011.html
+        ean: '5903175652102'
+        sku: '80310'
+    color:
+      ral: RAL7011
+  - fid: xieh2
+    name: Arctic White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7754fda06409b2f90fd884a2922e22a0/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-ARCTIC-WHITE-8kg-RAL-9016-1465_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/47dfebf4fa6d17c1e647d111fd1ba602/eng_pm_Filament-Spectrum-Premium-PET-G-1-75mm-ARCTIC-WHITE-8kg-RAL-9016-1465_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a8ee0e00977994c3ec60e8d76deb0ed5/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016-1347_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a4fc3890274803dedc14f03e5ccec8b8/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016-1347_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7c54baf64bf863ed31e13df673ff19d9/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-2kg-RAL-9016-668_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d17c2aaa5dbfca6166b13d4641f4f1d3/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-2kg-RAL-9016-668_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f8e348191a768433ba9bf4560806bfed/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-1kg-RAL-9016-565_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4ad5764beafce89b6ce183d3b012f1d5/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-1kg-RAL-9016-565_1.jpg
+    sizes:
+      1.75mm/8000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1465-Filament-Spectrum-Premium-PET-G-1-75mm-ARCTIC-WHITE-8kg-RAL-9016.html
+        ean: '5903175654595'
+        sku: '80681'
+      1.75mm/4500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1347-Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-4-5kg-RAL-9016.html
+        ean: '5903175653123'
+        sku: '80629'
+      1.75mm/2000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-668-Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-2kg-RAL-9016.html
+        ean: '5903175651297'
+        sku: '80161'
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-565-Filament-Spectrum-PET-G-Premium-1-75mm-ARCTIC-WHITE-1kg-RAL-9016.html
+        ean: '5903175657619'
+        sku: '80057'
+    color:
+      ral: RAL9016
+  - fid: iet1i
+    name: Pink
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/e4d0389a8c97dcc75804685df714b588/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PINK-1kg-RAL-4010-1351_6.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/30b695b20546274e12ad91c5cc9d2af3/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PINK-1kg-RAL-4010-1351_7.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1351-Filament-Spectrum-PET-G-Premium-1-75mm-PINK-1kg-RAL-4010.html
+        ean: '5903175653031'
+        sku: '80539'
+    color:
+      ral: RAL4010
+  - fid: chai3
+    name: Transparent Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2ec1083dc0b6b5e6a3125af9a2045d18/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLACK-1kg-1338_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/23eec4aee84eae1d6cf9634ac1a3945e/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLACK-1kg-1338_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1338-Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLACK-1kg.html
+        ean: '5903175657688'
+        sku: '80473'
+  - fid: nie3v
+    name: Lime Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/91c301177d2a2b07aa3295b48da51b34/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LIME-GREEN-1kg-RAL-6018-665_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d101ce1c581c63a8a3991f9db7f026e9/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LIME-GREEN-1kg-RAL-6018-665_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-665-Filament-Spectrum-PET-G-Premium-1-75mm-LIME-GREEN-1kg-RAL-6018.html
+        ean: '5903175657565'
+        sku: '80131'
+    color:
+      ral: RAL6018
+  - fid: uk3up
+    name: Premium Bahama Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bf91d9148a8366fb9594159d16b604ee/eng_pm_Filament-Spectrum-PET-G-1-75mm-Premium-BAHAMA-YELLOW-1kg-RAL-1018-568_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2d023badacd498e29cc25343cd0a62d5/eng_pm_Filament-Spectrum-PET-G-1-75mm-Premium-BAHAMA-YELLOW-1kg-RAL-1018-568_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-568-Filament-Spectrum-PET-G-1-75mm-Premium-BAHAMA-YELLOW-1kg-RAL-1018.html
+        ean: '5903175657572'
+        sku: '80060'
+    color:
+      ral: RAL1018
+  - fid: jahg0
+    name: Pacific Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/83f3a4a9b5c8532ac268d2bd40f92615/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PACIFIC-BLUE-1kg-RAL-5015-569_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/596e56c892721e49c340c73a7d094901/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-PACIFIC-BLUE-1kg-RAL-5015-569_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-569-Filament-Spectrum-PET-G-Premium-1-75mm-PACIFIC-BLUE-1kg-RAL-5015.html
+        ean: '5903175657589'
+        sku: '80061'
+    color:
+      ral: RAL5015
+  - fid: ahx2d
+    name: Transparent Yellow
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a9e846d5ccc1913bd8b642d35bb3a65a/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-YELLOW-1kg-557_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7aa67f4a5486acf3658181fb0e79ff68/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-YELLOW-1kg-557_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-557-Filament-PETG-1-75mm-TRANSPARENT-YELLOW-1kg.html
+        ean: '5903175657664'
+        sku: '80049'
+  - fid: edoh0
+    name: Transparent Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/0872d5aa1270387fbe56b78889b58d0e/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-RED-1kg-558_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3521fb64a931da8989786932fe805505/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-RED-1kg-558_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-558-Filament-PETG-1-75mm-TRANSPARENT-RED-1kg.html
+        ean: '5903175657640'
+        sku: '80050'
+  - fid: aeke2
+    name: Transparent Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8d5c05549db64f4a01ad4306b30ee02e/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-ORANGE-1kg-559_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/694ce3eda5234e9709ad15721c91f06e/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-ORANGE-1kg-559_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-559-Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-ORANGE-1kg.html
+        ean: '5903175657671'
+        sku: '80051'
+  - fid: hi1la
+    name: Transparent Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/aff56a5270bb424531ebbed07f00783c/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLUE-1kg-560_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4134c153a54dd5ebe257ec03d401762d/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLUE-1kg-560_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-560-Filament-Spectrum-PET-G-Premium-1-75mm-TRANSPARENT-BLUE-1kg.html
+        ean: '5903175657657'
+        sku: '80052'
+  - fid: pah6i
+    name: Glassy
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/81510b49244f3004638b57f647aae77a/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-GLASSY-1kg-562_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bbb449c81d453524a6060dd08ec3044d/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-GLASSY-1kg-562_1.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-562-Filament-Spectrum-PET-G-Premium-1-75mm-GLASSY-1kg.html
+        ean: '5903175657695'
+        sku: '80054'
+  - fid: ue3ei
+    name: Bottle Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3f76c8b6c0b8d8f1b9f7caec35bd0fad/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BOTTLE-GREEN-1kg-563_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7be507b60e4752204249c6f06b13b3aa/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-BOTTLE-GREEN-1kg-563_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-563-Filament-Spectrum-PET-G-Premium-1-75mm-BOTTLE-GREEN-1kg.html
+        ean: '5903175657701'
+        sku: '80055'
+  - fid: thai0
+    name: Lion Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a29b15e8b663dea5a74dd7c19493bc12/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LION-ORANGE-1kg-RAL-2004-566_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b0aaebee0fa1eb978b9e87366b669b7b/eng_pm_Filament-Spectrum-PET-G-Premium-1-75mm-LION-ORANGE-1kg-RAL-2004-566_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-566-Filament-Spectrum-PET-G-Premium-1-75mm-LION-ORANGE-1kg-RAL-2004.html
+        ean: '5903175657626'
+        sku: '80058'
+    color:
+      ral: RAL2004

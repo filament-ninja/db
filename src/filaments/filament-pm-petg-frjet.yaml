@@ -1,0 +1,44 @@
+name: Filament PM PETG FRJet
+material: PETG
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/frjet
+variants:
+  - fid: iepi6
+    name: White
+    color:
+      ral: RAL9003
+      pantone: 663 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4792-FRJET-WHITE-NEW-SPOOL1-product-preview.jpg?v=4017030925
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2933-pic-frjet-white-2kg-1-75-1-product-preview.jpg?v=3885314808
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/petg-frjet-self-extinguishing-white-1-75-mm-0-5-kg/p166
+        ean: '8594185641568'
+      1.75mm/2000g:
+        link: >-
+          https://shop.filament-pm.com/petg-frjet-self-extinguishing-white-1-75-mm-2-kg/p370
+        ean: '8594185643425'
+  - fid: hu8ci
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: Black 6
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4794-FRJET-BLACK-NEWSPOOL1-product-preview.jpg?v=1022838468
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3630-pic-frjet-black-2kg-1-75-1-product-preview.jpg?v=3315726769
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/petg-frjet-self-extinguishing-black-1-75-mm-0-5-kg/p173
+        ean: '8594185641629'
+      1.75mm/2000g:
+        link: >-
+          https://shop.filament-pm.com/petg-frjet-self-extinguishing-black-1-75-mm-2-kg/p371
+        ean: '8594185643449'

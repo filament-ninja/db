@@ -1,0 +1,125 @@
+name: Spectrum Light Weight PLA
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/light-weight-pla/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_Light-Weight-PLA-2646.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2024/02/en_tds_spectrum_light_weight_pla.pdf
+variants:
+  - fid: aes0a
+    name: Traffic Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bed6c60436c284e54db904a528bc34f2/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-0-25kg-1669_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/25eb6e4bfd28344b1421bfdc35b1ffc6/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-0-25kg-1669_4.jpg
+    sizes:
+      1.75mm/250g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1669-Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-0-25kg.html
+        ean: '5905991400608'
+        sku: '81000'
+  - fid: ic5th
+    name: Pure White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4a5ac0067660d58e5d2fa58ad488bc5e/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-0-25kg-1668_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f9cdff20c8b6d0c1d3de4f920167aefe/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-0-25kg-1668_3.jpg
+    sizes:
+      1.75mm/250g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1668-Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-0-25kg.html
+        ean: '5905991400592'
+        sku: '80999'
+  - fid: isae1
+    name: Traffic  Black
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/7b0c972d5ab4265ca126c85932b5be3a/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-1kg-1667_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/090e93c25185551be19cedd875df1796/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-1kg-1667_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1667-Filament-Spectrum-Light-Weight-PLA-1-75mm-TRAFFIC-BLACK-1kg.html
+        ean: '5905991400615'
+        sku: '81007'
+  - fid: aep9e
+    name: Pure White
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c6fa49e245e4c8ee7b3a0c318ece5d87/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-1kg-1666_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ac378277a50a7d6fbfac66e8695d5b94/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-1kg-1666_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1666-Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-WHITE-1kg.html
+        ean: '5905991400677'
+        sku: '81006'
+  - fid: iez5z
+    name: Pure Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6aeca1d1f0aa010ba7626e5761709ca0/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-RED-1kg-1665_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a437dcd3ed4e99583bfe6db85244d2ca/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-RED-1kg-1665_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1665-Filament-Spectrum-Light-Weight-PLA-1-75mm-PURE-RED-1kg.html
+        ean: '5905991400660'
+        sku: '81005'
+  - fid: foht7
+    name: Persian Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/89774a8a03b884880d971ff6d7231e24/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PERSIAN-BLUE-1kg-1664_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/addcf185b83a3f9f9a9cb6aacc918c9c/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-PERSIAN-BLUE-1kg-1664_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1664-Filament-Spectrum-Light-Weight-PLA-1-75mm-PERSIAN-BLUE-1kg.html
+        ean: '5905991400653'
+        sku: '81004'
+  - fid: lae3e
+    name: Lion Orange
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b251beb27e3c2e0589a0f94c881ded96/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-LION-ORANGE-1kg-1663_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8e18931f713ff1ee7b0c6778588bd9cd/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-LION-ORANGE-1kg-1663_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1663-Filament-Spectrum-Light-Weight-PLA-1-75mm-LION-ORANGE-1kg.html
+        ean: '5905991400646'
+        sku: '81003'
+  - fid: ga0ei
+    name: Light Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/6e6ead138127a3b07eb91897a4071ac2/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-LIGHT-GREY-1kg-1662_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77092ca12f73212419f706f4b97474f4/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-LIGHT-GREY-1kg-1662_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1662-Filament-Spectrum-Light-Weight-PLA-1-75mm-LIGHT-GREY-1kg.html
+        ean: '5905991400639'
+        sku: '81002'
+  - fid: ohh8e
+    name: Dark Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f338a3ffa6c0d79943dae9ac658f8e37/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-DARK-GREY-1kg-1661_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5b37ccd16e9582431b82702edcaaaa13/eng_pm_Filament-Spectrum-Light-Weight-PLA-1-75mm-DARK-GREY-1kg-1661_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1661-Filament-Spectrum-Light-Weight-PLA-1-75mm-DARK-GREY-1kg.html
+        ean: '5905991400622'
+        sku: '81001'

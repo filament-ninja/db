@@ -1,0 +1,369 @@
+name: Filament PM PLA
+material: PLA
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/pla
+variants:
+  - fid: yei4i
+    name: RePLA
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4784-4624-repla-1kg-1-75-1-product-detail-xlarge-product-preview.jpg?v=2123529022
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/repla-1-75-mm-1-kg/p356
+        ean: '8594185642855'
+  - fid: phe8c
+    name: Envy Green
+    color:
+      ral: RAL6003
+      pantone: 7762 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4334-pla-envy-green-1kg-1-75-1-product-preview.jpg?v=460899712
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-envy-green-1-75-mm-1-kg/p325
+        ean: '8594185643173'
+  - fid: pi9em
+    name: Graphite black
+    color:
+      ral: RAL7015
+      pantone: 7540 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3946-pla-graphite-black-1kg-1-75-1-product-preview.jpg?v=3436787655
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-graphite-black-1-75-mm-1-kg/p299
+        ean: '8594185643005'
+  - fid: eel9y
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: 446 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2118-PLA-5KG-ON-DEMAND-product-preview.jpg?v=2183651016
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1828-PLA-cerna-2-product-preview.jpg?v=2337804600
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1837-PLA-black-2KG-product-preview.jpg?v=519471490
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3906-pla-black-1kg-1-75-product-preview.jpg?v=2888116807
+    sizes:
+      1.75mm/5000g:
+        link: https://shop.filament-pm.com/pla-black-1-75-mm-5-kg/p304
+        ean: '8594185642961'
+      2.85mm/1000g:
+        link: https://shop.filament-pm.com/pla-black-2-85-mm-1-kg/p80
+        ean: '8594185640271'
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/pla-black-1-75-mm-2-kg/p150
+        ean: '8594185641384'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-black-1-75-mm-1-kg/p85
+        ean: '8594185640202'
+  - fid: aih6y
+    name: Metallic Violet
+    color:
+      ral: RAL4011
+      pantone: 7661 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4374-pla-metallic-green-1kg-1-75-1-product-preview.jpg?v=642867621
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-metallic-violet-1-75-mm-1-kg/p71
+        ean: '8594185640103'
+  - fid: aid1k
+    name: White
+    color:
+      ral: RAL9003
+      pantone: 663 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/2122-PLA-1-product-preview.jpg?v=2876915084
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4016-pla-white-1kg-1-75-1-product-preview.jpg?v=1320958410
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/pla-white-1-75-mm-2-kg/p149
+        ean: '8594185641377'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-white-1-75-mm-1-kg/p61
+        ean: '8594185640028'
+  - fid: uk1uv
+    name: MarbleJet - Light
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4698-marblejet-light-0-5kg-1-75-1-product-preview.jpg?v=137701264
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/pla-marblejet-light-1-75-mm-0-5-kg/p164
+        ean: '8594185641544'
+  - fid: uoba0
+    name: Transparent
+    color:
+      ral: RAL9006
+      pantone: Black 0961 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4164-pla-transparent-1kg-1-75-1-product-preview.jpg?v=3872768215
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-transparent-1-75-mm-1-kg/p60
+        ean: '8594185640011'
+  - fid: ree2r
+    name: MarbleJet - Dark
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4705-marblejet-dark-0-5kg-1-75-1-product-preview.jpg?v=1192185871
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/pla-marblejet-dark-1-75-mm-0-5-kg/p165
+        ean: '8594185641551'
+  - fid: aize0
+    name: Copper
+    color:
+      ral: RAL8004
+      pantone: '4635'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1832-PLA-copper-2KG-1-product-preview.jpg?v=3489387048
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3926-pla-copper-1kg-1-75-1-product-preview.jpg?v=983926317
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/pla-copper-1-75-mm-2-kg/p169
+        ean: '8594185641599'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-copper-1-75-mm-1-kg/p65
+        ean: '8594185640172'
+  - fid: ieb6u
+    name: Beige
+    color:
+      ral: RAL1015
+      pantone: '726'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4620-pla-beige-1kg-1-75-1-product-preview.jpg?v=4128247862
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-beige-1-75-mm-1-kg/p62
+        ean: '8594185640035'
+  - fid: aoc5n
+    name: Blue
+    color:
+      ral: RAL5015
+      pantone: Process Blue C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1836-PLA-BLUE-2KG-product-preview.jpg?v=1673356123
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4324-pla-blue-1kg-1-75-1-product-preview.jpg?v=2489926532
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/pla-blue-1-75-mm-2-kg/p168
+        ean: '8594185641513'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-blue-1-75-mm-1-kg/p160
+        ean: '8594185640110'
+  - fid: obee3
+    name: Yellow
+    color:
+      ral: RAL1023
+      pantone: '1235'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4023-pla-yellow-1kg-1-75-1-product-preview.jpg?v=1858482372
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-yellow-1-75-mm-1-kg/p63
+        ean: '8594185640042'
+  - fid: joo8o
+    name: Silver
+    color:
+      ral: RAL9007
+      pantone: 877 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/1835-PLA-SILVER-2KG-1KG-product-preview.jpg?v=2998926709
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3996-pla-silver-1kg-1-75-1-product-preview.jpg?v=144023292
+    sizes:
+      1.75mm/2000g:
+        link: https://shop.filament-pm.com/pla-silver-1-75-mm-2-kg/p170
+        ean: '8594185641582'
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-silver-1-75-mm-1-kg/p78
+        ean: '8594185640141'
+  - fid: emob0
+    name: Gold
+    color:
+      ral: RAL1005
+      pantone: '131'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3936-pla-gold-1kg-1-75-1-product-preview.jpg?v=2565513069
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-gold-1-75-mm-1-kg/p64
+        ean: '8594185640189'
+  - fid: hah1e
+    name: Orange
+    color:
+      ral: RAL2004
+      pantone: '1655'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4163-pla-orange-1kg-1-75-1-product-preview.jpg?v=1744143751
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-orange-1-75-mm-1-kg/p189
+        ean: '8594185640066'
+  - fid: mied1
+    name: Pink
+    color:
+      ral: RAL4011
+      pantone: 226 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4414-pla-pink-1kg-1-75-1-product-preview.jpg?v=2503763028
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-pink-1-75-mm-1-kg/p69
+        ean: '8594185640073'
+  - fid: aim2d
+    name: Red
+    color:
+      ral: RAL3018
+      pantone: 7523 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4165-pla-red-1kg-1-75-1-product-preview.jpg?v=3398931888
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-red-1-75-mm-1-kg/p70
+        ean: '8594185640080'
+  - fid: aev8s
+    name: Pearl Red
+    color:
+      pantone: 7640 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4404-pla-pearl-red-1kg-1-75-1-product-preview.jpg?v=3659350799
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-pearl-red-1-75-mm-1-kg/p155
+        ean: '8594185641421'
+  - fid: pook6
+    name: Lila
+    color:
+      ral: RAL4005
+      pantone: '667'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4354-pla-lila-1kg-1-75-1-product-preview.jpg?v=1178101202
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-lila-1-75-mm-1-kg/p72
+        ean: '8594185640097'
+  - fid: aeth6
+    name: Yellowgreen
+    color:
+      ral: RAL6018
+      pantone: '363'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4424-pla-yellowgreen-1kg-1-75-1-product-preview.jpg?v=960849583
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-yellowgreen-1-75-mm-1-kg/p83
+        ean: '8594185640127'
+  - fid: om5wi
+    name: Green
+    color:
+      ral: RAL6024
+      pantone: 3295 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4344-pla-green-1kg-1-75-1-product-preview.jpg?v=385397272
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-green-1-75-mm-1-kg/p74
+        ean: '8594185640134'
+  - fid: yau4o
+    name: Metallic Green
+    color:
+      ral: RAL6012
+      pantone: '5467'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4364-pla-metallic-green-1kg-1-75-1-product-preview.jpg?v=642867621
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-metallic-green-1-75-mm-1-kg/p75
+        ean: '8594185641186'
+  - fid: jeem3
+    name: Pearl Green
+    color:
+      ral: RAL6037
+      pantone: 555 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4394-pla-pearl-green-1kg-1-75-1-product-preview.jpg?v=437610244
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-pearl-green-1-75-mm-1-kg/p153
+        ean: '8594185641414'
+  - fid: eif7e
+    name: Khaki
+    color:
+      ral: RAL7006
+      pantone: 871 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3956-pla-khaki-1kg-1-75-1-product-preview.jpg?v=485259368
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-khaki-1-75-mm-1-kg/p159
+        ean: '8594185641445'
+  - fid: pee1a
+    name: Pearl Blue
+    color:
+      ral: RAL5009
+      pantone: 7699 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4384-pla-pearl-blue-1kg-1-75-1-product-preview.jpg?v=3483854671
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-pearl-blue-1-75-mm-1-kg/p154
+        ean: '8594185641438'
+  - fid: aet5e
+    name: Brown
+    color:
+      ral: RAL8017
+      pantone: '497'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3916-pla-brown-1kg-1-75-1-product-preview.jpg?v=3969560114
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/pla-brown-1-75-mm-1-kg/p79
+        ean: '8594185640165'
+  - fid: wed3r
+    name: GlowJet
+    color: {}
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4724-pla-glowjet-0-5kg-1-75-1-product-preview.jpg?v=961652861
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/pla-glowjet-glowing-in-the-dark-1-75-mm-0-5-kg/p42
+        ean: '8594185641056'

@@ -1,0 +1,142 @@
+name: Elegoo Silk PLA
+material: PLA
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg
+variants:
+  - fid: woh2c
+    name: Gold
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-gold-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-S01
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863567124
+  - fid: ieh1a
+    name: Silver
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-silver-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-S03
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863599892
+  - fid: nain1
+    name: Green Red
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-green-red-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-3D-S02
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863632660
+  - fid: enai5
+    name: Blue Purple
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-blue-purple-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-115
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863665428
+  - fid: ce0ae
+    name: Coral Pink
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-coral-pink-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-116
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863698196
+  - fid: tie3r
+    name: Mint Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-mint-green-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-117
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863730964
+  - fid: phe3a
+    name: Bronze
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-bronze-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-118
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+  - fid: phei6
+    name: Holly Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-holly-green-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-123
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439491348
+  - fid: gi5ah
+    name: Black Red
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk_PLA_Filament_1.75mm_1KG_Silk_Black_Red.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-119
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49488037576980
+  - fid: hoi9b
+    name: Blue Purple Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk_PLA_Filament_1.75mm_1KG_Silk_Blue_Purple_Black.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-120
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49488037609748
+  - fid: aiw5u
+    name: Blue Green Orange
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk_PLA_Filament_1.75mm_1KG_Silk_Blue_Green_Orange.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-121
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49488037642516
+  - fid: kee3c
+    name: Black Purple
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-black-purple-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-127
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49770453926164
+  - fid: yaed0
+    name: Blue Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-blue-green-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-128
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49770453958932
+  - fid: pey9o
+    name: White
+    images:
+      - url: //eu.elegoo.com/cdn/shop/files/Silk-PLA-1-kg-white-1.jpg?v=1745312812
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-PLA-129
+        link: >-
+          https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49770453991700

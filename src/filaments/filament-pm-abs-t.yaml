@@ -1,0 +1,66 @@
+name: Filament PM ABS-T
+material: ABS
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/abs-t
+variants:
+  - fid: iuz4u
+    name: White
+    color:
+      ral: RAL9003
+      pantone: '705'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3751-abs-t-white-1kg-1-75-1-product-preview.jpg?v=1363093736
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-t-white-1-75-mm-1-kg/p142
+        ean: '8594185640295'
+  - fid: soth7
+    name: Orange
+    color:
+      ral: RAL2004
+      pantone: '1655'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4832-ABS-T-ORANGE2-product-preview.jpg?v=616941612
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-t-orange-1-75-mm-1-kg/p144
+        ean: '8594185640301'
+  - fid: uac9g
+    name: Yellowgreen
+    color:
+      ral: RAL6018
+      pantone: 368 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3761-abs-t-yellowgreen-1kg-1-75-1-product-preview.jpg?v=3325526328
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-t-yellowgreen-1-75-mm-1-kg/p27
+        ean: '8594185640349'
+  - fid: etah8
+    name: Silver
+    color:
+      ral: RAL9007
+      pantone: 877 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3741-abs-t-silver-1kg-1-75-1-product-preview.jpg?v=3723123721
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-t-silver-1-75-mm-1-kg/p146
+        ean: '8594185640356'
+  - fid: heuz4
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: Black 6
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/3720-abs-t-black-1kg-1-75-1-product-preview.jpg?v=1930159009
+    sizes:
+      1.75mm/1000g:
+        link: https://shop.filament-pm.com/abs-t-black-1-75-mm-1-kg/p40
+        ean: '8594185640394'

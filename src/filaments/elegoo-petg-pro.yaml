@@ -1,0 +1,86 @@
+name: Elegoo PETG Pro
+material: PETG
+vendor: elegoo
+refs:
+  web: https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg
+variants:
+  - fid: ka0ch
+    name: Black
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Black.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-101
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47735962435860
+  - fid: sahc4
+    name: White
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-White.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-102
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47735962468628
+  - fid: xae7o
+    name: Grey
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Grey.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-108
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47735962501396
+  - fid: ier9e
+    name: Silver
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Silver.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-110
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47735962796308
+  - fid: xah0b
+    name: Pink
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Pink.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-111
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47832406589716
+  - fid: ael2a
+    name: Red
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Red.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-112
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=47832406622484
+  - fid: wae1d
+    name: Olive Green
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Olive-Green.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-113
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=49520246554900
+  - fid: aix8e
+    name: Blue
+    images:
+      - url: >-
+          //eu.elegoo.com/cdn/shop/files/PETG-PRO-Filament-1.75mm-Colored-1KG-Blue.jpg?v=1732096726
+    sizes:
+      1.75mm/1000g:
+        sku: GWCZ-EL-GRO-104
+        link: >-
+          https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=50098197659924

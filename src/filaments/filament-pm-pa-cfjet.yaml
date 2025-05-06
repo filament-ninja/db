@@ -1,0 +1,18 @@
+name: Filament PM PA-CFJet
+material: PA
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/pacfjet
+variants:
+  - fid: cae0e
+    name: Black
+    color:
+      ral: RAL7024
+      pantone: 446 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4844-PA-CF-JET-BLACK2-product-preview.jpg?v=414864199
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/pa-cfjet-black-1-75-mm-0-5-kg/p306
+        ean: '8594185643098'

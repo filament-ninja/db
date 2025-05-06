@@ -1,0 +1,124 @@
+name: Sunlu Matte PLA
+material: PLA
+vendor: sunlu
+refs:
+  web: https://www.sunlu.com/en-cz/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament
+variants:
+  - fid: dae7y
+    name: Black
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEblack_d315d21f-f6a7-4fde-929c-626d9517c35c.jpg?v=1734669872
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-BK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870026010
+  - fid: cua0a
+    name: White
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEWHITE_c4d3cc10-b444-4899-a257-71dcae876829.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-WT-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870058778
+  - fid: pohz7
+    name: Grey
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEgrey_c6e97959-a41d-4d2c-8488-971095b20acf.jpg?v=1734669872
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-GY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870091546
+  - fid: piew6
+    name: Red
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEred_777a12e7-bed1-4f4e-a047-e70bdf2cd7c0.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-RD-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870124314
+  - fid: haeg5
+    name: Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEblue_e7a69e93-76b4-49cb-8fbc-7c8b616498dd.jpg?v=1734669872
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-BL-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870157082
+  - fid: ok9as
+    name: Bright Yellow
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/plamt-by.jpg?v=1734669877
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-BY-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870189850
+  - fid: ebae5
+    name: Green
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEgreen_91fe37e7-dbc8-4644-bd5a-b4cb65e0019f.jpg?v=1734669872
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-GN-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870222618
+  - fid: nee1g
+    name: Light Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTElightblue_52a42728-a6a1-45c0-9f81-899ab4f5ab33.jpg?v=1734669872
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-LB-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870255386
+  - fid: rash5
+    name: Powder Blue
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEpinkblue_eec3c0f2-11db-49a1-afe7-d70284b475a8.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-PB-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870288154
+  - fid: aebi4
+    name: Purple
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEpurple_1e641883-7706-4ec7-be30-f010cb8ee475.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-PP-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870320922
+  - fid: gove3
+    name: Pink
+    images:
+      - url: >-
+          //www.sunlu.com/cdn/shop/files/PLAMATTEpink_f75e620a-1e35-4697-9569-b394deec54dd.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-PK-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870353690
+  - fid: eiz0l
+    name: Clay
+    images:
+      - url: //www.sunlu.com/cdn/shop/files/matteclay.jpg?v=1734669873
+    sizes:
+      1.75mm/1000g:
+        sku: DLZ-EU-SL-PLAYG-CA-1KG
+        link: >-
+          https://www.sunlu.com/products/over-6kg-bulk-sale-pla-matte-filament-neatly-wound-filament?variant=50079870386458

@@ -1,0 +1,42 @@
+name: Filament PM TPU 96
+material: TPU
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/tpu-96
+variants:
+  - fid: iem7u
+    name: White
+    color:
+      ral: RAL9003
+      pantone: '705'
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4651-tpu96-white-0-5kg-1-75-1-product-preview.jpg?v=449516553
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/tpu-96-white-1-75-mm-0-5-kg/p384
+        ean: '8594185643609'
+  - fid: co3ja
+    name: Black
+    color:
+      ral: RAL9011
+      pantone: Black 6
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4641-tpu96-black-0-5kg-1-75-1-product-preview.jpg?v=935778633
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/tpu-96-black-1-75-mm-0-5-kg/p385
+        ean: '8594185643616'
+  - fid: gahb7
+    name: Natur
+    color:
+      ral: RAL9006
+      pantone: Cool Gray 4 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4661-tpu96-natur-0-5kg-1-75-1-product-preview.jpg?v=3917999564
+    sizes:
+      1.75mm/500g:
+        link: https://shop.filament-pm.com/tpu-96-natur-1-75-mm-0-5-kg/p386
+        ean: '8594185643593'

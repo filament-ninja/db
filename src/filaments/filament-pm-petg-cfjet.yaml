@@ -1,0 +1,19 @@
+name: Filament PM PETG CFJet
+material: PETG
+vendor: filament-pm
+refs:
+  web: https://shop.filament-pm.com/cfjet-carbon
+variants:
+  - fid: ap2ae
+    name: Black
+    color:
+      ral: RAL7024
+      pantone: 446 C
+    images:
+      - url: >-
+          https://shop.filament-pm.com/data/temp/product-images/4785-CFJET-CIVKA-NEW-product-preview.jpg?v=218173881
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.filament-pm.com/petg-cfjet-carbon-black-1-75-mm-0-5-kg/p41
+        ean: '8594185641094'

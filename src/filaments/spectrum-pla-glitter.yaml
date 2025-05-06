@@ -1,0 +1,345 @@
+name: Spectrum PLA Glitter
+material: PLA
+vendor: spectrum
+refs:
+  web: https://spectrumfilaments.com/en/filament/pla-glitter/
+  shop: https://shop.spectrumfilaments.com/eng_m_Our-offer_Materials_PLA_Spectrum_PLA-Glitter-2647.html
+datasheet: https://spectrumfilaments.com/wp-content/uploads/2022/05/en_tds_spectrum_pla_glitter.pdf
+variants:
+  - fid: ieja6
+    name: Violet
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4dce55386802ae1510b38d0d1db465fc/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-0-5kg-1690_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5bdffeb7509b30a28890c1f4a5451730/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-0-5kg-1690_2.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1690-Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-0-5kg.html
+        ean: '5903175659590'
+        sku: '80897'
+  - fid: aeph6
+    name: Sparkle Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d8d8a479ebc32f8bd8942488770a73b8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-0-5kg-1689_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/66180fa591bed51c8a61bebd8b05995b/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-0-5kg-1689_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f188c849a168caa3a97f615e302d1f11/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-0-5kg-1689_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-0-5kg-1689_1.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1689-Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-0-5kg.html
+        ean: '5903175650849'
+        sku: '80272'
+  - fid: ohgh3
+    name: Violet
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/8593a304915cdc7de0f7a2d78b91824f/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-1kg-1688_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/c440b4c96bcecfce6d21d57279ba74f6/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-1kg-1688_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1688-Filament-Spectrum-PLA-Glitter-1-75mm-VIOLET-1kg.html
+        ean: '5903175659583'
+        sku: '80898'
+  - fid: ahl0i
+    name: Sparkle Red
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/246938141bab8573f4457b07f4e53453/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-1kg-1263_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/eed8a769caa34d0d0882c876831518e4/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-1kg-1263_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/422bf4a90b7781cdf40b80cfe0f919de/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-1kg-1263_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4bd86943eb324f8e246ea5ed0ceaad93/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-1kg-1263_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1263-Filament-Spectrum-PLA-Glitter-1-75mm-SPARKLE-RED-1kg.html
+        ean: '5903175650801'
+        sku: '80274'
+  - fid: ew9el
+    name: Clear Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f01ffbc8dc5e0037e30e6468cfe02794/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-1kg-1262_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/53d68f22ee86029489c45172b7ebd1d0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-1kg-1262_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/422bf4a90b7781cdf40b80cfe0f919de/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-1kg-1262_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4bd86943eb324f8e246ea5ed0ceaad93/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-1kg-1262_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1262-Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-1kg.html
+        ean: '5903175650818'
+        sku: '80273'
+  - fid: thia4
+    name: Clear Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1f3b6c20a87637f8c9874f80fb177b54/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-0-5kg-1260_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/075c622224ae3e19307c12432e8e0fe8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-0-5kg-1260_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/00a39bfe2854fe0f8106dbfad3bc8b3a/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-0-5kg-1260_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-0-5kg-1260_1.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1260-Filament-Spectrum-PLA-Glitter-1-75mm-CLEAR-GOLD-0-5kg.html
+        ean: '5903175650870'
+        sku: '80271'
+  - fid: eim5o
+    name: Emerald Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/30a5f77a29bb0e2df6410663e4a00c66/eng_pm_Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg-1156_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/019589934073dfb06319e201051ac938/eng_pm_Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg-1156_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/efbe38b08fe7a0fad810f2cc6ebf24f0/eng_pm_Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg-1156_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg-1156_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg-1156_1.jpg
+    sizes:
+      2.85mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1156-Filament-PLA-Glitter-2-85mm-EMERALD-GREEN-1kg.html
+        ean: '5903175651631'
+        sku: '80188'
+  - fid: eik8e
+    name: Emerald Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/173196c49526db2784f139ab5e9c138f/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg-1154_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3676bc8181d4c15f576474b32f7745f6/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg-1154_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/efbe38b08fe7a0fad810f2cc6ebf24f0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg-1154_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg-1154_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg-1154_1.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1154-Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-0-5kg.html
+        ean: '5903175651563'
+        sku: '80184'
+  - fid: aive6
+    name: Stardust Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1ea012c75de7de0b6d007b80ec0acce4/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg-1153_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/85b302ec9c1882b0fc5088a563e52dad/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg-1153_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/06dcb77e4f8d46b6328b0b1433ef967b/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg-1153_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg-1153_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg-1153_1.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1153-Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-0-5kg.html
+        ean: '5903175651600'
+        sku: '80182'
+  - fid: raa3h
+    name: Aztec Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bbcd9c220b8156b135701e301ae023df/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg-1152_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/387a34f66749af3b589d4cf4907e6037/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg-1152_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3f4de13c56ed81ceb40d0112c9dff607/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg-1152_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg-1152_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg-1152_1.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1152-Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-0-5kg.html
+        ean: '5903175651587'
+        sku: '80186'
+  - fid: taon9
+    name: Emerald Green
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/19f12e6a41db4f169a0082c7d878a6f0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg-1151_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5262e1b592add778af1c4f8a27098e3a/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg-1151_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/efbe38b08fe7a0fad810f2cc6ebf24f0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg-1151_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/422bf4a90b7781cdf40b80cfe0f919de/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg-1151_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/4bd86943eb324f8e246ea5ed0ceaad93/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg-1151_2.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1151-Filament-Spectrum-PLA-Glitter-1-75mm-EMERALD-GREEN-1kg.html
+        ean: '5903175651556'
+        sku: '80183'
+  - fid: boor9
+    name: Aztec Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/bee75901923f7556cec1ba9e0b12246f/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg-1150_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/83dbe24028b02c5584182065435dcb60/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg-1150_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/e4068c75ab908744619770e12f3115d9/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg-1150_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg-1150_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg-1150_4.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1150-Filament-Spectrum-PLA-Glitter-1-75mm-AZTEC-GOLD-1kg.html
+        ean: '5903175651570'
+        sku: '80185'
+  - fid: aesh2
+    name: Stardust Blue
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18c0ae2b82d29e200d4b1255d1afc6c2/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg-1149_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1e33a8cd0bc700f445593941113afe57/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg-1149_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/06dcb77e4f8d46b6328b0b1433ef967b/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg-1149_5.png
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/18d5f0c7a02fde492c4bd5ce89d89b95/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg-1149_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/77996bd461b6f6e901733dda93fdb484/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg-1149_3.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-1149-Filament-Spectrum-PLA-Glitter-1-75mm-STARDUST-BLUE-1kg.html
+        ean: '5903175651594'
+        sku: '80181'
+  - fid: iebu5
+    name: Silver Metallic
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/fea9a980173e92634dfdc1b54a7e077a/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-1kg-714_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d75fe29978a6d6077ae0e72634c58f5b/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-1kg-714_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-1kg-714_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-1kg-714_5.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-714-Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-1kg.html
+        ean: '5903175651471'
+        sku: '80176'
+  - fid: iwee5
+    name: Silver Metallic
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a122998edab809e3e6986bc51e13cdfd/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-0-5kg-711_6.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/d6b92578dd54a640343cef92782a4aee/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-0-5kg-711_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-0-5kg-711_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-0-5kg-711_5.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-711-Filament-Spectrum-PLA-Glitter-1-75mm-SILVER-METALLIC-0-5kg.html
+        ean: '5903175651488'
+        sku: '80175'
+  - fid: fa4bo
+    name: Aurora Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ead919aa24674ba4ec9095753d76aea9/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5f23cf459e64a8e33f270533576b2468/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_7.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3ac9bf5183d32ecd9fa36b4bd0182f83/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/5f29b682620a53e27b2d9d32a88980c7/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg-672_5.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-672-Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-1kg.html
+        ean: '5903175651396'
+        sku: '80165'
+  - fid: yoo4p
+    name: Aurora Gold
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a665fc88ec3e7de3f05f35c3931d0425/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_9.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/f888353b60750bee82568250e492ae0f/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_8.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/3ac9bf5183d32ecd9fa36b4bd0182f83/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/e524f6ef043b507beff3864ea88f2381/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg-671_5.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-671-Filament-Spectrum-PLA-Glitter-1-75mm-AURORA-GOLD-0-50kg.html
+        ean: '5903175651402'
+        sku: '80164'
+  - fid: mosh3
+    name: Volcano Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/2300ba6c12e22f6dc80b8e2f79d5d840/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-0-50kg-670_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/ffb8c7b64b8c6f6b5320adca4f1a5282/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-0-50kg-670_4.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-0-50kg-670_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-0-50kg-670_5.jpg
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-670-Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-0-50kg.html
+        ean: '5903175651389'
+        sku: '80163'
+  - fid: figh4
+    name: Volcano Grey
+    images:
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/816ea3741abb69089ae333e74fc44eb6/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-1kg-669_3.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/b43239abcf82037471a86e63fd94efb4/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-1kg-669_1.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/a87b9d4f564b7ed00011e6ad45c4bab0/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-1kg-669_2.jpg
+      - url: >-
+          https://shop.spectrumfilaments.com/hpeciai/1bde7c5dad8a8c618603c0017da542a8/eng_pm_Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-1kg-669_5.jpg
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://shop.spectrumfilaments.com/product-eng-669-Filament-Spectrum-PLA-Glitter-1-75mm-VOLCANO-GREY-1kg.html
+        ean: '5903175651372'
+        sku: '80162'
