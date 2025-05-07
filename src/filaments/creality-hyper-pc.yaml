@@ -1,0 +1,15 @@
+name: Creality Hyper PC
+material: PC
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/hyper-pc-3d-printing-filament
+variants:
+  - fid: av6ji
+    name: Natural
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/af4caa52a52917b06f943bddc852725b.jpg?v=1739971303
+    sizes:
+      1.75mm/1000g:
+        sku: '3301070013'
+        link: https://store.creality.com/eu/products/hyper-pc-3d-printing-filament

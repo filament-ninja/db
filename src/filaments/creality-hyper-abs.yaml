@@ -1,0 +1,33 @@
+name: Creality Hyper ABS
+material: ABS
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/hyper-abs-3d-printing-filament
+variants:
+  - fid: iil5d
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/0385b16f242dae527d586902878010e5.jpg?v=1739868273
+    sizes:
+      1.75mm/1000g:
+        sku: '3301020040'
+        link: https://store.creality.com/eu/products/hyper-abs-3d-printing-filament
+  - fid: daez0
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/707630529029e1517e94a5996543d395.jpg?v=1739868273
+    sizes:
+      1.75mm/1000g:
+        sku: '3301020042'
+        link: https://store.creality.com/eu/products/hyper-abs-3d-printing-filament
+  - fid: ca4qu
+    name: Gray
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/17_Hyper-ABS.png?v=1739868273
+    sizes:
+      1.75mm/1000g:
+        sku: '3301020041'
+        link: https://store.creality.com/eu/products/hyper-abs-3d-printing-filament

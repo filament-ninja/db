@@ -1,0 +1,156 @@
+name: Creality Hyper PLA
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+variants:
+  - fid: kie6i
+    name: Gray
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/05440646e7e1224fbd7f521f076b369a.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010340'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: eiva9
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/ea301ed6a2560620339f636a480350c7.jpg?v=1739867955
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010343'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ahm6o
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/870b147611daeed9f361fec212d0396e.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010335'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: woo2l
+    name: Blue
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/dc22f48e37ad51e233163e91dee76169.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010341'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ooch4
+    name: Red
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/50a314786f3197ed1f8bc258b90ed0e6.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010342'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ahd2e
+    name: Brown
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/80801bfeb19398d0be5cbe6aac96559f.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010382'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ix7ei
+    name: Orange
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/ffa3c0f419317ecac3fcb8a1f56e36f8.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010381'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: rai6b
+    name: Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/155ac8f973c45eb1cf2b23db142820c5.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010380'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: tah4a
+    name: Flesh
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/e26828177e1eb2d1f2f08fb250b23e1a.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010378'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: zai3s
+    name: Yellow
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/25f3433950c0c535921d21e5844d77aa.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010379'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: zie2l
+    name: Very Peri
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/86c2d55fd4ee81f0de2484572d546fa3.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010412'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: yi2lo
+    name: Viva Magenta
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/f5de616e87ea62133c98edece0058c6e.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010413'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: aij7d
+    name: Peach Fuzz
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/54c0c356394ebe4f875e50ee6d0b704c.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010414'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: xa2ee
+    name: Purple
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/5634aac91460c625e6e2d00ab6c58a59.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010410'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+  - fid: kei0a
+    name: Gold
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/071528d01c42eb2c910bd12d917f76d5.jpg?v=1739867951
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010415'
+        link: >-
+          https://store.creality.com/eu/products/hyper-1-75mm-pla-3d-printing-filament-1kg

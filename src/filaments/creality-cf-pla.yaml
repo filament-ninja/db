@@ -1,0 +1,51 @@
+name: Creality PLA CF Carbon Fiber
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+variants:
+  - fid: aeng6
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/c505fdf1def12b8c4488c37339fc62d0.jpg?v=1739868119
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060015'
+        link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+  - fid: thae5
+    name: Greyish Yellow
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/5e3b5ba9bcf1b60be74f7d6ed60559c7.jpg?v=1739868119
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060017'
+        link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+  - fid: veen7
+    name: Purple
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/49be7bbb9f8cb1b2a64b3e7c26ce7992.jpg?v=1739868119
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060018'
+        link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+  - fid: loo2u
+    name: Ochre
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/524ecf0799bd29e20af1f363fd356d70.jpg?v=1739868119
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060019'
+        link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+  - fid: chae0
+    name: Dark Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/c783262294da5473217ce085e98c7ec2.jpg?v=1739868119
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060016'
+        link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament

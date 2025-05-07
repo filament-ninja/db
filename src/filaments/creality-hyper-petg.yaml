@@ -1,0 +1,78 @@
+name: Creality Hyper PETG
+material: PETG
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+variants:
+  - fid: am3ki
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/0db2e04049fb6bf11ada534329c603c9.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030043'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: xien1
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/826381c55627a7bda2b770274a77e71a.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030040'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: hei7a
+    name: Grey
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/48774711d4707966456775b55f4afab5.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030068'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: uh1oh
+    name: Red
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/8779a854a4dbe05862acfede39dcf5af.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030072'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: gahx2
+    name: Yellow
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/fec0b14d5944881b41941bdb16f2ef45.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030071'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: chei5
+    name: Blue
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/318c0f8abac98593179186332e7643da.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030070'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: pieb4
+    name: Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/5803d29fed4116c47259de4be5e7c9b7.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030069'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg
+  - fid: itah1
+    name: Transparent
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/0a5469254be6ee498f93d74b0b8bf696.jpg?v=1739868175
+    sizes:
+      1.75mm/1000g:
+        sku: '3301030042'
+        link: https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg

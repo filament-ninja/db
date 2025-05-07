@@ -1,0 +1,16 @@
+name: Creality PPA-CF Carbon Fiber
+material: PPA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/ppa-cf-carbon-fiber-3d-printing-filament
+variants:
+  - fid: aen4i
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/487d9ca4079aa90e55764d3d5360829c.png?v=1739971290
+    sizes:
+      1.75mm/1000g:
+        sku: '3301060020'
+        link: >-
+          https://store.creality.com/eu/products/ppa-cf-carbon-fiber-3d-printing-filament

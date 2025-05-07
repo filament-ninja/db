@@ -1,0 +1,15 @@
+name: Creality HP ASA
+material: ASA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/creality-hp-asa
+variants:
+  - fid: quie7
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/20_HP-ASA.png?v=1739868398
+    sizes:
+      1.75mm/1000g:
+        sku: '3301100002'
+        link: https://store.creality.com/eu/products/creality-hp-asa

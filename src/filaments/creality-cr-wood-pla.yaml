@@ -1,0 +1,15 @@
+name: Creality CR-Wood
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/cr-wood-1-75mm-filament-1kg
+variants:
+  - fid: vu4po
+    name: Default Title
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/12_CR-Wood.png?v=1739868315
+    sizes:
+      1.75mm/1000g:
+        sku: '3301130001'
+        link: https://store.creality.com/eu/products/cr-wood-1-75mm-filament-1kg

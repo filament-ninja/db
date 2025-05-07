@@ -1,0 +1,33 @@
+name: Creality High-speed Rainbow PLA
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/creality-high-speed-rainbow-pla
+variants:
+  - fid: ohf0o
+    name: Wild Blossom(short Gradient)
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/358c91bd895bbf209769100da02f36b9.jpg?v=1739868446
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010425'
+        link: https://store.creality.com/eu/products/creality-high-speed-rainbow-pla
+  - fid: oew2y
+    name: Wild Blossom(long Gradient)
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/24_Hyper_PLA_Rainbow.png?v=1739868446
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010426'
+        link: https://store.creality.com/eu/products/creality-high-speed-rainbow-pla
+  - fid: oi7ae
+    name: Spring Lake
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/0a657dc02b7cde00547cb0056d099957.jpg?v=1739868446
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010424'
+        link: https://store.creality.com/eu/products/creality-high-speed-rainbow-pla

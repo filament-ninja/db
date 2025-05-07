@@ -1,0 +1,116 @@
+name: Creality Soleyin Ultra PLA
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+variants:
+  - fid: eep7u
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/16df83e859fa871f5c879e6f1b835664.png?v=1739971299
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010500'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: apae9
+    name: Gray
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/ee8af7c6b161cabe177597ef8b3451cf.png?v=1739971300
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010501'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: see0e
+    name: Ocean Blue
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/b188710dbc98ad4ee94520a1633ab675.png?v=1739971299
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010502'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: jahd6
+    name: Grass Geen
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/3d4a2625a453a07b97207bfcf025199c.png?v=1739971300
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010503'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: ik0ie
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/6a529f23644ccbc83cdbb836a60c8bf1.png?v=1739971300
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010505'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: phi5f
+    name: Pineapple Yellow
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/a963ae468ea67bf5c34a2d0d45ebef1b.png?v=1739971299
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010506'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: ir4in
+    name: Macaron Purple
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/7017c88a4dcdb87167f8c942d80f800b.png?v=1739971302
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010507'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: die2f
+    name: Light Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/d28cf5c1bc32fb29647811999097657e.png?v=1739971300
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010508'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: la0ii
+    name: Rose Hip
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/3d20cc69bea9ad3f0a994958e87c240f.png?v=1739971299
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010509'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: quu0d
+    name: Strawberry Cream
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/4f543b8c9b90738d0a999fa22b73c9e1.png?v=1739971299
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010510'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  - fid: ur0ee
+    name: Matte Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/21b0ed096a7761a2a52d4acf39866a27.jpg?v=1739971300
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010513'
+        link: >-
+          https://store.creality.com/eu/products/soleyin-ultra-pla-3d-printing-filament-1kg

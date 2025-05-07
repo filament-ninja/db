@@ -1,0 +1,66 @@
+name: Creality CR-PLA Matte
+material: PLA
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+variants:
+  - fid: aequ0
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/4d79c8e14f82366c455cc4cb8a0ceb98.jpg?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010296'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ahph3
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/54fc589f2b5209d8cd63c2afe5448792.jpg?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010297'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+  - fid: iec8e
+    name: Blue
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/91a4163c9324defb4dae0a13b84cdb6e.jpg?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010298'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+  - fid: ooj3e
+    name: Gray
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/4de4f93cf6ff6bf862e2227d492e72b5.jpg?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010299'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+  - fid: rair7
+    name: Red
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/14_CR-PLA_Matte.png?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010300'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg
+  - fid: vai5a
+    name: Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/3a54bc64d7eb3a06bb76446dd324ca7b.jpg?v=1739868357
+    sizes:
+      1.75mm/1000g:
+        sku: '3301010301'
+        link: >-
+          https://store.creality.com/eu/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg

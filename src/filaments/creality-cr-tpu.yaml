@@ -1,0 +1,51 @@
+name: Creality CR-TPU
+material: TPU
+vendor: creality
+refs:
+  web: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
+variants:
+  - fid: sox0i
+    name: Black
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/dd92283b46ff458e8050f27d1e915d0e.jpg?v=1739868223
+    sizes:
+      1.75mm/1000g:
+        sku: '3301040040'
+        link: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
+  - fid: eesh7
+    name: White
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/d128ee297aa1b2a686a32a4e71249306.jpg?v=1739868223
+    sizes:
+      1.75mm/1000g:
+        sku: '3301040033'
+        link: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
+  - fid: ohg3e
+    name: Red
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/ed2c9472573859cf69d1bdb481f6d136.jpg?v=1739868223
+    sizes:
+      1.75mm/1000g:
+        sku: '3301040034'
+        link: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
+  - fid: zei9z
+    name: Blue
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/a9c727f5ac3fbd4ec8959b592bf8e449.jpg?v=1739868223
+    sizes:
+      1.75mm/1000g:
+        sku: '3301040039'
+        link: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
+  - fid: zia9u
+    name: Green
+    images:
+      - url: >-
+          https://cdn.shopify.com/s/files/1/0593/2587/4251/files/3b038df4babf7f7861af2106e4397c97.jpg?v=1739868223
+    sizes:
+      1.75mm/1000g:
+        sku: '3301040037'
+        link: https://store.creality.com/eu/products/cr-tpu-filament-1-75mm-1kg
