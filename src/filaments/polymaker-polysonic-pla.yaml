@@ -1,0 +1,126 @@
+name: Polymaker PolySonic PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polysonic-pla/
+variants:
+  - fid: eij4z
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=41550073364537
+        sku: PA12001
+        ean: '6938936713951'
+    color:
+      hex: '#E2DEDB'
+  - fid: nae7u
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12002_PDT_Isometric_Top-1.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=41550073331769
+        sku: PA12002
+        ean: '6938936713968'
+    color:
+      hex: '#080A0D'
+  - fid: wee7h
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=41550073430073
+        sku: PA12003
+        ean: '6938936713975'
+    color:
+      hex: '#8C9099'
+  - fid: gei4e
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=41550074150969
+        sku: PA12004
+        ean: '6938936713982'
+    color:
+      hex: '#003776'
+  - fid: aj7ju
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=41550073593913
+        sku: PA12005
+        ean: '6938936713999'
+    color:
+      hex: '#E72F1D'
+  - fid: yoom7
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12006_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=42901487845433
+        sku: PA12006
+        ean: '6938936714279'
+    color:
+      hex: '#F4c032'
+  - fid: zu2ae
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=42901487910969
+        sku: PA12007
+        ean: '6938936714286'
+    color:
+      hex: '#F97429'
+  - fid: aay3b
+    name: Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=42901488074809
+        sku: PA12008
+        ean: '6938936714293'
+    color:
+      hex: '#6c5bb1'
+  - fid: iec3a
+    name: "Polymaker\_Teal"
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=42901488009273
+        sku: PA12009
+        ean: '6938936714347'
+    color:
+      hex: '#50dae4'
+  - fid: chip5
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA12010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polysonic-pla?variant=42901487878201
+        sku: PA12010
+        ean: '6938936714354'
+    color:
+      hex: '#2d9e59'

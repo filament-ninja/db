@@ -1,0 +1,284 @@
+name: Polymaker PolyMax PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymax-pla/
+variants:
+  - fid: mai9u
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06011_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06024_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06027_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348595257
+        sku: PA06001
+        ean: '6938936710431'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348922937
+        sku: PA06011
+        ean: '6938936711650'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348628025
+        sku: PA06024
+        ean: '6938936712718'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348824633
+        sku: PA06027
+        ean: '6938936712749'
+    color:
+      hex: '#101820'
+  - fid: poor7
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06012_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06023_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06026_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348562489
+        sku: PA06002
+        ean: '6938936710448'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349873209
+        sku: PA06012
+        ean: '6938936711667'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348726329
+        sku: PA06023
+        ean: '6938936712701'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349774905
+        sku: PA06026
+        ean: '6938936712732'
+    color:
+      hex: '#FFFFFF'
+  - fid: ohl9f
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06013_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06025_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06028_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348529721
+        sku: PA06003
+        ean: '6938936710455'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349348921
+        sku: PA06013
+        ean: '6938936711674'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348660793
+        sku: PA06025
+        ean: '6938936712725'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349250617
+        sku: PA06028
+        ean: '6938936712756'
+    color:
+      hex: '#91999F'
+  - fid: eegh7
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348496953
+        sku: PA06004
+        ean: '6938936710462'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349643833
+        sku: PA06014
+        ean: '6938936711681'
+    color:
+      hex: '#DE4343'
+  - fid: hai5u
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348464185
+        sku: PA06005
+        ean: '6938936710479'
+    color:
+      hex: '#006EB6'
+  - fid: zoo0i
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348431417
+        sku: PA06006
+        ean: '6938936710486'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349152313
+        sku: PA06016
+        ean: '6938936711704'
+    color:
+      hex: '#00A95C'
+  - fid: pae1e
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06017_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348398649
+        sku: PA06007
+        ean: '6938936710493'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349938745
+        sku: PA06017
+        ean: '6938936711711'
+    color:
+      hex: '#FFE800'
+  - fid: otha4
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06008_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06018_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348365881
+        sku: PA06008
+        ean: '6938936710509'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349479993
+        sku: PA06018
+        ean: '6938936711728'
+    color:
+      hex: '#FF9940'
+  - fid: aij1a
+    name: Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06009_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06019_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348333113
+        sku: PA06009
+        ean: '6938936710516'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574349578297
+        sku: PA06019
+        ean: '6938936711735'
+    color:
+      hex: '#7758B3'
+  - fid: eiyi2
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=39574348300345
+        sku: PA06010
+        ean: '6938936710523'
+    color:
+      hex: '#00B4BC'
+  - fid: hiel3
+    name: Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06029_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=40572359311417
+        sku: PA06029
+        ean: '6938936713029'
+    color:
+      hex: '#FD4BAB'
+  - fid: iez7o
+    name: FDE Beige
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06030_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pla?variant=40558463680569
+        sku: PA06030
+        ean: '6938936713036'
+    color:
+      hex: '#8E7B63'
+  - fid: tiz4n
+    name: Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06021_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06022_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PA06021
+        ean: '6938936712169'
+      2.85mm/750g:
+        sku: PA06022
+        ean: '6938936712176'
+  - fid: pahh9
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06015_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/750g:
+        sku: PA06015
+        ean: '6938936711698'
+  - fid: ohs6a
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA06020_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/750g:
+        sku: PA06020
+        ean: '6938936711742'
+  - fid: rejo7
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70842_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/5000g:
+        sku: PM70842
+        ean: '6938936708421'
+  - fid: ahth4
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70843_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/5000g:
+        sku: PM70843
+        ean: '6938936708438'

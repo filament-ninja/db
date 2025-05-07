@@ -1,0 +1,102 @@
+name: Polymaker PolyFlex TPU90
+material: TPU
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyflex-tpu90/
+variants:
+  - fid: aem5x
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02006_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341320761
+        sku: PD02001
+        ean: '6938936710684'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341353529
+        sku: PD02006
+        ean: '6938936711858'
+    color:
+      hex: '#101820'
+  - fid: daed4
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341287993
+        sku: PD02002
+        ean: '6938936710691'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341582905
+        sku: PD02007
+        ean: '6938936711865'
+    color:
+      hex: '#FFFFFF'
+  - fid: ooth9
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341255225
+        sku: PD02003
+        ean: '6938936710707'
+      2.85mm/750g:
+        sku: PD02008
+        ean: '6938936711872'
+    color:
+      hex: '#453536'
+  - fid: meew9
+    name: Clear
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341222457
+        sku: PD02004
+        ean: '6938936710998'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341419065
+        sku: PD02009
+        ean: '6938936711889'
+  - fid: chee4
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD02010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341189689
+        sku: PD02005
+        ean: '6938936710721'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu90?variant=39574341517369
+        sku: PD02010
+        ean: '6938936711896'
+    color:
+      hex: '#2DCCD3'

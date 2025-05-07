@@ -1,0 +1,108 @@
+name: Polymaker PolyLite LW-PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-lw-pla/
+variants:
+  - fid: egh0i
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=39574342893625
+        sku: PA08001
+        ean: '6938936710271'
+    color:
+      hex: '#4C4E56'
+  - fid: si1oi
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=39574342860857
+        sku: PA08002
+        ean: '6938936710288'
+    color:
+      hex: '#E1DCCD'
+  - fid: chuc1
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=39574342828089
+        sku: PA08003
+        ean: '6938936710295'
+    color:
+      hex: '#A2AAAD'
+  - fid: hoo7o
+    name: Wood
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=39574342795321
+        sku: PA08004
+        ean: '6938936710301'
+    color:
+      hex: '#D2A273'
+  - fid: aqu2c
+    name: Bright Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=40603758526521
+        sku: PA08007
+        ean: '6938936702160'
+    color:
+      hex: '#FA8423'
+  - fid: iw4ae
+    name: Bright Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=40620593905721
+        sku: PA08008
+        ean: '6938936702177'
+    color:
+      hex: '#D0ED03'
+  - fid: uzai3
+    name: Bright Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=40603758559289
+        sku: PA08009
+        ean: '6938936702184'
+    color:
+      hex: '#FAD61B'
+  - fid: aiz0i
+    name: Bright Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/800g:
+        link: >-
+          https://us.polymaker.com/products/polylite-lw-pla?variant=41590536994873
+        sku: PA08010
+        ean: '6938936713760'

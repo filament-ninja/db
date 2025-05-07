@@ -1,0 +1,161 @@
+name: Polymaker PolyFlex TPU90
+material: TPU
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyflex-tpu95/
+variants:
+  - fid: ohk2u
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01013_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341681209
+        sku: PD01001
+        ean: '6938936710592'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341746745
+        sku: PD01007
+        ean: '6938936711797'
+      1.75mm/5000g:
+        sku: PD01013
+        ean: '6938936707349'
+      2.85mm/5000g:
+        sku: PD01014
+        ean: '6938936707356'
+    color:
+      hex: '#101820'
+  - fid: aigh2
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341648441
+        sku: PD01002
+        ean: '6938936710608'
+      2.85mm/750g:
+        sku: PD01008
+        ean: '6938936711803'
+    color:
+      hex: '#FFFFFF'
+  - fid: loh3e
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341615673
+        sku: PD01003
+        ean: '6938936710615'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341910585
+        sku: PD01009
+        ean: '6938936711810'
+    color:
+      hex: '#D6001C'
+  - fid: ohee6
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341550137
+        sku: PD01004
+        ean: '6938936710622'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574342041657
+        sku: PD01010
+        ean: '6938936711827'
+    color:
+      hex: '#FEDD00'
+  - fid: osh6e
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01011_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341484601
+        sku: PD01005
+        ean: '6938936710639'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341812281
+        sku: PD01011
+        ean: '6938936711834'
+    color:
+      hex: '#0076CF'
+  - fid: voh8w
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01012_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341386297
+        sku: PD01006
+        ean: '6938936710646'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95?variant=39574341877817
+        sku: PD01012
+        ean: '6938936711841'
+    color:
+      hex: '#FF9E1B'
+  - fid: tu9ee
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=600,height=600,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01015_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PD01015
+        ean: '6938936700005'
+  - fid: poo0v
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=600,height=600,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD01016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PD01016
+        ean: '6938936700012'
+  - fid: phe6z
+    name: Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70944_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/5000g:
+        sku: PM70944
+        ean: '6938936709442'

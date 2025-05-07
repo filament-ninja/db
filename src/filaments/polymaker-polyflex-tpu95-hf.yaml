@@ -1,0 +1,74 @@
+name: Polymaker PolyFlex TPU90
+material: TPU
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyflex-tpu95-hf/
+variants:
+  - fid: aesh3
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341779513
+        sku: PD03001
+        ean: '6938936710660'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341943353
+        sku: PD03004
+        ean: '6938936711902'
+    color:
+      hex: '#101820'
+  - fid: inah9
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341713977
+        sku: PD03002
+        ean: '6938936710677'
+      2.85mm/1000g:
+        sku: PD03005
+        ean: '6938936711919'
+    color:
+      hex: '#FFFFFF'
+  - fid: apie9
+    name: Clear
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03006_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PD03003
+        ean: '6938936711643'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574342008889
+        sku: PD03006
+        ean: '6938936711926'
+  - fid: eepe5
+    name: Translucent Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD03008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PD03007
+        ean: '6938936712183'
+      2.85mm/1000g:
+        sku: PD03008
+        ean: '6938936712190'

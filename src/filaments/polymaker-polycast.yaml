@@ -1,0 +1,33 @@
+name: Polymaker PolyCast
+material: PVB
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polycast/
+variants:
+  - fid: eo0qu
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ03001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ03002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ03003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polycast?variant=39574341124153
+        sku: PJ03001
+        ean: '6938936710936'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polycast?variant=39574341058617
+        sku: PJ03002
+        ean: '6938936712077'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polycast?variant=39574340960313
+        sku: PJ03003
+        ean: '6938936712848'
+      2.85mm/3000g:
+        sku: PJ03004
+        ean: '6938936712855'

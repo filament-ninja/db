@@ -1,0 +1,42 @@
+name: Polymaker PolyLite CosPLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-cospla/
+variants:
+  - fid: vouv8
+    name: Version A
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA05006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA05007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-cospla?variant=41068178931769
+        sku: PA05006
+        ean: '6938936708728'
+      1.75mm/5000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-cospla?variant=41068179619897
+        sku: PA05007
+        ean: '6938936708742'
+  - fid: oozi1
+    name: Version B
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA07045_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA07046_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-cospla?variant=41068178964537
+        sku: PA07045
+        ean: '6938936707912'
+      1.75mm/5000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-cospla?variant=41068304367673
+        sku: PA07046
+        ean: '6938936707929'

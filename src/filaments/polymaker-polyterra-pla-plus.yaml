@@ -1,0 +1,135 @@
+name: Polymaker PolyTerra PLA+
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyterra-pla-plus/
+variants:
+  - fid: eip0n
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM05001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425794617
+        sku: PA05001
+        ean: '6938936712343'
+    color:
+      hex: '#F7C603'
+  - fid: xah2k
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA05002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425729081
+        sku: PA05002
+        ean: '6938936712350'
+    color:
+      hex: '#FF9812'
+  - fid: quee7
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM05004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425860153
+        sku: PA05004
+        ean: '6938936702191'
+    color:
+      hex: '#64C2CA'
+  - fid: koog1
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70945_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA05005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425630777
+        sku: PM70945
+        ean: '6938936709459'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425991225
+        sku: PA05005
+        ean: '6938936702122'
+    color:
+      hex: '#151515'
+  - fid: ook7o
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70946_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425663545
+        sku: PM70946
+        ean: '6938936709466'
+    color:
+      hex: '#E6DEDB'
+  - fid: ahri8
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70947_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425696313
+        sku: PM70947
+        ean: '6938936709473'
+    color:
+      hex: '#939598'
+  - fid: phah4
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70950_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425827385
+        sku: PM70950
+        ean: '6938936709503'
+    color:
+      hex: '#60AB61'
+  - fid: moo5e
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70977_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-satin?variant=43594425958457
+        sku: PM70977
+        ean: '6938936709770'
+    color:
+      hex: '#DD1116'
+  - fid: zae3u
+    name: Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA05003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA05003
+        ean: '6938936702108'
+  - fid: ahgh0
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70949_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PM70949
+        ean: '6938936709497'

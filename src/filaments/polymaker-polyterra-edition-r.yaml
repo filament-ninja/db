@@ -1,0 +1,20 @@
+name: Polymaker PolyTerra Edition-R
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyterra-edition-r/
+variants:
+  - fid: eth3i
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA11001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA11002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA11001
+        ean: '6938936713043'
+      2.85mm/1000g:
+        sku: PA11002
+        ean: '6938936713050'

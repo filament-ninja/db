@@ -1,0 +1,35 @@
+name: Aurapol ABS
+material: ABS
+vendor: aurapol
+refs:
+  web: https://www.aurapol.com/abs
+datasheet: https://drive.google.com/file/d/1W7lHUyrL3-Mhov9DDaWcH1krceg3fZ9K/view?usp=sharing
+variants:
+  - fid: io9ah
+    name: Natural
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/6/b6cf18f681355affe5f05ae924636e6c-abs-natural.png
+    sizes:
+      1.75mm/850g:
+        link: https://www.aurapol.com/p/aurapol-abs-3d-filament-natural-850g-1-75-mm
+        sku: ABS606830
+  - fid: ey4io
+    name: Slate Grey
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/1/a1ad18dedc2079fc70e1ce94e9b58b16-abs-grey.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-abs-3d-filament-slate-grey-850g-1-75-mm
+        sku: ABS606892
+  - fid: vo9no
+    name: Black
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/0/70907764c7013a727a9aa89a29c81df8-abs-black.png
+    sizes:
+      1.75mm/850g:
+        link: https://www.aurapol.com/p/aurapol-abs-3d-filament-black-850g-1-75-mm
+        sku: ABS606847

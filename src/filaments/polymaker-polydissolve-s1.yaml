@@ -1,0 +1,20 @@
+name: Polymaker PolyDissolve S1
+material: ''
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polydissolve-s1/
+variants:
+  - fid: lee5o
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PH01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PH01002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PH01001
+        ean: '6938936710868'
+      2.85mm/750g:
+        sku: PH01002
+        ean: '6938936712084'

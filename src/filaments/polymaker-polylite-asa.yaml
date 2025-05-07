@@ -1,0 +1,401 @@
+name: Polymaker PolyLite ASA
+material: ASA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-asa/
+variants:
+  - fid: yaeh2
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01010_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01020_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01024_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70991_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343254073
+        sku: PF01001
+        ean: '6938936709947'
+      2.85mm/1000g:
+        sku: PF01010
+        ean: '6938936711353'
+      1.75mm/3000g:
+        sku: PF01020
+        ean: '6938936712619'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343385145
+        sku: PF01024
+        ean: '6938936712657'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40314278019129
+        sku: PM70991
+        ean: '6938936712985'
+    color:
+      hex: '#101820'
+  - fid: saix2
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01011_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01021_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01025_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01038_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343221305
+        sku: PF01002
+        ean: '6938936709954'
+      2.85mm/1000g:
+        sku: PF01011
+        ean: '6938936711360'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343352377
+        sku: PF01021
+        ean: '6938936712626'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=44327084228665
+        sku: PF01025
+        ean: '6938936712664'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41214084153401
+        sku: PF01038
+        ean: '6938936709213'
+    color:
+      hex: '#FFFFFF'
+  - fid: uo9lu
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01012_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01023_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01039_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343188537
+        sku: PF01003
+        ean: '6938936709961'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574342991929
+        sku: PF01012
+        ean: '6938936711377'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40314775830585
+        sku: PF01023
+        ean: '6938936712640'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41214084251705
+        sku: PF01039
+        ean: '6938936709220'
+    color:
+      hex: '#888B8D'
+  - fid: ohgh8
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01013_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343155769
+        sku: PF01004
+        ean: '6938936709978'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574342959161
+        sku: PF01013
+        ean: '6938936711384'
+    color:
+      hex: '#AF231C'
+  - fid: up7si
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01014_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01033_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343123001
+        sku: PF01005
+        ean: '6938936709985'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574342926393
+        sku: PF01014
+        ean: '6938936711391'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40558450245689
+        sku: PF01033
+        ean: '6938936707264'
+    color:
+      hex: '#002677'
+  - fid: evig4
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01015_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01022_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01026_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343090233
+        sku: PF01006
+        ean: '6938936709992'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=44333502922809
+        sku: PF01015
+        ean: '6938936711407'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39574343319609
+        sku: PF01022
+        ean: '6938936712633'
+      2.85mm/3000g:
+        sku: PF01026
+        ean: '6938936712671'
+    color:
+      hex: '#F1E6B2'
+  - fid: oow3n
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39597309231161
+        sku: PF01007
+        ean: '6938936710004'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=44333476544569
+        sku: PF01016
+        ean: '6938936711414'
+    color:
+      hex: '#FF6A13'
+  - fid: oc0ah
+    name: Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01008_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01017_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PF01008
+        ean: '6938936710011'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=44333457965113
+        sku: PF01017
+        ean: '6938936711421'
+  - fid: woo8a
+    name: Army Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01009_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01018_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=39597309624377
+        sku: PF01009
+        ean: '6938936710028'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=44333520224313
+        sku: PF01018
+        ean: '6938936711438'
+    color:
+      hex: '#68724D'
+  - fid: ain3v
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01029_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40294530940985
+        sku: PF01029
+        ean: '6938936713142'
+    color:
+      hex: '#00B4BC'
+  - fid: vae5u
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01030_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40294530875449
+        sku: PF01030
+        ean: '6938936713159'
+    color:
+      hex: '#00A95C'
+  - fid: oboo6
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01031_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40294530908217
+        sku: PF01031
+        ean: '6938936713166'
+    color:
+      hex: '#FFE800'
+  - fid: ahx8g
+    name: Army Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01032_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=40627010109497
+        sku: PF01032
+        ean: '6938936702153'
+    color:
+      hex: '#775C50'
+  - fid: phai1
+    name: Dark Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01037_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41170857918521
+        sku: PF01037
+        ean: '6938936708711'
+    color:
+      hex: '#6C6D71'
+  - fid: ahg6p
+    name: Pop Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01040_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41159525826617
+        sku: PF01040
+        ean: '6938936709381'
+  - fid: pee9e
+    name: Pop Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01041_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41159525859385
+        sku: PF01041
+        ean: '6938936709398'
+  - fid: de8oo
+    name: Pop Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01042_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41159525892153
+        sku: PF01042
+        ean: '6938936709404'
+  - fid: quee3
+    name: Jet Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01044_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41297658314809
+        sku: PF01044
+        ean: '6938936713463'
+  - fid: kah2e
+    name: Olive Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01045_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41590536667193
+        sku: PF01045
+        ean: '6938936713708'
+  - fid: eebo9
+    name: Dark Gray Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01046_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41590536634425
+        sku: PF01046
+        ean: '6938936713715'
+  - fid: vuth2
+    name: Dark Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01047_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-asa?variant=41590534897721
+        sku: PF01047
+        ean: '6938936713852'
+  - fid: tio7o
+    name: Galaxy Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01034_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-galaxy-asa?variant=41212531081273
+        sku: PF01034
+        ean: '6938936707974'
+  - fid: aesh5
+    name: Galaxy Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01035_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-galaxy-asa?variant=41212531114041
+        sku: PF01035
+        ean: '6938936707981'
+  - fid: aj4bi
+    name: Galaxy Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PF01036_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-galaxy-asa?variant=41212531146809
+        sku: PF01036
+        ean: '6938936707998'
+  - fid: beic3
+    name: Galaxy Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=1500,height=1500,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/f973953b-b1c4-4662-acd2-1adec39af377.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-galaxy-asa?variant=41590533488697
+        sku: PF01048
+        ean: '6938936714040'

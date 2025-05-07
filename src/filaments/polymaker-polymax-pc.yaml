@@ -1,0 +1,112 @@
+name: Polymaker PolyLite PC
+material: PC
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymax-pc/
+variants:
+  - fid: zi0xa
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02009_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02012_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02013_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347776057
+        sku: PC02001
+        ean: '6938936710554'
+      2.85mm/750g:
+        sku: PC02003
+        ean: '6938936711773'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347808825
+        sku: PC02007
+        ean: '6938936712770'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347874361
+        sku: PC02009
+        ean: '6938936712794'
+      1.75mm/5000g:
+        sku: PC02012
+        ean: '6938936707394'
+      2.85mm/5000g:
+        sku: PC02013
+        ean: '6938936707400'
+    color:
+      hex: '#101820'
+  - fid: zie4j
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347743289
+        sku: PC02002
+        ean: '6938936710561'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347972665
+        sku: PC02004
+        ean: '6938936711780'
+      1.75mm/3000g:
+        sku: PC02006
+        ean: '6938936712763'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=39574347939897
+        sku: PC02008
+        ean: '6938936712787'
+    color:
+      hex: '#FFFFFF'
+  - fid: xohf8
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=40314298269753
+        sku: PC02005
+        ean: '6938936712442'
+      1.75mm/3000g:
+        sku: PC02014
+        ean: '6938936707608'
+    color:
+      hex: '#A2AAAD'
+  - fid: od1od
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PC02010
+        ean: '6938936713005'
+  - fid: bo5ou
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC02011_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-pc?variant=40314298335289
+        sku: PC02011
+        ean: '6938936713012'
+    color:
+      hex: '#0076CF'

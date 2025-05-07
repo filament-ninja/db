@@ -1,0 +1,41 @@
+name: Polymaker PolyMide CoPA
+material: PA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymide-copa/
+variants:
+  - fid: lair4
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG05001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG05002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG05005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PG05001
+        ean: '6938936710738'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymide-copa?variant=39574349807673
+        sku: PG05002
+        ean: '6938936711612'
+      1.75mm/5000g:
+        sku: PG05005
+        ean: '6938936707820'
+  - fid: goi6i
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG05003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG05004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PG05003
+        ean: '6938936711629'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymide-copa?variant=44120933498937
+        sku: PG05004
+        ean: '6938936711636'

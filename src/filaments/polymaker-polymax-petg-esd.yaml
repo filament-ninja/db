@@ -1,0 +1,29 @@
+name: Polymaker PolyMax PETG-ESD
+material: PETG
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymax-petg-esd/
+variants:
+  - fid: ooci7
+    name: BLACK
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB03001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB03002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/500g:
+        sku: PB03001
+        ean: '6938936702023'
+      2.85mm/500g:
+        sku: PB03002
+        ean: '6938936701941'
+  - fid: ox2ah
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/2000g:
+        sku: PB03004
+        ean: '6938936713722'

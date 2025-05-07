@@ -1,0 +1,161 @@
+name: Aurapol ASA
+material: ASA
+vendor: aurapol
+refs:
+  web: https://www.aurapol.com/asa
+datasheet: https://drive.google.com/file/d/1uRyFoDU5oKPin-766e1G5F5EYdUCpCdX/view?usp=sharing
+variants:
+  - fid: ya2ho
+    name: Aluminium Gray
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/8/08d93410b9a6e7eff88c2a0f83cbdb35-asa-aluminium-gray-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-aluminium-gray-850g-1-75-mm
+        sku: ASA435633
+  - fid: pae3l
+    name: Dark Brass
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/8/d887d49082862e6ebe13c04407551af5-asa-dark-brass-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-dark-brass-850g-1-75-mm
+        sku: ASA435619
+  - fid: in2ee
+    name: Dark Bronze
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/e/de0a4798916a96a158ae1059d3bcb370-asa-dark-bronze-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-dark-bronze-850g-1-75-mm
+        sku: ASA435626
+  - fid: ahmo3
+    name: Dark Turquoise
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/5/a56e3b2a416283d1d93e3ec53393db00-asa-dark-turquoise-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-dark-turquoise-850g-1-75-mm
+        sku: ASA435602
+  - fid: iyoh6
+    name: Light Grey
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/9/2/92d3d0ce87601dce2a3ba07f982feaf4-asa-light-grey-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-light-grey-850g-1-75-mm
+        sku: ASA435596
+  - fid: doo6c
+    name: Slate Grey
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/e/e/ee9370c57ebfe4cf14752e08633952cd-asa-grey.png
+      - url: /images/no-picture.svg
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-slate-grey-850g-1-75-mm
+        sku: ASA606816
+      1.75mm/2000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-slate-grey-2000g-1-75-mm
+        sku: ASA606878
+    color:
+      ral: RAL7015
+  - fid: sai8a
+    name: Green Grass
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/a/2aed047fe932802889486a7e4ed316af-asa-green-grass.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-green-grass-850g-1-75-mm-aurapol
+        sku: ASA684869
+    color:
+      ral: RAL6010
+  - fid: eev5s
+    name: Signal Orange
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/b/fbded848c8dd5a4802b0879a1dbf83d6-asa-signal-orange.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-signal-orange-850g-1-75-mm-aurapol
+        sku: ASA684852
+    color:
+      ral: RAL2010
+  - fid: guu0g
+    name: Signal White
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/c/4/c40205c63f8a4bf7b7be860e59fc6379-asa-signal-white.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-signal-white-850g-1-75-mm-aurapol
+        sku: ASA684715
+    color:
+      ral: RAL9003
+  - fid: to9oh
+    name: Sky Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/3/7332b3a0547537521429edd5a5871f35-asa-sky-blue.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-sky-blue-850g-1-75-mm-aurapol
+        sku: ASA684722
+    color:
+      ral: RAL5015
+  - fid: quoh7
+    name: Natural
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/d/4d8f5a57613ce894b6b9a1cf2da68c41-asa-natural.png
+    sizes:
+      1.75mm/850g:
+        link: https://www.aurapol.com/p/asa-3d-filament-natural-850g-1-75-mm-aurapol
+        sku: ASA684708
+  - fid: eit4e
+    name: Brown Khaki
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/1/5/1547d23ebee7511f0c3243ab8cb87a1d-asa-khaki-brown.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-brown-khaki-850g-1-75-mm-aurapol
+        sku: ASA684876
+    color:
+      ral: RAL7008
+  - fid: jeo0z
+    name: Graphite Black
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/e/ae640ec5034658863d57f07cf4002d49-asa-graphite-black.png
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/d/fd0b117a83f4e17fb6d28c7252a99240-asa-2-5kg-aurapol.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/asa-3d-filament-graphite-black-850g-1-75-mm-aurapol
+        sku: ASA684739
+      1.75mm/2000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-asa-3d-filament-graphite-black-2000g-1-75-mm-bulk
+        sku: ASA606670
+    color:
+      ral: RAL9011

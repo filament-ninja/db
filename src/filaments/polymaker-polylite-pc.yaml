@@ -1,0 +1,33 @@
+name: Polymaker PolyLite PC
+material: PC
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-pc/
+variants:
+  - fid: zeis2
+    name: Transparent
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC01002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC01003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC01004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pc?variant=39574343516217
+        sku: PC01001
+        ean: '6938936710424'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pc?variant=39574343483449
+        sku: PC01002
+        ean: '6938936711247'
+      1.75mm/3000g:
+        sku: PC01003
+        ean: '6938936712688'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pc?variant=39574343581753
+        sku: PC01004
+        ean: '6938936712695'

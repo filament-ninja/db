@@ -1,0 +1,104 @@
+name: Aurapol PLA HT110
+material: PLA
+vendor: aurapol
+refs:
+  web: https://www.aurapol.com/pla-ht110
+datasheet: https://drive.google.com/file/d/1jEsZI7amOxS-VA3SDtHMkaqvoH3HZBO7/view?usp=sharing
+variants:
+  - fid: yu3sh
+    name: Machine Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/f/4f2e36d98bc901e32290662c8a041ee3-aurapol-machine-makita-pla-ral5021.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-ht110-3d-filament-machine-blue-1-kg-1-75-mm
+        sku: PLAHT606694
+    color:
+      ral: RAL5021
+  - fid: hi8sh
+    name: Bodycolor
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/2/224b79ebfae1ff8082bbb07dc076e8f9-bodycolor-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/p-pla-ht110-3d-filament-bodycolor-1-kg-1-75-mm
+        sku: PLAHT606533
+  - fid: bah1x
+    name: Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/9/b9b06a7a4dd329038cc7f7b1e5a1c9b8-blue-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-blue-1-kg-1-75-mm
+        sku: PLAHT606526
+  - fid: aka4m
+    name: Green
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/c/d/cd908bcd65878097bf6d14e1dd266216-green-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-green-1-kg-1-75-mm
+        sku: PLAHT606502
+  - fid: saw5e
+    name: Yellow
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/5/6547587f5015eb6a2e5f46bff958ec64-yellow-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-yellow-1-kg-1-75-mm
+        sku: PLAHT684883
+  - fid: bahw5
+    name: Brown
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/2/72b705cce9c3a119d2784e70b0688190-brown-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-brown-1-kg-1-75-mm
+        sku: PLAHT606519
+  - fid: fei9g
+    name: Red
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/e/6e2d461043a294aef376ed4cbfdf560a-red-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-red-1-kg-1-75-mm
+        sku: PLAHT718656
+  - fid: egoo8
+    name: White
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/1/0110807b58a98ed79ad7153e6f564745-white-pla.png
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/4/64092c5b5b35d6902c7bd52068c54d94-pla-white-2-5kg.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-white-1-kg-1-75-mm
+        sku: PLAHT718663
+      1.75mm/2500g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-ht110-3d-filament-white-2-5-kg-1-75-mm-bulk
+        sku: PLAHT606557
+  - fid: li4ie
+    name: Black
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/5/9/59e65dada2130be1e7e7b615821d6daf-black-pla.png
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/d/dd4d93d161133d93165153caf65412b4-pla-black-big-boy-2-5-kg.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/p-pla-ht110-3d-filament-black-1-kg-1-75-mm
+        sku: PLAHT718649
+      1.75mm/2500g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-ht110-3d-filament-black-2-5-kg-1-75-mm-bulk
+        sku: PLAHT606540

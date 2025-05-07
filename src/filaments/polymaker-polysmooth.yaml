@@ -1,0 +1,210 @@
+name: Polymaker PolySmooth
+material: PVB
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polysmooth/
+variants:
+  - fid: iaqu9
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01013_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627015225
+        sku: PJ01001
+        ean: '6938936710745'
+      2.85mm/750g:
+        sku: PJ01013
+        ean: '6938936711957'
+    color:
+      hex: '#101820'
+  - fid: hoo1u
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627080761
+        sku: PJ01002
+        ean: '6938936710752'
+      2.85mm/750g:
+        sku: PJ01014
+        ean: '6938936711964'
+    color:
+      hex: '#FFFFFF'
+  - fid: cohl2
+    name: Slate Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01015_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627146297
+        sku: PJ01003
+        ean: '6938936710769'
+      2.85mm/750g:
+        sku: PJ01015
+        ean: '6938936711971'
+    color:
+      hex: '#7A99AC'
+  - fid: ahh3i
+    name: Coral Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627277369
+        sku: PJ01004
+        ean: '6938936710776'
+      2.85mm/750g:
+        sku: PJ01016
+        ean: '6938936711988'
+    color:
+      hex: '#E10600'
+  - fid: iey5o
+    name: Electric Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01017_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627211833
+        sku: PJ01005
+        ean: '6938936710783'
+      2.85mm/750g:
+        sku: PJ01017
+        ean: '6938936711995'
+    color:
+      hex: '#0076CF'
+  - fid: weal3
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01018_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627342905
+        sku: PJ01006
+        ean: '6938936710790'
+      2.85mm/750g:
+        sku: PJ01018
+        ean: '6938936712008'
+    color:
+      hex: '#37AD68'
+  - fid: aeph3
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01019_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627408441
+        sku: PJ01007
+        ean: '6938936710806'
+      2.85mm/750g:
+        sku: PJ01019
+        ean: '6938936712015'
+    color:
+      hex: '#FFC72C'
+  - fid: phai4
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01008_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01020_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627473977
+        sku: PJ01008
+        ean: '6938936710813'
+      2.85mm/750g:
+        sku: PJ01020
+        ean: '6938936712022'
+    color:
+      hex: '#FF671F'
+  - fid: ew9xe
+    name: Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01009_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01021_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627605049
+        sku: PJ01009
+        ean: '6938936710820'
+      2.85mm/750g:
+        sku: PJ01021
+        ean: '6938936712039'
+    color:
+      hex: '#FFB1BB'
+  - fid: mai4v
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01010_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01022_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627539513
+        sku: PJ01010
+        ean: '6938936710837'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polylite-petg?variant=39574344335417
+        sku: PJ01022
+        ean: '6938936712046'
+    color:
+      hex: '#3CCBDA'
+  - fid: leis0
+    name: Beige
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01012_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01024_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627670585
+        sku: PJ01012
+        ean: '6938936710851'
+      2.85mm/750g:
+        sku: PJ01024
+        ean: '6938936712060'
+    color:
+      hex: '#E9DF97'
+  - fid: yah4o
+    name: Transparent
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PJ01011_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/pj01023_pdt_isometric_top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627736121
+        sku: PJ01011
+        ean: '6938936710844'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polysmooth?variant=39597627768889
+        sku: PJ01023
+        ean: '6938936712053'

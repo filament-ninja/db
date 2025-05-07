@@ -1,0 +1,34 @@
+name: Polymaker PC-ABS
+material: PC
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymaker-pc-abs/
+variants:
+  - fid: ej2li
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC04001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC04003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PC04001
+        ean: '6938936710899'
+      2.85mm/1000g:
+        sku: PC04003
+        ean: '6938936712091'
+  - fid: chi7u
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC04002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC04004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PC04002
+        ean: '6938936710905'
+      2.85mm/1000g:
+        sku: PC04004
+        ean: '6938936712107'

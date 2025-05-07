@@ -1,0 +1,20 @@
+name: Polymaker PolyMide PA612-CF
+material: PA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymide-pa612-cf/
+variants:
+  - fid: ohr1r
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG07001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG07002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/500g:
+        sku: PG07001
+        ean: '6938936707837'
+      2.85mm/500g:
+        sku: PG07002
+        ean: '6938936707868'

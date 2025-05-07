@@ -1,0 +1,21 @@
+name: Polymaker PolySupport for PA12
+material: ''
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polysupport-for-pa12/
+variants:
+  - fid: pies3
+    name: GRASS GREEN
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PW01001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PW01002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/500g:
+        link: https://us.polymaker.com/products/polysupport?variant=40698431897657
+        sku: PW01001
+        ean: '6938936702030'
+      2.85mm/500g:
+        sku: PW01002
+        ean: '6938936702047'

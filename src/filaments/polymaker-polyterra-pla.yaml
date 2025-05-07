@@ -1,0 +1,915 @@
+name: Polymaker PolyTerra PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polyterra-pla/
+variants:
+  - fid: thup7
+    name: Lime Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04027_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421272633
+        sku: PA04027
+        ean: '6938936713401'
+    color:
+      hex: '#D0E740'
+  - fid: quah1
+    name: Ash Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04033_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422288441
+        sku: PA04033
+        ean: '6938936713845'
+  - fid: aw3eo
+    name: Electric Indigo
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/b6bacf8a-8fba-4b25-b488-9ae66ac0cd78.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422321209
+        sku: PA04039
+        ean: '6938936714088'
+  - fid: io6ig
+    name: Charcoal Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70820_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70821_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420781113
+        sku: PM70820
+        ean: '6938936708209'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422583353
+        sku: PM70821
+        ean: '6938936708216'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422386745
+        sku: PA04007
+        ean: '6938936701934'
+    color:
+      hex: '#1C1C1C'
+  - fid: ahs0a
+    name: Cotton White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70822_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70823_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420846649
+        sku: PM70822
+        ean: '6938936708223'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422616121
+        sku: PM70823
+        ean: '6938936708230'
+    color:
+      hex: '#E6DDDB'
+  - fid: deew1
+    name: Fossil Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70824.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70825_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421960761
+        sku: PM70824
+        ean: '6938936708247'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422943801
+        sku: PM70825
+        ean: '6938936708254'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422517817
+        sku: PA04009
+        ean: '6938936702061'
+    color:
+      hex: '#6F727E'
+  - fid: rue9u
+    name: Lava Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70826.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70827_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422157369
+        sku: PM70826
+        ean: '6938936708261'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594423074873
+        sku: PM70827
+        ean: '6938936708278'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422550585
+        sku: PA04010
+        ean: '6938936702078'
+    color:
+      hex: '#DE1619'
+  - fid: aig1a
+    name: Sapphire Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70828_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70829_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04011_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421633081
+        sku: PM70828
+        ean: '6938936708285'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422911033
+        sku: PM70829
+        ean: '6938936708292'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422485049
+        sku: PA04011
+        ean: '6938936702085'
+    color:
+      hex: '#005AA2'
+  - fid: shas9
+    name: Forest Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70846_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70847_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421403705
+        sku: PM70846
+        ean: '6938936708469'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422845497
+        sku: PM70847
+        ean: '6938936708476'
+    color:
+      hex: '#519F61'
+  - fid: ail1r
+    name: Sunrise Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70848_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70849_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421141561
+        sku: PM70848
+        ean: '6938936708483'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422681657
+        sku: PM70849
+        ean: '6938936708490'
+    color:
+      hex: '#F78E0E'
+  - fid: zai9u
+    name: Savannah Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70850_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70851_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421239865
+        sku: PM70850
+        ean: '6938936708506'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422779961
+        sku: PM70851
+        ean: '6938936708513'
+    color:
+      hex: '#F0BE02'
+  - fid: zoo8i
+    name: Lavender Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70852_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70853_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421993529
+        sku: PM70852
+        ean: '6938936708520'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422976569
+        sku: PM70853
+        ean: '6938936708537'
+    color:
+      hex: '#8A68B5'
+  - fid: eiz2c
+    name: Earth Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70907_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420944953
+        sku: PM70907
+        ean: '6938936709077'
+    color:
+      hex: '#7C594A'
+  - fid: eigi4
+    name: Sakura Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70908_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422091833
+        sku: PM70908
+        ean: '6938936709084'
+    color:
+      hex: '#E0A8BB'
+  - fid: oogh9
+    name: Army Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70955_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422190137
+        sku: PM70955
+        ean: '6938936709558'
+    color:
+      hex: '#AC1A17'
+  - fid: joh6o
+    name: Army Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70956_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421764153
+        sku: PM70956
+        ean: '6938936709565'
+    color:
+      hex: '#062B4D'
+  - fid: aiw1z
+    name: Army Dark Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70957_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421305401
+        sku: PM70957
+        ean: '6938936709572'
+    color:
+      hex: '#515234'
+  - fid: iano9
+    name: Army Light Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70958_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421207097
+        sku: PM70958
+        ean: '6938936709589'
+    color:
+      hex: '#A78403'
+  - fid: pi1ra
+    name: Army Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70959_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420912185
+        sku: PM70959
+        ean: '6938936709596'
+    color:
+      hex: '#724E3D'
+  - fid: eath8
+    name: Wood Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70976_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421043257
+        sku: PM70976
+        ean: '6938936709763'
+    color:
+      hex: '#AD7441'
+  - fid: ut8oo
+    name: Army Beige
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70980_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420879417
+        sku: PM70980
+        ean: '6938936709800'
+    color:
+      hex: '#CCA897'
+  - fid: uf4oh
+    name: Arctic Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70845_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04012_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422878265
+        sku: PM70845
+        ean: '6938936708452'
+      1.75mm/3000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422452281
+        sku: PA04012
+        ean: '6938936702092'
+    color:
+      hex: '#5AABB1'
+  - fid: ri6ei
+    name: Muted White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594420977721
+        sku: PA04002
+        ean: '6938936713098'
+    color:
+      hex: '#AFA198'
+  - fid: lum9g
+    name: Muted Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421895225
+        sku: PA04004
+        ean: '6938936713111'
+    color:
+      hex: '#4E6A84'
+  - fid: epho2
+    name: Muted Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422026297
+        sku: PA04005
+        ean: '6938936713128'
+    color:
+      hex: '#7C5577'
+  - fid: ooqu3
+    name: Periwinkle
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/9c124be3-bc1f-4d21-ac02-72a827bf25bf.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422353977
+        sku: PA04040
+        ean: '6938936714095'
+  - fid: ohs2i
+    name: Peach
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70863_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70864_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421076025
+        sku: PM70863
+        ean: '6938936708636'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422648889
+        sku: PM70864
+        ean: '6938936708643'
+    color:
+      hex: '#F2B67A'
+  - fid: moo8e
+    name: Banana
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70865_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70866_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421174329
+        sku: PM70865
+        ean: '6938936708650'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422714425
+        sku: PM70866
+        ean: '6938936708667'
+    color:
+      hex: '#F5CF6F'
+  - fid: uje8r
+    name: Candy
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70867_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70868_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422059065
+        sku: PM70867
+        ean: '6938936708674'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594423042105
+        sku: PM70868
+        ean: '6938936708681'
+    color:
+      hex: '#DABCC8'
+  - fid: eit1s
+    name: Mint
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70869_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70870_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421338169
+        sku: PM70869
+        ean: '6938936708698'
+      2.85mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422812729
+        sku: PM70870
+        ean: '6938936708704'
+    color:
+      hex: '#BEC9A5'
+  - fid: ec4oh
+    name: Peanut
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/pm70909_pdt_isometric_top-1.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421010489
+        sku: PM70909
+        ean: '6938936709091'
+    color:
+      hex: '#C29572'
+  - fid: viep2
+    name: Ice
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70910_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594421534777
+        sku: PM70910
+        ean: '6938936709107'
+    color:
+      hex: '#95C5D3'
+  - fid: see7a
+    name: Watermelon
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70943_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-matte?variant=43594422124601
+        sku: PM70943
+        ean: '6938936790433'
+    color:
+      hex: '#E93A3F'
+  - fid: aa5ee
+    name: Marble Brick
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/16d5cfb1-2d01-4b98-879f-e65f4725f7de.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-marble?variant=43612877914169
+        sku: PA04041
+        ean: '6938936714101'
+  - fid: ue3ba
+    name: Marble Sandstone
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/44018ded-2908-4740-bb43-3963afea9203.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-marble?variant=43612877979705
+        sku: PA04042
+        ean: '6938936714118'
+  - fid: diew9
+    name: Marble Limestone
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=800,height=800,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/afbcdae5-5d97-4fc5-9393-79929255cfd0.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-marble?variant=43612877946937
+        sku: PA04043
+        ean: '6938936714125'
+  - fid: cee1u
+    name: Marble White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70941_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-marble?variant=43612877848633
+        sku: PM70941
+        ean: '6938936709411'
+    color:
+      hex: '#CFCCD6'
+  - fid: eedu9
+    name: Marble Slate Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70942_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-marble?variant=43612877881401
+        sku: PM70942
+        ean: '6938936709428'
+    color:
+      hex: '#91C2CC'
+  - fid: aigh2
+    name: Glacier Blue (Ice-Blue)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428350521
+        sku: PA04016
+        ean: '6938936713296'
+  - fid: coh3n
+    name: Flamingo (Pink-Red)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04017_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428383289
+        sku: PA04017
+        ean: '6938936713302'
+  - fid: eesh3
+    name: Chameleon (Teal-Yellow)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04018_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428416057
+        sku: PA04018
+        ean: '6938936713319'
+  - fid: aek0o
+    name: Sunrise (Red-Yellow)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04019_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428448825
+        sku: PA04019
+        ean: '6938936713326'
+  - fid: quai3
+    name: Shadow Orange (Orange-Black)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04021_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428252217
+        sku: PA04021
+        ean: '6938936713340'
+  - fid: jaj1o
+    name: Shadow Red (Black-Red)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04022_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428219449
+        sku: PA04022
+        ean: '6938936713357'
+  - fid: naer1
+    name: Foggy Purple (Grey-Purple)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04023_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428317753
+        sku: PA04023
+        ean: '6938936713364'
+  - fid: phei7
+    name: Foggy Orange (Grey-Orange)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04024_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428284985
+        sku: PA04024
+        ean: '6938936713371'
+  - fid: baid9
+    name: Camouflage (Dark Green-Brown)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04025_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428481593
+        sku: PA04025
+        ean: '6938936713388'
+  - fid: gah6a
+    name: Mixed Berries (Red-Dark Blue)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04026_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428514361
+        sku: PA04026
+        ean: '6938936713395'
+  - fid: deix5
+    name: Pastel Rainbow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04029_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430218297
+        sku: PA04029
+        ean: '6938936713432'
+  - fid: ie5be
+    name: Cappuccino
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04030_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430251065
+        sku: PA04030
+        ean: '6938936713517'
+  - fid: kei7x
+    name: Spring
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04035_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430283833
+        sku: PA04035
+        ean: '6938936713913'
+  - fid: hief5
+    name: Army Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04032_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04032
+        ean: '6938936713838'
+  - fid: ohs7v
+    name: Sky Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=600,height=600,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04044_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04044
+        ean: '6938936700029'
+  - fid: phe2h
+    name: Lotus Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=600,height=600,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04045_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04045
+        ean: '6938936700036'
+  - fid: ohzo8
+    name: Arctic Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70844_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PM70844
+        ean: '6938936708445'
+  - fid: eish4
+    name: Rose
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70905_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70906_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PM70905
+        ean: '6938936709053'
+      2.85mm/1000g:
+        sku: PM70906
+        ean: '6938936709060'
+  - fid: ziw8i
+    name: Earth Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70913_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PM70913
+        ean: '6938936709138'
+  - fid: ahm8l
+    name: Sakura Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70914_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PM70914
+        ean: '6938936709145'
+  - fid: tig8h
+    name: Cotton White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04008_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/3000g:
+        sku: PA04008
+        ean: '6938936702054'
+  - fid: ooh4b
+    name: Army Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04013_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/5000g:
+        sku: PA04013
+        ean: '6938936707578'
+  - fid: ooqu5
+    name: Muted Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04003
+        ean: '6938936713104'
+  - fid: thae6
+    name: Muted Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04006_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04006
+        ean: '6938936713135'
+  - fid: aes7u
+    name: Ice
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70916_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PM70916
+        ean: '6938936709169'
+  - fid: ohp0i
+    name: Peanut
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70915_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PM70915
+        ean: '6938936709152'
+  - fid: bai3o
+    name: Shadow Black (White-Black)
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04020_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04020
+        ean: '6938936713333'
+  - fid: eeng4
+    name: Summer
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04036_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04036
+        ean: '6938936713920'
+  - fid: liub5
+    name: Fall
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04037_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04037
+        ean: '6938936713937'
+  - fid: iobu0
+    name: Winter
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA04038_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA04038
+        ean: '6938936713944'

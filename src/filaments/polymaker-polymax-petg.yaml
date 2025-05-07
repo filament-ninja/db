@@ -1,0 +1,42 @@
+name: Polymaker PolyMax PETG
+material: PETG
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymax-petg/
+variants:
+  - fid: ich7h
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB02001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB02003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-petg?variant=39574348169273
+        sku: PB02001
+        ean: '6938936710530'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-petg?variant=39574348234809
+        sku: PB02003
+        ean: '6938936711759'
+    color:
+      hex: '#101820'
+  - fid: mi5yu
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB02002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PB02004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        link: https://us.polymaker.com/products/polymax-petg?variant=39574348136505
+        sku: PB02002
+        ean: '6938936710547'
+      2.85mm/750g:
+        link: https://us.polymaker.com/products/polymax-petg?variant=39574348267577
+        sku: PB02004
+        ean: '6938936711766'
+    color:
+      hex: '#FFFFFF'

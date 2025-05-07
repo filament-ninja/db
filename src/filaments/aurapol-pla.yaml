@@ -1,0 +1,645 @@
+name: Aurapol PLA
+material: PLA
+vendor: aurapol
+refs:
+  web: https://www.aurapol.com/1kg
+datasheet: https://drive.google.com/file/d/1lMZzndGU3eidKYi9jWhx-IDMQcEBbeH1/view?usp=sharing
+variants:
+  - fid: phoo8
+    name: RECYCLED
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/1/3/133e542875096aab27a830a7fb7269ae-rpla-aurapol-recycled-1-kg.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-recycled-1-kg-1-75-mm
+        sku: PLA606663
+  - fid: iequ8
+    name: Metallic Brick
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/c/9/c9f7e13899c8e8b8242850e236cc8a5c-pla-brick-metallic.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-brick-1-kg-1-75-mm
+        sku: PLA435404
+  - fid: ao5ie
+    name: Black
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/5/9/59e65dada2130be1e7e7b615821d6daf-black-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pla-3d-filament-black-1-kg-1-75-mm-aurapol
+        sku: PLA684807
+  - fid: aid8p
+    name: Natural
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/f/df54ea9f28f88f03c33b50c34cf7456c-natural-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pla-3d-filament-natural-1-kg-1-75-mm-aurapol
+        sku: PLA684821
+  - fid: aim6a
+    name: Grey
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/b/0b3b6a2e6aee16f1e7469dc993989816-gray-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pla-3d-filament-grey-1-kg-1-75-mm-aurapol
+        sku: PLA684777
+  - fid: shah5
+    name: L-EGO red
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/e/6e2d461043a294aef376ed4cbfdf560a-red-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-l-ego-red-1-kg-1-75-mm-aurapol
+        sku: PLA718540
+  - fid: aequ9
+    name: White
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/1/0110807b58a98ed79ad7153e6f564745-white-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pla-3d-filament-white-1-kg-1-75-mm-aurapol
+        sku: PLA684791
+  - fid: aize0
+    name: Yellow Green
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/1/9/1996127b781583914f841c508dad36be-yellow-green-pla-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-yellow-green-1-kg-1-75-mm
+        sku: PLA606687
+  - fid: cohr8
+    name: Raspberry partially transparent
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/3/0391b04da2888f09a5bc8adfa52920cd-aurapol-raspberry-pla-ral3027.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-raspberry-partially-transparent-1-kg-1-75-mm-aurapol
+        sku: PLA684760
+    color:
+      ral: RAL3027
+  - fid: ohbe8
+    name: Honey partially transparent
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/3/d39d397d852165ec075183c76c4bc76c-aurapol-honeycomb-pla-ral1005.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-honey-partially-transparent-1-kg-1-75-mm-aurapol
+        sku: PLA684753
+    color:
+      ral: RAL1005
+  - fid: xae1o
+    name: Dark Gold Powder
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/6/b6d12eaccab1d411fa563474065725cd-pla-gold-dark-powder.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-dark-gold-powder-1-kg-1-75-mm
+        sku: PLA435435
+  - fid: vei2e
+    name: Olive Powder
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/8/a848b1d19060d8270f34b6f98e4e5e85-pla-olive-powder.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-olive-powder-1-kg-1-75-mm
+        sku: PLA435428
+  - fid: goop2
+    name: Pink Powder
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/9/499a6c89d0996154d7c73875129df9cf-pla-pink-powder.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-pink-powder-1-kg-1-75-mm
+        sku: PLA435411
+  - fid: phae4
+    name: Green pearl
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/1/f1204206c35472a509c6bd734124719a-pla-green-pearl-web.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-green-pearl-1-kg-1-75-mm
+        sku: PLA606939
+    color:
+      ral: RAL220
+  - fid: nec5d
+    name: Purple pearl
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/0/20022c8c07ecb301ecaf5fe37cde6ef5-pla-purple-pearl-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-purple-pearl-1-kg-1-75-mm
+        sku: PLA606946
+    color:
+      ral: RAL510
+  - fid: aush7
+    name: YELLOW MARBLE
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/e/d/ed85da989a39a163f89d33a73e69f478-pla-yellow-marble-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-yellow-marble-1-kg-1-75-mm
+        sku: PLA606977
+  - fid: tiev0
+    name: Black-grey
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/5/0/501ba3083cf03f66063482c59fdb6108-pla-black-grey-7021.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-black-grey-1-kg-1-75-mm
+        sku: PLA435442
+    color:
+      ral: RAL7021
+  - fid: hi5ki
+    name: Body color
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/2/224b79ebfae1ff8082bbb07dc076e8f9-bodycolor-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-body-color-1-kg-1-75-mm-aurapol
+        sku: PLA718571
+  - fid: oi4ei
+    name: leaf green
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/e/8/e881ce119c1cb435f004f23a7d7b14f4-leaf-green-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-leaf-green-1-kg-1-75-mm-aurapol
+        sku: PLA718564
+    color:
+      ral: RAL6002
+  - fid: aech7
+    name: Metallic purple
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/9/8/988f58f8b5ca8ab83bb1f06da24dcff2-pla-metallic-purple.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-purple-1-kg-1-75-mm
+        sku: PLA435398
+  - fid: ub2io
+    name: Metallic red
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/4/74c88e44651b2e7c2afed2548bb1f9e6-pla-metallic-red-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-red-1-kg-1-75-mm
+        sku: PLA435381
+  - fid: iewi6
+    name: Galaxy Black
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/f/aff2be5ea743caf5c4d4a5115dd504e0-galaxy-black.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-galaxy-black-1-kg-1-75-mm
+        sku: PLA606885
+  - fid: moac7
+    name: Metallic Turquoise
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/4/d43425c568aaa9a45eadbd4bb8b0e70a-pla-turquiose-metallic-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-turquoise-1-kg-1-75-mm
+        sku: PLA606915
+    color:
+      ral: RAL720
+  - fid: zu9zo
+    name: Metallic blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/0/a09c14f9124d51202b247102be09205a-pla-metallic-blue-web.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-blue-1-kg-1-75-mm
+        sku: PLA606953
+    color:
+      ral: RAL750
+  - fid: fai7e
+    name: Metallic green
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/a/ba9749beb9ba44b6929259923b03431d-pla-metalic-green-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-metallic-green-1-kg-1-75-mm
+        sku: PLA606922
+    color:
+      ral: RAL750
+  - fid: aig8a
+    name: MARBLE
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/5/452b7a97284b0210f952a300fb6cfd4d-pla-marble.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/aurapol-pla-3d-filament-marble-1-kg-1-75-mm
+        sku: PLA606748
+  - fid: shah8
+    name: ARMY Highland GREEN
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/4/b499e456a3e1a5cbbb6f4c3fb911286a-green-highland-military.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-army-highland-green-1-kg-1-75-mm-aurapol
+        sku: PLA606564
+  - fid: ieng1
+    name: L-EGO yellow
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/5/6547587f5015eb6a2e5f46bff958ec64-yellow-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-l-ego-yellow-1-kg-1-75-mm-aurapol
+        sku: PLA718557
+  - fid: ushe8
+    name: Brown L-EGO
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/2/72b705cce9c3a119d2784e70b0688190-brown-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-brown-l-ego-1-kg-1-75-mm-aurapol
+        sku: PLA684845
+  - fid: loh8d
+    name: Green L-EGO
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/c/d/cd908bcd65878097bf6d14e1dd266216-green-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-green-l-ego-1-kg-1-75-mm-aurapol
+        sku: PLA684814
+  - fid: sei7i
+    name: Blue L-EGO
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/9/b9b06a7a4dd329038cc7f7b1e5a1c9b8-blue-l-ego-pla.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-blue-l-ego-1-kg-1-75-mm-aurapol
+        sku: PLA684838
+  - fid: ir8ie
+    name: Bright Orange
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/b/ab920f5ede36b439f34b4a24c52ea191-orange-bright-pla-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-bright-orange-1-kg-1-75-mm
+        sku: PLA606571
+  - fid: zi1ud
+    name: PARK-SIDE
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/3/7/3766fb502302599f27c0b4996970b86d-pla-park-side-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-park-side-1-kg-1-75-mm
+        sku: PLA606717
+  - fid: xiew6
+    name: Silver
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/9/299cb6eaa0eb41200f8c035da6a2eea9-aurapol-silver-pla-ral9023.png
+    sizes:
+      1.75mm/1000g:
+        link: https://www.aurapol.com/p/pla-3d-filament-silver-1-kg-1-75-mm-aurapol
+        sku: PLA684784
+    color:
+      ral: RAL9023
+  - fid: imee3
+    name: Machine Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/f/4f2e36d98bc901e32290662c8a041ee3-aurapol-machine-makita-pla-ral5021.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/pla-3d-filament-machine-blue-1-kg-1-75-mm-aurapol
+        sku: PLA606588
+    color:
+      ral: RAL5021
+  - fid: quo2u
+    name: Wild Sage
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/3/f341c8f87bc5ce523ede38ef69ecca71-pla-wild-sage-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-wild-sage-1-kg-1-75-mm
+        sku: PLA435732
+    color:
+      ral: RAL6021
+  - fid: phee2
+    name: Soft Linen
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/6/2622c6e97417fad09056a25bfd84a51f-pla-soft-linen-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-soft-linen-1-kg-1-75-mm
+        sku: PLA435695
+  - fid: ahd2a
+    name: Sandy Blush
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/c/7c62defaf9867e2b5e80b0bb8a76969d-pla-sand-blush-aurapol-simiu-2.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-sandy-blush-1-kg-1-75-mm
+        sku: PLA435701
+  - fid: aic1a
+    name: Royal Red
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/3/8/38fc88cc9067130ec18b3ab15ea20b29-pla-royal-red-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-royal-red-1-kg-1-75-mm
+        sku: PLA606861
+  - fid: eipa8
+    name: Mustard Field
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/5/455d72b4476ce760f9419681ba37c9ef-pla-mustard-field-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-mustard-field-1-kg-1-75-mm
+        sku: PLA435718
+  - fid: ro0au
+    name: Light Blush
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/9/0941e76df5b94e452158f20950efd512-pla-light-blush-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-light-blush-1-kg-1-75-mm
+        sku: PLA435671
+  - fid: eef1w
+    name: Caramel Champagne
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/8/a84335f19f8ea3ac84464dfb49d532e7-pla-caramel-champagne-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-caramel-champagne-1-kg-1-75-mm
+        sku: PLA435688
+  - fid: xo4lu
+    name: Nordic Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/2/b21cdda29af17ecf4e4a2544f5533b46-pla-nordic-blue-aurapol-simiu.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-nordic-blue-1-kg-1-75-mm
+        sku: PLA435725
+  - fid: took8
+    name: CYBER BALLERINA
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/2/8/28a34ccbd15ff3e6eec993b959474a44-cyber-ballerina-pla-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-cyber-ballerina-1-kg-1-75-mm
+        sku: PLA435657
+  - fid: eelo3
+    name: CRAZY MAUVE
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/e/fe6a789e39875e14ef509e85ebe84aa8-crazy-mauve-pla-aurapol.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-crazy-mauve-1-kg-1-75-mm
+        sku: PLA435664
+  - fid: kao2o
+    name: LILAC LILY
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/b/0/b0bf99c35f48f847eda58a486480fdad-pla-aurapol-lilac-lily.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-lilac-lily-1-kg-1-75-mm
+        sku: PLA435534
+  - fid: aem1h
+    name: WISTERIA WINDS
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/5/4/549dce0c6f86bdec26de3936069f2c3e-pla-aurapol-wisteria-winds.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-wisteria-winds-1-kg-1-75-mm
+        sku: PLA435589
+  - fid: hu8ie
+    name: SUMMER SKY
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/f/a/fa3443960517e94937efc4867591a6b2-pla-aurapol-summer-sky.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-summer-sky-1-kg-1-75-mm
+        sku: PLA435572
+  - fid: wike7
+    name: PICK YOUR POISON
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/4/74b93166d4c73e255e62a6c449944e68-pla-aurapol-pick-your-poison.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-pick-your-poison-1-kg-1-75-mm
+        sku: PLA435565
+  - fid: eeh1c
+    name: MYSTIC CLEAR UV
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/4/8/48b7e798e2f46a42036e5a8354b5de1e-pla-aurapol-mystic-clear-uv.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-mystic-clear-uv-1-kg-1-75-mm
+        sku: PLA435558
+  - fid: uo9wu
+    name: MANGO TANGO
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/a/aacffe4e2d9c7616cab15c5ae91dd80e-pla-aurapol-mango-tango.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-mango-tango-1-kg-1-75-mm
+        sku: PLA435541
+  - fid: piew4
+    name: GRANDMA GRAY
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/8/c/8cc10defcbf56fcf21e6b7183365c71c-pla-aurapol-grandma-gray.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-grandma-gray-1-kg-1-75-mm
+        sku: PLA435527
+  - fid: foh1u
+    name: BONDI BEACH
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/0/3/036e94588eaf6b8f1792c9690a584263-pla-aurapol-bondi-beach.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-bondi-beach-1-kg-1-75-mm
+        sku: PLA435510
+  - fid: eiz9u
+    name: L-EGO Sour Mustard
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/a/7a462e3d7642d612830ab36780fac0f4-pla-aurapol-sour-mustard-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-sour-mustard-1-kg-1-75-mm
+        sku: PLA435480
+  - fid: toh3o
+    name: L-EGO Nude Color
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/9/d/9d9d4fa7d073bec2d280ee631dc61242-pla-aurapol-nude-color-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-nude-color-1-kg-1-75-mm
+        sku: PLA435503
+  - fid: rieg1
+    name: L-EGO Mild Moss
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/5/3/534356e31956d5ae16bbd2845b2dd195-pla-aurapol-mild-moss-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-mild-moss-1-kg-1-75-mm
+        sku: PLA435473
+  - fid: aesh6
+    name: L-EGO Desert Dune
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/3/736c928b32d02b21b601bc2db27754e0-pla-aurapol-desert-dune-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-desert-dune-1-kg-1-75-mm
+        sku: PLA435459
+  - fid: ee0ae
+    name: L-EGO Cloud Nine
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/d/1/d141608ae37e7a8cb0853c4d38531843-pla-aurapol-cloud-nine-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-cloud-nine-1-kg-1-75-mm
+        sku: PLA435497
+  - fid: cha3i
+    name: L-EGO Baby Blue
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/6/a/6a008f0b2baf80a9c9eaf1ae5bcd7f1c-pla-aurapol-baby-blue-lego.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-l-ego-baby-blue-1-kg-1-75-mm
+        sku: PLA435466
+  - fid: ke6oa
+    name: WOOD PINE
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/7/4/7485eb76bc2335c5cab2f8da0041b45d-pla-wood.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-wood-pine-850-g-1-75-mm
+        sku: PLA435763
+  - fid: too8u
+    name: WOOD CORK
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/a/d/adca92246dfc02aa10ee8005ce6498e4-pla-cork.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-wood-cork-850-g-1-75-mm
+        sku: PLA435756
+  - fid: eiv4a
+    name: WOOD BAMBOO
+    images:
+      - url: >-
+          https://aurapol.s16.cdn-upgates.com/_cache/9/3/93cb8bf3003ccd3cbec3035cf99e40b3-pla-bamboo.png
+    sizes:
+      1.75mm/850g:
+        link: >-
+          https://www.aurapol.com/p/aurapol-pla-3d-filament-wood-bamboo-850-g-1-75-mm
+        sku: PLA435749

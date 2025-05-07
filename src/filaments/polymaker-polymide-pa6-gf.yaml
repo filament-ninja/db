@@ -1,0 +1,34 @@
+name: Polymaker PolyMide PA6-GF
+material: PA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymide-pa6-gf/
+variants:
+  - fid: tuf9l
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG02001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG02002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG02003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG02004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/500g:
+        link: >-
+          https://us.polymaker.com/products/fiberon-pa6-gf25?variant=43613026680889
+        sku: PG02001
+        ean: '6938936711575'
+      2.85mm/500g:
+        sku: PG02002
+        ean: '6938936711582'
+      1.75mm/2000g:
+        link: >-
+          https://us.polymaker.com/products/fiberon-pa6-gf25?variant=43613026713657
+        sku: PG02003
+        ean: '6938936712824'
+      2.85mm/2000g:
+        sku: PG02004
+        ean: '6938936712831'

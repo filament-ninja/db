@@ -1,0 +1,1356 @@
+name: Polymaker PolyLite PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-pla/
+variants:
+  - fid: ceov0
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02016_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02037_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02039_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70896_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818025812025
+        sku: PA02001
+        ean: '6938936709664'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027057209
+        sku: PA02016
+        ean: '6938936711025'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026827833
+        sku: PA02037
+        ean: '6938936712473'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027417657
+        sku: PA02039
+        ean: '6938936712497'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026991673
+        sku: PM70896
+        ean: '6938936708964'
+    color:
+      hex: '#080A0D'
+  - fid: mahd3
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02017_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02036_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02038_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PM70985_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818025877561
+        sku: PA02002
+        ean: '6938936709671'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027089977
+        sku: PA02017
+        ean: '6938936711032'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026860601
+        sku: PA02036
+        ean: '6938936712466'
+      2.85mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027450425
+        sku: PA02038
+        ean: '6938936712480'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027024441
+        sku: PM70985
+        ean: '6938936712923'
+    color:
+      hex: '#E2DEDB'
+  - fid: ohvi2
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02018_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02035_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02080_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818025975865
+        sku: PA02003
+        ean: '6938936709688'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027122745
+        sku: PA02018
+        ean: '6938936711049'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026893369
+        sku: PA02035
+        ean: '6938936712459'
+      1.75mm/5000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=44327073022009
+        sku: PA02080
+        ean: '6938936709183'
+    color:
+      hex: '#8C9099'
+  - fid: axae0
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02004_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02019_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02066_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026139705
+        sku: PA02004
+        ean: '6938936709695'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027188281
+        sku: PA02019
+        ean: '6938936711056'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026926137
+        sku: PA02066
+        ean: '6938936707295'
+    color:
+      hex: '#E72F1D'
+  - fid: yooc0
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02005_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02020_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02067_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026663993
+        sku: PA02005
+        ean: '6938936709701'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027384889
+        sku: PA02020
+        ean: '6938936711063'
+      1.75mm/3000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026958905
+        sku: PA02067
+        ean: '6938936707301'
+    color:
+      hex: '#003776'
+  - fid: aiw4r
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02006_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02021_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026500153
+        sku: PA02006
+        ean: '6938936709718'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027319353
+        sku: PA02021
+        ean: '6938936711070'
+    color:
+      hex: '#06924D'
+  - fid: quow6
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02007_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02022_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026303545
+        sku: PA02007
+        ean: '6938936709725'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027253817
+        sku: PA02022
+        ean: '6938936711087'
+    color:
+      hex: '#F3B400'
+  - fid: ao3aa
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02008_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02023_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026205241
+        sku: PA02008
+        ean: '6938936709732'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027221049
+        sku: PA02023
+        ean: '6938936711094'
+    color:
+      hex: '#F67405'
+  - fid: tie6i
+    name: Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02009_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02024_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026008633
+        sku: PA02009
+        ean: '6938936709749'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027155513
+        sku: PA02024
+        ean: '6938936711100'
+    color:
+      hex: '#6C47B2'
+  - fid: eith5
+    name: Polymaker Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02010_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02025_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026532921
+        sku: PA02010
+        ean: '6938936709756'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027352121
+        sku: PA02025
+        ean: '6938936711117'
+    color:
+      hex: '#4CC0C7'
+  - fid: ol9ee
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02011_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02026_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026369081
+        sku: PA02011
+        ean: '6938936709794'
+      2.85mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818027286585
+        sku: PA02026
+        ean: '6938936711445'
+    color:
+      hex: '#E8E6D0'
+  - fid: ohii6
+    name: Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02052_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026172473
+        sku: PA02052
+        ean: '6938936706939'
+    color:
+      hex: '#55331A'
+  - fid: teem0
+    name: Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02053_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026074169
+        sku: PA02053
+        ean: '6938936706946'
+    color:
+      hex: '#EE9BB5'
+  - fid: zoom2
+    name: Magenta
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02054_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026041401
+        sku: PA02054
+        ean: '6938936706953'
+    color:
+      hex: '#F2306E'
+  - fid: mee8b
+    name: Beige
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02055_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026270777
+        sku: PA02055
+        ean: '6938936706960'
+    color:
+      hex: '#C6AD74'
+  - fid: ieth6
+    name: Cream
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02056_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026238009
+        sku: PA02056
+        ean: '6938936706977'
+    color:
+      hex: '#E5C8A2'
+  - fid: aif4o
+    name: Wine Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02057_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026106937
+        sku: PA02057
+        ean: '6938936706984'
+    color:
+      hex: '#E0191E'
+  - fid: er8oo
+    name: Olive Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02058_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026401849
+        sku: PA02058
+        ean: '6938936706991'
+    color:
+      hex: '#857C00'
+  - fid: eib3x
+    name: Jungle Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02059_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026467385
+        sku: PA02059
+        ean: '6938936707011'
+    color:
+      hex: '#446B20'
+  - fid: ohn3i
+    name: Lime Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02060_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026434617
+        sku: PA02060
+        ean: '6938936707028'
+    color:
+      hex: '#DEDE00'
+  - fid: aiz3a
+    name: Lemon Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02061_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026336313
+        sku: PA02061
+        ean: '6938936707066'
+    color:
+      hex: '#F1D335'
+  - fid: dou7n
+    name: Stone Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02062_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026598457
+        sku: PA02062
+        ean: '6938936707073'
+    color:
+      hex: '#40719A'
+  - fid: eeh8a
+    name: Aqua Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02063_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026565689
+        sku: PA02063
+        ean: '6938936707080'
+    color:
+      hex: '#39B9DB'
+  - fid: iroo4
+    name: Azure Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02064_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026631225
+        sku: PA02064
+        ean: '6938936707097'
+    color:
+      hex: '#0066D9'
+  - fid: ieju2
+    name: Steel Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02065_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818025943097
+        sku: PA02065
+        ean: '6938936707103'
+    color:
+      hex: '#616469'
+  - fid: ahr7a
+    name: Olive Brown
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02094_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026729529
+        sku: PA02094
+        ean: '6938936713685'
+  - fid: aeve9
+    name: Dark Gray Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02095_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026762297
+        sku: PA02095
+        ean: '6938936713692'
+  - fid: kuo2y
+    name: Cold White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02096_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818025910329
+        sku: PA02096
+        ean: '6938936714132'
+  - fid: ti3oo
+    name: Dark Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02098_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=44327067451449
+        sku: PA02098
+        ean: '6938936714026'
+    color:
+      hex: '#6E8393'
+  - fid: yuu2h
+    name: Silk Gold
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091378233
+        sku: PA03001
+        ean: '6938936709817'
+    color:
+      hex: '#B56600'
+  - fid: ea8qu
+    name: Silk Silver
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091640377
+        sku: PA03002
+        ean: '6938936709824'
+    color:
+      hex: '#818C9F'
+  - fid: gei5e
+    name: Silk Magenta
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091083321
+        sku: PA03004
+        ean: '6938936709848'
+    color:
+      hex: '#990050'
+  - fid: ahke9
+    name: Silk Lime
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03006_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091443769
+        sku: PA03006
+        ean: '6938936709862'
+    color:
+      hex: '#91C500'
+  - fid: quie5
+    name: Silk Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03007_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091050553
+        sku: PA03007
+        ean: '6938936709879'
+    color:
+      hex: '#150074'
+  - fid: gi8oo
+    name: Chrome
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03009_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091607609
+        sku: PA03009
+        ean: '6938936711018'
+    color:
+      hex: '#384657'
+  - fid: bom8u
+    name: Silk White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03010_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091345465
+        sku: PA03010
+        ean: '6938936707110'
+    color:
+      hex: '#D9D8D7'
+  - fid: iof5o
+    name: Silk Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03011_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091476537
+        sku: PA03011
+        ean: '6938936707127'
+    color:
+      hex: '#008C63'
+  - fid: chu5a
+    name: Silk Rose
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03012_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091116089
+        sku: PA03012
+        ean: '6938936707134'
+    color:
+      hex: '#C5000A'
+  - fid: ye1hi
+    name: Silk Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091214393
+        sku: PA03014
+        ean: '6938936707486'
+    color:
+      hex: '#E8A498'
+  - fid: wae0d
+    name: Silk Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03015_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091312697
+        sku: PA03015
+        ean: '6938936707493'
+    color:
+      hex: '#F14700'
+  - fid: ael0o
+    name: Silk Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03016_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091411001
+        sku: PA03016
+        ean: '6938936707561'
+    color:
+      hex: '#E9C200'
+  - fid: ohra0
+    name: Silk Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03017_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091017785
+        sku: PA03017
+        ean: '6938936707653'
+    color:
+      hex: '#000203'
+  - fid: zooy2
+    name: Silk Teal
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03018_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091509305
+        sku: PA03018
+        ean: '6938936707660'
+    color:
+      hex: '#009FA8'
+  - fid: ui4ae
+    name: Silk Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03019_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091148857
+        sku: PA03019
+        ean: '6938936707677'
+    color:
+      hex: '#CB0100'
+  - fid: aw2ah
+    name: Silk Light Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03021_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091542073
+        sku: PA03021
+        ean: '6938936707691'
+    color:
+      hex: '#00A0B7'
+  - fid: xem7l
+    name: Silk Brass
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03031_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091673145
+        sku: PA03031
+        ean: '6938936709114'
+  - fid: buth2
+    name: Silk Peridote Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03032_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091705913
+        sku: PA03032
+        ean: '6938936709121'
+  - fid: vah1e
+    name: Silk Dark Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03034_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091771449
+        sku: PA03034
+        ean: '6938936713876'
+  - fid: luh8h
+    name: Silk Periwinkle
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03035_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091738681
+        sku: PA03035
+        ean: '6938936713890'
+  - fid: aht0j
+    name: Silk Gunmetal Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03036_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-silk?variant=43595091804217
+        sku: PA03036
+        ean: '6938936713906'
+    color:
+      hex: '#676B6A'
+  - fid: ies3v
+    name: Galaxy Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02013_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-galaxy?variant=43613183475769
+        sku: PA02013
+        ean: '6938936709909'
+    color:
+      hex: '#020203'
+  - fid: ael3o
+    name: Galaxy Dark Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02014_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-galaxy?variant=43613183508537
+        sku: PA02014
+        ean: '6938936709916'
+    color:
+      hex: '#090C23'
+  - fid: diw2i
+    name: Galaxy Dark Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02015_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-galaxy?variant=43613183541305
+        sku: PA02015
+        ean: '6938936709923'
+    color:
+      hex: '#5E2D22'
+  - fid: cho1o
+    name: Galaxy Dark Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02097_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-galaxy?variant=43613183574073
+        sku: PA02097
+        ean: '6938936714149'
+  - fid: tha7p
+    name: Galaxy Dark Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02099_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-galaxy?variant=43613183606841
+        sku: PA02099
+        ean: '6938936714156'
+  - fid: shui0
+    name: Starlight Mercury
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02081_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094163513
+        sku: PA02081
+        ean: '6938936709350'
+  - fid: koo4g
+    name: Starlight Nebula
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02084_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094360121
+        sku: PA02084
+        ean: '6938936713579'
+  - fid: uim6u
+    name: Starlight Comet
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02085_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094261817
+        sku: PA02085
+        ean: '6938936713586'
+  - fid: cie4o
+    name: Starlight Meteor
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02086_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094294585
+        sku: PA02086
+        ean: '6938936713593'
+  - fid: jo3di
+    name: Starlight Aurora
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02087_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094327353
+        sku: PA02087
+        ean: '6938936713609'
+  - fid: jae2u
+    name: Starlight Twilight
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02088_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-starlight?variant=43595094392889
+        sku: PA02088
+        ean: '6938936713616'
+  - fid: eil5j
+    name: Glow In The Dark Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02012_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-glow?variant=43595083350073
+        sku: PA02012
+        ean: '6938936709893'
+  - fid: xoo0b
+    name: Glow Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02077_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-glow?variant=43595083382841
+        sku: PA02077
+        ean: '6938936707639'
+  - fid: ieph3
+    name: Aubergine Silk Lime-Magenta
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03022_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080663097
+        sku: PA03022
+        ean: '6938936707707'
+  - fid: ohsa6
+    name: Banquet Silk Gold-Magenta
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03023_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080892473
+        sku: PA03023
+        ean: '6938936707714'
+  - fid: ahth8
+    name: Beluga Silk Silver-Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03024_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080728633
+        sku: PA03024
+        ean: '6938936707721'
+  - fid: ooba6
+    name: Caribbean Sea Silk Blue-Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03025_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080794169
+        sku: PA03025
+        ean: '6938936707738'
+  - fid: ifi8g
+    name: Chameleon Silk Yellow-Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03026_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080761401
+        sku: PA03026
+        ean: '6938936707745'
+  - fid: moo3k
+    name: Crown Silk Gold-Silver
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03027_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080826937
+        sku: PA03027
+        ean: '6938936707752'
+  - fid: aith2
+    name: Jadeite Silk Green-Chrome
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03028_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080925241
+        sku: PA03028
+        ean: '6938936707769'
+  - fid: ail3o
+    name: Sovereign Silk Gold-Purple
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03029_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080859705
+        sku: PA03029
+        ean: '6938936707776'
+  - fid: pa0ai
+    name: Sunset Silk Gold-Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03030_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-dual-silk?variant=43595080958009
+        sku: PA03030
+        ean: '6938936707783'
+  - fid: ag7iw
+    name: Luminous Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02089_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084365881
+        sku: PA02089
+        ean: '6938936713623'
+  - fid: ohb5a
+    name: Luminous Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02090_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084300345
+        sku: PA02090
+        ean: '6938936713630'
+  - fid: eich5
+    name: Luminous Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02091_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084333113
+        sku: PA02091
+        ean: '6938936713647'
+  - fid: ohl1e
+    name: Luminous Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02092_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084267577
+        sku: PA02092
+        ean: '6938936713654'
+  - fid: uoz5d
+    name: Luminous Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02093_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084398649
+        sku: PA02093
+        ean: '6938936713661'
+  - fid: aik4i
+    name: Luminous Rainbow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA09001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-luminous?variant=43595084234809
+        sku: PA09001
+        ean: '6938936713678'
+  - fid: foth7
+    name: Dark Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02075_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: https://us.polymaker.com/products/polylite-pla?variant=43818026696761
+        sku: PA02075
+        ean: '6938936707615'
+    color:
+      hex: '#041B3D'
+  - fid: ud6ue
+    name: Temperature Color Change Green/Lime
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02070_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-temp-shift?variant=43595089313849
+        sku: PA02070
+        ean: '6938936707455'
+  - fid: saec3
+    name: Temperature Color Change Purple/Pink/Translucent
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02071_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-temp-shift?variant=43595089346617
+        sku: PA02071
+        ean: '6938936707462'
+  - fid: eew7i
+    name: UV Color Change Natural/Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02072_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/panchroma-uv-shift?variant=43595090395193
+        sku: PA02072
+        ean: '6938936707479'
+  - fid: iec1i
+    name: Lulzbot Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02029_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02031_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02044_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02029
+        ean: '6938936711476'
+      2.85mm/1000g:
+        sku: PA02031
+        ean: '6938936711490'
+      2.85mm/3000g:
+        sku: PA02044
+        ean: '6938936712541'
+  - fid: ahj5o
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02049_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/3000g:
+        sku: PA02049
+        ean: '6938936702207'
+  - fid: yeev1
+    name: Sky Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02050_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02051_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/3000g:
+        sku: PA02050
+        ean: '6938936706861'
+      1.75mm/5000g:
+        sku: PA02051
+        ean: '6938936706878'
+  - fid: cho7i
+    name: Grey
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02040_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02040
+        ean: '6938936712503'
+  - fid: fohb3
+    name: Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02041_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02041
+        ean: '6938936712510'
+  - fid: soo7v
+    name: Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02042_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02042
+        ean: '6938936712527'
+  - fid: av0fu
+    name: Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02043_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02043
+        ean: '6938936712534'
+  - fid: ohqu5
+    name: Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02073_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02073
+        ean: '6938936707585'
+  - fid: rahk4
+    name: Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02074_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/3000g:
+        sku: PA02074
+        ean: '6938936707592'
+  - fid: nae7o
+    name: Silk Bronze
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA03003
+        ean: '6938936709831'
+  - fid: quie4
+    name: Silk Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA03005
+        ean: '6938936709855'
+  - fid: ahj0k
+    name: Silk Rose Gold
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA03020_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA03020
+        ean: '6938936707684'
+  - fid: oof3e
+    name: Starlight Jupiter
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02082_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02082
+        ean: '6938936709367'
+  - fid: xaij3
+    name: Starlight Neptune
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02083_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02083
+        ean: '6938936709374'
+  - fid: uama3
+    name: Dark Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02076_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02076
+        ean: '6938936707622'
+  - fid: joy9g
+    name: Sparkle Dark Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02027_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02027
+        ean: '6938936711452'
+  - fid: hoo4r
+    name: Sparkle Dark Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02028_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02028
+        ean: '6938936711469'
+  - fid: chie6
+    name: Translucent Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02030_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PA02030
+        ean: '6938936711483'
+  - fid: nie8e
+    name: Translucent Blue
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02032_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PA02032
+        ean: '6938936711506'
+  - fid: ohzo4
+    name: Translucent Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02033_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PA02033
+        ean: '6938936711513'
+  - fid: ala0r
+    name: Translucent Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02034_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/1000g:
+        sku: PA02034
+        ean: '6938936711483'
+  - fid: fie9i
+    name: Neon Pink
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02100_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02100
+        ean: '6938936714163'
+  - fid: owoh4
+    name: Neon Green
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02101_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02101
+        ean: '6938936714170'
+  - fid: fi9xu
+    name: Neon Yellow
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02102_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02102
+        ean: '6938936714187'
+  - fid: phol4
+    name: Neon Orange
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02103_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02103
+        ean: '6938936714194'
+  - fid: mai3a
+    name: Neon Magenta
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02104_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02104
+        ean: '6938936714200'
+  - fid: xae9e
+    name: Neon Red
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA02105_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PA02105
+        ean: '6938936714217'

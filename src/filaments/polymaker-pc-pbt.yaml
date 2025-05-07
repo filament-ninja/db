@@ -1,0 +1,38 @@
+name: Polymaker PC-PBT
+material: PC
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymaker-pc-pbt/
+variants:
+  - fid: shae5
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC05001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC05003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polymaker-pc-pbt?variant=39574346956857
+        sku: PC05001
+        ean: '6938936710912'
+      2.85mm/1000g:
+        sku: PC05003
+        ean: '6938936712114'
+    color:
+      hex: '#101820'
+  - fid: kaej0
+    name: Natural
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC05002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC05004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PC05002
+        ean: '6938936710929'
+      2.85mm/1000g:
+        sku: PC05004
+        ean: '6938936712121'

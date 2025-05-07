@@ -1,0 +1,19 @@
+name: Polymaker PolyLite PLA-CF
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polylite-pla-cf/
+variants:
+  - fid: chul0
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA10001_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        link: >-
+          https://us.polymaker.com/products/polylite-pla-cf?variant=39637755134009
+        sku: PA10001
+        ean: '6938936710264'
+    color:
+      hex: '#000000'

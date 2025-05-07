@@ -1,0 +1,22 @@
+name: Polymaker PolySupport
+material: ''
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polysupport/
+variants:
+  - fid: ka4ai
+    name: Pearl White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD04001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PD04002_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/750g:
+        sku: PD04001
+        ean: '6938936710882'
+      2.85mm/750g:
+        link: >-
+          https://us.polymaker.com/products/polysupport-for-pla?variant=43594771497017
+        sku: PD04002
+        ean: '6938936711940'

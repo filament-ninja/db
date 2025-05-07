@@ -5,6 +5,7 @@ diameterTolerance: 0.02
 printParams:
   nozzleTemp: 245-255
   bedTemp: 85-95
+datasheet: https://drive.google.com/file/d/1eYryaiw7-c5AxGmrCDw6SFeDG9_S2wsp/view?usp=sharing
 
 variants:
 

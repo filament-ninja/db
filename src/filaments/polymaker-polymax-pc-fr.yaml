@@ -1,0 +1,34 @@
+name: Polymaker PolyLite PC
+material: PC
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymax-pc-fr/
+variants:
+  - fid: oosh2
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC03001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC03003_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PC03001
+        ean: '6938936710578'
+      2.85mm/1000g:
+        sku: PC03003
+        ean: '6938936712138'
+  - fid: vah8p
+    name: White
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC03002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PC03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/1000g:
+        sku: PC03002
+        ean: '6938936710585'
+      2.85mm/1000g:
+        sku: PC03004
+        ean: '6938936712145'

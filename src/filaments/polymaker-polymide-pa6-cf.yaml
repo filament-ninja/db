@@ -1,0 +1,30 @@
+name: Polymaker PolyMide PA6-CF
+material: PA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polymide-pa6-cf/
+variants:
+  - fid: ni1ai
+    name: Black
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG03001_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG03002_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG03003_PDT_Isometric_Top.png
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PG03004_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/500g:
+        sku: PG03001
+        ean: '6938936711551'
+      2.85mm/500g:
+        sku: PG03002
+        ean: '6938936711568'
+      1.75mm/2000g:
+        sku: PG03003
+        ean: '6938936712800'
+      2.85mm/2000g:
+        sku: PG03004
+        ean: '6938936712817'

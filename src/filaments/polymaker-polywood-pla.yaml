@@ -1,0 +1,27 @@
+name: Polymaker PolyWood PLA
+material: PLA
+vendor: polymaker
+refs:
+  web: https://polymaker.com/product/polywood/
+variants:
+  - fid: va8su
+    name: Wood
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08005_PDT_Isometric_Top.png
+    sizes:
+      1.75mm/600g:
+        link: https://us.polymaker.com/products/polywood?variant=39574352560185
+        sku: PA08005
+        ean: '6938936710875'
+    color:
+      hex: '#D2A273'
+  - fid: ooy9g
+    name: Wood
+    images:
+      - url: >-
+          https://polymaker.com/cdn-cgi/image/width=300,height=300,fit=crop,quality=70,format=auto,onerror=redirect,metadata=none/wp-content/uploads/PA08006_PDT_Isometric_Top.png
+    sizes:
+      2.85mm/600g:
+        sku: PA08006
+        ean: '6938936711933'
